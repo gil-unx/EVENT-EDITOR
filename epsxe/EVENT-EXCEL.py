@@ -236,11 +236,13 @@ class Event:
                 s.append(val)
 
             try:
-                newCode = repackCode(s)
-                files.write(newCode)
-                if (s[1] == "END") or (s[1] == "-1"):
+                if s[1] == "END":
+                    files.write(b"\xff\x00\x00\x00\x00")
                     break
-
+                else:
+                	newCode = repackCode(s)
+                	files.write(newCode)
+                
 
             except:
                 print(s[1])
