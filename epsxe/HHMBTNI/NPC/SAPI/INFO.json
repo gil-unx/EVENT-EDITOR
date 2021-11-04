@@ -655,7 +655,7 @@
             ]
         ],
         "MAX_HEIGHT": 64,
-        "MAX_WIDTH": 56,
+        "MAX_WIDTH": 14,
         "SLOT": 2
     }
 }
