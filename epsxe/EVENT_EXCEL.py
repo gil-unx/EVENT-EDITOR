@@ -1,7 +1,12 @@
+import gzip
 import json
+
 import openpyxl
 from PIL import Image
+
 from TEXTEDITOR import *
+
+
 def repackCode(s):
     comand = s[1]
     try:
@@ -171,7 +176,7 @@ class Event:
             datPng = texture.getpng(palet)
             fileSave(datPng, "HHMBTNI/EVENT_BASE/NPC_SPRITE{0}.png".format(i + 1))
 
-    def insert(self, slotNpc, sheet,vXpos,vYpos,palXpos,palYpos):
+    def insert(self, slotNpc, sheet, vXpos, vYpos, palXpos, palYpos):
         # <header>
         newEv = Br(io.BytesIO())
         newEv.write(b"\x80\x81")
@@ -199,11 +204,11 @@ class Event:
                     if (vYpos + h) > 500:
                         vXpos += js[npcName]["MAX_WIDTH"]
                         vYpos = 256
-                    js[npcName]["RAM_INFO"][i] = vXpos, vYpos , w, h
+                    js[npcName]["RAM_INFO"][i] = vXpos, vYpos, w, h
                     tile = Br(open(jsName + "/BINARY/{0:04d}.bin".format(i), "r+b"))
                     tile.read(4)
                     tile.write(
-                        struct.pack("<hhhh", vXpos , vYpos , w, h))
+                        struct.pack("<hhhh", vXpos, vYpos, w, h))
                     tiles.write(tile.getdata())
                     tiles.wpad(4)
                     vYpos += h
@@ -215,12 +220,12 @@ class Event:
                     tile.write(struct.pack("<hhhh", palXpos, palYpos, w, h))
                     tiles.write(tile.getdata())
                     tiles.wpad(4)
-                    palYpos-=1
+                    palYpos -= 1
                 totalSpr += 1
             filesOffset.append(files.tell())
             files.write(Encode(js, npcName))
             indexNpc += js[npcName]["SLOT"]
-            vXpos+=js[npcName]["MAX_WIDTH"]
+            vXpos += js[npcName]["MAX_WIDTH"]
             vYpos = 256
 
         filesOffset.append(files.tell())
@@ -236,13 +241,11 @@ class Event:
                 s.append(val)
 
             try:
-                if s[1] == "END":
-                    files.write(b"\xff\x00\x00\x00\x00")
+                newCode = repackCode(s)
+                files.write(newCode)
+                if (s[1] == "END") or (s[1] == "-1"):
                     break
-                else:
-                	newCode = repackCode(s)
-                	files.write(newCode)
-                
+
 
             except:
                 print(s[1])
@@ -258,7 +261,8 @@ class Event:
 
         return newEv.getdata()
 
-def Main(npc,vX,vY,pX,pY):
+
+def Main(npc, vX, vY, pX, pY):
     filename = "HHMBTNI/EVENT_BASE/COMMAND.xlsx"
     npcs = []
     wb = openpyxl.load_workbook(filename, data_only=True)
@@ -273,7 +277,7 @@ def Main(npc,vX,vY,pX,pY):
     data = open("HHMBTNI/EVENT_BASE.bin", "rb").read()
     print("REPACK EVENT...")
     ev = Event(data)
-    buffEvent = ev.insert(npcs, sheet, vX,vY,pX,pY)
+    buffEvent = ev.insert(npcs, sheet, vX, vY, pX, pY)
     newEvent = io.BytesIO(buffEvent)
     eventSize = len(buffEvent)
     if eventSize > 0x32000:
@@ -294,6 +298,5 @@ def Main(npc,vX,vY,pX,pY):
 
 
 if __name__ == "__main__":
-    Main( 4, 320,256,384,159)
-    #Main(20,-64,256,-64,511)
+    Main( 4, 320,256,384,159)#NORMAL
 
