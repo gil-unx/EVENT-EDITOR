@@ -1,12 +1,7 @@
 import json
-
 import openpyxl
 from PIL import Image
-
 from TEXTEDITOR import *
-from mapdict import *
-
-
 def repackCode(s):
     comand = s[1]
     try:
@@ -176,7 +171,7 @@ class Event:
             datPng = texture.getpng(palet)
             fileSave(datPng, "HHMBTNI/EVENT_BASE/NPC_SPRITE{0}.png".format(i + 1))
 
-    def insert(self, slotNpc, sheet):
+    def insert(self, slotNpc, sheet,vXpos,vYpos,palXpos,palYpos):
         # <header>
         newEv = Br(io.BytesIO())
         newEv.write(b"\x80\x81")
@@ -190,50 +185,43 @@ class Event:
         newEv.writeUint16(0x4000)
         newEv.wpad(0x34)
         # <init>
-        npcBasePos = [[320, 256], [320, 384], [384, 256], [384, 384], ]
-        virPalpos = 155
-        maxHeight = []
-        k = 0
-        totalSpr = 0
-        palAdd = 0
         tiles = Br(io.BytesIO())
-
-        # ----
         indexNpc = 0
-
+        totalSpr = 0
         for jsName in slotNpc:
             npcName = jsName[12:]
-            vXpos = 0
-            vYpos = 0
+
             js = json.loads(open(jsName + "/INFO.json", "r").read())
             for i in range(len(js[npcName]["RAM_INFO"])):
                 x, y, w, h = js[npcName]["RAM_INFO"][i]
                 if js[npcName]["RAM_INFO"][i][3] != 1:
                     spr = Image.open(jsName + "/SPRITE/{0:04d}.png".format(i))
-                    if (vXpos + w) > 64:
-                        vYpos += js[npcName]["MAX_HEIGHT"]
-                        vXpos = 0
-                    js[npcName]["RAM_INFO"][i] = vXpos + npcBasePos[indexNpc][0], vYpos + npcBasePos[indexNpc][1], w, h
+                    if (vYpos + h) > 500:
+                        vXpos += js[npcName]["MAX_WIDTH"]
+                        vYpos = 256
+                    js[npcName]["RAM_INFO"][i] = vXpos, vYpos , w, h
                     tile = Br(open(jsName + "/BINARY/{0:04d}.bin".format(i), "r+b"))
                     tile.read(4)
                     tile.write(
-                        struct.pack("<HHHH", vXpos + npcBasePos[indexNpc][0], vYpos + npcBasePos[indexNpc][1], w, h))
+                        struct.pack("<hhhh", vXpos , vYpos , w, h))
                     tiles.write(tile.getdata())
                     tiles.wpad(4)
-                    vXpos += w
+                    vYpos += h
                 else:
-                    js[npcName]["RAM_INFO"][i] = x, y + palAdd, w, h
+                    js[npcName]["RAM_INFO"][i] = palXpos, palYpos, w, h
                     tile = Br(open(jsName + "/BINARY/{0:04d}.bin".format(i), "r+b"))
                     tile.read(2)
                     tile.write(b"\x00\x04")
-                    tile.write(struct.pack("<HHHH", x, y + palAdd, w, h))
+                    tile.write(struct.pack("<hhhh", palXpos, palYpos, w, h))
                     tiles.write(tile.getdata())
                     tiles.wpad(4)
-                    palAdd += 1
+                    palYpos-=1
                 totalSpr += 1
             filesOffset.append(files.tell())
             files.write(Encode(js, npcName))
             indexNpc += js[npcName]["SLOT"]
+            vXpos+=js[npcName]["MAX_WIDTH"]
+            vYpos = 256
 
         filesOffset.append(files.tell())
         files.write(struct.pack("<HH", 0x100d, totalSpr) + tiles.getdata())
@@ -268,28 +256,42 @@ class Event:
 
         return newEv.getdata()
 
+def Main(npc,vX,vY,pX,pY):
+    filename = "HHMBTNI/EVENT_BASE/COMMAND.xlsx"
+    npcs = []
+    wb = openpyxl.load_workbook(filename, data_only=True)
+    sheet = wb.active
+    i = 1
+    while i < npc:
+        npcname = sheet.cell(row=1 + i, column=12).value
+        if npcname:
+            npcs.append("HHMBTNI/NPC/" + npcname)
+        i += 1
 
-filename = "HHMBTNI/EVENT_BASE/COMMAND.xlsx"
-npcs = []
-wb = openpyxl.load_workbook(filename, data_only=True)
-sheet = wb.active
-i = 1
-while i < 5:
-    npcname = sheet.cell(row=1 + i, column=12).value
-    if npcname:
-        npcs.append("HHMBTNI/NPC/" + npcname)
-    i += 1
+    data = open("HHMBTNI/EVENT_BASE.bin", "rb").read()
+    print("REPACK EVENT...")
+    ev = Event(data)
+    buffEvent = ev.insert(npcs, sheet, vX,vY,pX,pY)
+    newEvent = io.BytesIO(buffEvent)
+    eventSize = len(buffEvent)
+    if eventSize > 0x32000:
+        print("Max size terlewati!!\nInsert Gagal")
+        sys.exit()
 
-data = open("HHMBTNI/EVENT_BASE.bin", "rb").read()
-print("REPACK EVENT...")
-ev = Event(data)
-newEvent = io.BytesIO(ev.insert(
-    npcs, sheet
-))
-print("REPACK EVENT SIP!")
-iso = open("isos/HHMBTNI_BASE.bin", "r+b")
-iso.seek(0x85e1f98)
-while chunk := newEvent.read(0x800):
-    iso.write(chunk)
-    iso.read(0x130)
-#ins(iso)
+    print("REPACK EVENT SIP!")
+    iso = open("isos/HHMBTNI_BASE.iso", "r+b")
+    iso.seek(0x85e1f98)
+    while chunk := newEvent.read(0x800):
+        iso.write(chunk)
+        iso.read(0x130)
+    ins(iso)
+
+
+# v1 -64,256,-64,511
+# Standarddd 320,256,384,159
+
+
+if __name__ == "__main__":
+    Main( 4, 320,256,384,159)
+    #Main(20,-64,256,-64,511)
+
