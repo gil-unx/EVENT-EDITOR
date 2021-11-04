@@ -288,7 +288,7 @@ def Main(npc,vX,vY,pX,pY):
 
 
 # v1 -64,256,-64,511
-# Standard 320,256,384,159
+# Standarddd 320,256,384,159
 
 
 if __name__ == "__main__":
