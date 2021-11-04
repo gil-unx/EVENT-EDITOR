@@ -239,12 +239,16 @@ class Event:
             for j in range(9):
                 val = sheet.cell(row=i, column=j + 1).value
                 s.append(val)
-
+            
             try:
-                newCode = repackCode(s)
-                files.write(newCode)
-                if (s[1] == "END") or (s[1] == "-1"):
+                if (s[1] == "END"):
+                    files.write(b"\xff\x00\x00")
                     break
+                else:
+
+                    newCode = repackCode(s)
+                    files.write(newCode)
+
 
 
             except:
@@ -290,7 +294,7 @@ def Main(npc, vX, vY, pX, pY):
     while chunk := newEvent.read(0x800):
         iso.write(chunk)
         iso.read(0x130)
-    ins(iso)
+    #ins(iso)
 
 
 # v1 -64,256,-64,511
