@@ -1,0 +1,6 @@
+#Ghost
+80071a6C 00000006
+#Disable Daily NPC
+800dc7ac 0000
+800dc840 0000
+
