@@ -1,0 +1,8 @@
+.idea
+*.pyc
+.pypirc
+.DS_Store
+build
+dist
+PyTexturePacker.egg-info
+MANIFEST
