@@ -252,12 +252,12 @@ kami siap memulai!!!
 Di jalur kedua adl,
 [{4001}]
 Di jalur ketiga,  
-Kebun [{400D}] [{400C}]
+[{400D}] Farm{'s} [{400C}]
 Hey!  [{MC_NAME}], menang ya!
 Di jalur keempat,  
 [{4002}]
 Di jalur kelima,  
-Kebun Yodel Hana-chan
+Yodel Farm{'s} Hana-chan
 Di jalur keenam,  
 [{4003}][{PRESS}][{CLEARBOX}]
 Well, siapa yg akan jadi

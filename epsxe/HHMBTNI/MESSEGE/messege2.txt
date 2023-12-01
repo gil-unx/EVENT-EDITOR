@@ -415,9 +415,9 @@ minggu juga
 ---------------------------------------------
 [0070]
 [{0FF3}]Tbl Arah: GerakKursor
-Tombol ×: Pilih item 
-Tombol △: Penjelasan  
-Tombol ○: Batal membeli  
+× tombol: Pilih item 
+△ tombol: Penjelasan  
+○ tombol: Batal membeli  
 ---------------------------------------------
 [0071]
 [{0F82}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Makanan ayam 10G sebungkus. [{PRESS}][{CLEARBOX}]
@@ -453,8 +453,8 @@ makanan ayam…
 [0077]
 [{0FF3}]D tombol: Ganti Jumlahnya
 (R/L dg 1s, Up/Down dg 10s)
-Tombol ×: Membeli 
-Tombol ○: Tak jadi beli  
+× tombol: Membeli 
+○ tombol: Tak jadi beli  
 ---------------------------------------------
 [0078]
 [{0F7E}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Heh…kau tak akan membeli
@@ -504,8 +504,8 @@ ke kandangnya ya.
 ---------------------------------------------
 [0090]
 [{0FF3}]D tombol:GerakKursor
-Tombol ×:Pilih hewan yg dijual
-Tombol ○:Tak menjual
+× tombol:Pilih hewan yg dijual
+○ tombol:Tak menjual
 ---------------------------------------------
 [0091]
 [{0F7E}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Hah? Kau tak menjual..?
@@ -524,8 +524,8 @@ kandang ayammu itu.
 ---------------------------------------------
 [0095]
 [{0FF3}]D tombol: GerakKursor
-Tombol ×: Pilih 
-Tombol ○: Cancel
+× tombol: Pilih 
+○ button: Cancel
 ---------------------------------------------
 [0096]
 [{0F82}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kan kubeli ayam ini 500G.
@@ -758,8 +758,8 @@ perkuat ya.
 ---------------------------------------------
 [0146]
 [{0FF3}]Tbl Arah: GerakKursor
-Tombol ×: Pilih 
-Tombol △: Penjelasan  
+× tombol: Pilih 
+△ tombol: Penjelasan  
 ○ tbl: Selesai
 ---------------------------------------------
 [0147]
@@ -840,7 +840,7 @@ Sayang..
 [0164]
 [{0FD9}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Utk membuat ini kau butuh
 logam bernama Adamantite dan
-20000G… Tak punya yg diperlukan?
+2000G… Tak punya yang dperlukan?
 Sayang...
 ---------------------------------------------
 [0165]
@@ -1168,15 +1168,13 @@ melamar kekasihnya utk menikah.
 Harganya 1000G. Mau membelinya?!
 ---------------------------------------------
 [0221]
-[{0FC1}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kau kesini mau periksa kesehatan
-atau membeli obat kuat
-[{MC_NAME}]?
+[{0FC1}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Jadi kenapa kita disini..?
 ---------------------------------------------
 [0222]
 [{0FC1}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kau tahu badanmu lebih baik
 daripada yg lain tapi lebih baik
 tetap diperiksa. Sehingga
-jika ada masalah, kita bisa  [{PRESS}][{CLEARBOX}]
+jika ada malasah, kita bisa  [{PRESS}][{CLEARBOX}]
 cepat obati.
 Jadi periksa badanmu teratur.
 ---------------------------------------------
@@ -1495,7 +1493,7 @@ Sayang sekali kau tak jual,
 tapi setidaknya semua kembali
 ke tanah tempat asalnya.
 Sudahlah itu tak apa2.[{PRESS}][{CLEARBOX}]
-Sang Dewi sdh memaafkanmu.
+Sang Dewi sdh memafkanmu.
 ---------------------------------------------
 [0266]
 [{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Banyak orang terus melakukan
@@ -2703,15 +2701,16 @@ Chicken Lil{'s} ↘
 ---------------------------------------------
 [0426]
 [{0FF3}]"Pandai Besi Saibara"
-Buka: Pukul 10:00AM~04:00PM.
-Tutup: Hari Kamis.
+Buka dari jam 10 sampai jam 16.
+Maaf, hari kamis
+tutup.   
 ---------------------------------------------
 [0427]
-[{0FF3}]"Kebun Anggur Aja"
-Buka: Pukul 09:00AM~12:00PM.
-Libur: Hari Sabtu.[{PRESS}][{CLEARBOX}]
-Jus dan Anggur Winenya, dibuat
-dari kebunnya sendiri.
+[{0FF3}]"Anggur Aja"
+Buka dari 9 sampai 12 menjual
+Anggur dan jusnya, dibuat
+dari kebun sendiri.[{PRESS}][{CLEARBOX}]
+Hari Sabtu tutup.
 ---------------------------------------------
 [0428]
 [{0FF6}]"1. Langkah pertama menempa
@@ -2732,18 +2731,18 @@ Terlihat kurang bermanfaat
 ---------------------------------------------
 [0431]
 [{0FF3}]"Perpustakaan Mary"
-Buka: Pukul 10:00AM~04:00PM
-Libur: Hari Senin
+Jam 10 sampai 16.
+Senin tutup.  
 ---------------------------------------------
 [0432]
 [{0FF3}]"Perpustakaan Mary"
-Buka: Pukul 10:00AM~04:00PM
-Libur: Hari Rabu
+Jam 10 sampai 16.
+Hari rabu tutup. 
 ---------------------------------------------
 [0433]
 [{0FF3}]"Perpustakaan Mary"
-Buka: Hari Minggu
-Pukul 10:00AM~04:00PM
+Hanya Minggu,
+jam 10 sampai 16.
 ---------------------------------------------
 [0434]
 [{0FF6}]Sebuah buku gambar tanaman
@@ -2766,13 +2765,13 @@ Selatan Desa  ↘
 ---------------------------------------------
 [0438]
 [{0FF3}]"Supermarket"
-Buka: Pukul 09:00AM~05:00PM
-Libur: Hari Minggu dan Selasa.
+Dari jam 9 sampai 17
+Minggu dan Selasa tutup.   
 ---------------------------------------------
 [0439]
 [{0FF3}]"Klinik Mineral"
-Buka: Pukul 09:00AM~04:00PM
-Libur: Hari Rabu.
+Jam Klinik: Jam 9 sampai 16
+Hari Rabu tutup. 
 ---------------------------------------------
 [0440]
 [{0FF6}]Pesanan dari….
@@ -2787,8 +2786,8 @@ ditulis dalam bahasa asing....
 ↙ Lapangan   
 ---------------------------------------------
 [0443]
-[{0FF3}]"Doug Resto dan Penginapan"
-Buka: 08:00AM~21:00PM
+[{0FF3}]"Doug{'s} Place"
+Bar buka 8:00 to 21:00
 ---------------------------------------------
 [0444]
 [{0FF3}]"Doug{'s} Place"
@@ -3026,7 +3025,7 @@ Orichalcum dan 1000G.
 ---------------------------------------------
 [0482]
 [{0FDC}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Utk buat ini kau perlu
-Adamantite dan 20000G.   
+Adamantite dan 2000G.    
 ---------------------------------------------
 [0483]
 [{0FFA}]
@@ -3399,8 +3398,7 @@ tinggi...
 sesuatu...?
 ---------------------------------------------
 [0520]
-[{0FF3}]Makam Walikota ke-13
-"Thomas Sr."
+[{0FF3}]Walikota ke-13 istirahat. 
 ---------------------------------------------
 [0521]
 [{0FF6}]Box Pengakuan....
@@ -3409,8 +3407,7 @@ sesuatu...?
 [{0FF6}]Tong Sampah...
 ---------------------------------------------
 [0523]
-[{0FF6}]Kandang anjingku [{400C}].
-Tetapi tidak pernah ditempati.
+[{0FF6}][{400C}]{'s} doghouse.
 ---------------------------------------------
 [0524]
 [{0FF6}]"Yodel Ranch"
@@ -3658,7 +3655,7 @@ Itu tidak apa2.
 Sang Dewi memaafkan dirimu.
 ---------------------------------------------
 [0564]
-[{0FF6}]Kau sesali iti kepada Sang Dewi
+[{0FF6}]Kau sesali iti kepada Sang Dei
 Peri itu.
 Tapi itu bukan sesuatu yang
 amat memalukan. [{PRESS}][{CLEARBOX}]
@@ -3818,7 +3815,7 @@ lain dalam dirimu itu.
 setiap hari membuatmu
 semangat. [{PRESS}][{CLEARBOX}]
 Itu tak apa-apa.
-Sang Dewi telah maafkan kamu. 
+Sang Dei telah maafkan kamu. 
 ---------------------------------------------
 [0582]
 [{0FF6}]Ruangannya kecil, tidak ada
@@ -4104,9 +4101,9 @@ Tolong kembali nanti.
 [0641]
 [{0F91}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Sapi dan domba akan datang
 saat kau bunyikan lonceng,
-sangat berguna saat kau mau
-mengandangkan ternakmu.[{PRESS}][{CLEARBOX}]
-Lonceng ini harganya 500G.
+amat berguna saat kau mau memasukkan
+ke dalam kandang.  [{PRESS}][{CLEARBOX}]
+This one is 500G.
 ---------------------------------------------
 [0642]
 [{0FF6}]Pohon Cedar terpencil…

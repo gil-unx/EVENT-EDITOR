@@ -2,48 +2,105 @@
 Dummy
 ---------------------------------------------
 [0001]
-[{0FF7}][{0FF4}][{0FF5}]Sudah lebih dari 12 tahun,
-akhirnya aku bisa kembali
-lagi ke desa ini.
+[{0FF3}]Sabit 
+Utk potong rumput dan akar.
+Hati-hati karena bisa juga
+memotong sayuran dan bu
+nganya!!
+Jangan diayunkan ke ternakmu!
 ---------------------------------------------
 [0002]
-[{0FF7}][{0FF4}][{0FF5}]Aduh!!
+[{0FF3}]Sabit Tembaga
+Utk potong rumput dan akar.
+Hati-hati karena bisa juga
+potong sayuran dan bu  
+nganya!!
+Jangan diayunkan ke ternakmu!
 ---------------------------------------------
 [0003]
-[{0FF7}][{0FF4}][{0FF5}]Aku lupa lagi sialan...
-Dimana letak rumah kakeku.
+[{0FF3}]Sabit Perak  
+Utk potong rumput dan akar.
+Hati-hati karena bisa juga
+potong sayuran dan bu  
+nganya!!
+Jangan diayunkan ke ternakmu!
 ---------------------------------------------
 [0004]
-[{0FF7}][{0FF4}][{0FF5}]Mungkin dipapan itu
-ada pentunjuk.
+[{0FF3}]Sabit Emas   
+Utk potong rumput dan akar.
+Hati-hati karena bisa juga
+potong sayuran dan bu  
+nganya!!
+Jangan diayunkan ke ternakmu!
 ---------------------------------------------
 [0005]
-[{0FF7}][{0FF4}][{0FF5}]Hmm......
+[{0FF3}]Sabit Mystrile 
+Utk potong rumput dan akar.
+Hati-hati karena bisa juga
+potong sayuran dan bu  
+nganya!!
+Jangan diayunkan ke ternakmu!
 ---------------------------------------------
 [0006]
-[{0FF7}][{0FF4}][{0FF5}]Betul pak...
-Anda tahu dimana letak
-Palawijo Farm?
+[{0FF3}]Cangkul
+Utk ratakan tanah
+Cangkul untuk meratakan ta
+nah untuk tempat menanam bibit
+tanamanmu setelah rumputnya  
+dipotong.
+Bisa juga utk menggali di per
+tambangan
 ---------------------------------------------
 [0007]
-[{0FF7}][{0FF4}][{0FF5}]Saya ini pewarisnya itu Pak!
+[{0FF3}]Cangkul Tembaga
+Utk ratakan tanah.
+Cangkul utk meratakan ta
+nah untuk tempat bibit tanaman
+mu setelah rumputnya habis di
+potong.  
+Bisa juga utk menggali di per
+tambangan
 ---------------------------------------------
 [0008]
-[{0FF7}][{0FF4}][{0FF5}]Betul Pak! Saya Pete.
+[{0FF3}]Cangkul Perak
+Utk ratakan tanah.
+Cangkul utk ratakan tanah 
+tempat menanam bibit tanaman  
+setelah rumput dan akarnya di
+potong.  
+Bisa juga utk menggali di per
+tambangan
 ---------------------------------------------
 [0009]
-[{0FF7}][{0FF4}][{0FF5}]Jadi anda seorang walikota?
-Ah maafkan atas kelancangan saya.
+[{0FF3}]Cangkul Emas
+Utk ratakan tanah. 
+Cangkul utk ratakan tanah 
+tempat bibit tanaman ditanam  
+setelah rumput dan akarnya di
+potong.  
+Bisa juga utk menggali di per
+tambangan
 ---------------------------------------------
 [0010]
-[{0FF7}][{0FF4}][{0FF5}]Baik Pak,
-terima kasih sebelumnya.
+[{0FF3}]Cangkul Mystrile
+Utk ratakan tanah
+Cangkul utk ratakan tanah 
+tempat bibit tanaman ditanam  
+setelah rumput dan akarnya di
+potong.  
+Bisa juga utk menggali di per
+tambangan
 ---------------------------------------------
 [0011]
-[{0FF7}][{0FF4}][{0FF5}]
+[{0FF3}]Kapak
+Utk potong ranting jadi
+kayu.  
+ini tak bisa potong yg besar
 ---------------------------------------------
 [0012]
-[{0FF7}][{0FF4}][{0FF5}]
+[{0FF3}]Kapak Tembaga
+Utk potong ranting kecil 
+dan besar jadi kayu. 
 ---------------------------------------------
 [0013]
 [{0FF3}]Kapak Perak
@@ -868,8 +925,8 @@ Aja Winery.
 [0161]
 [{0FF3}]Ikan Besar
 Kau bisa makan atau jual dgn
-harga tinggi. Kau bisa juga
-taruh di Kolam Ikan. 
+harga tinggi. Kau bisa juga taruh
+di Kolam Ikan. 
 ---------------------------------------------
 [0162]
 [{0FF3}]Ikan Sedang
@@ -1687,12 +1744,10 @@ naiki sapi selama kau suka.
 Apa itu benar?!
 ---------------------------------------------
 [0301]
-[{0FF3}]Peta Dewa
+[{0FF3}]Tuhan ada di syrga
 Saat kau mau lihat PETA di sini
 dari atas, pasang ini
 dan kemudian tekan tombol □ ! 
-Alat ini hanya bisa didpt
-dari cheat dgn kode 012D.
 ---------------------------------------------
 [0302]
 [{0FF3}]Kecap manis
@@ -4263,8 +4318,8 @@ kau datang lagi kemari yah.
 [0439]
 [{0FF3}]Tombol arah gerak  :
 Menggerakan
-Tombol ×: Pilih 
-Tombol ○: Tutup diary
+× tombol: Pilih 
+○ tombol: Tutup diary
 ---------------------------------------------
 [0440]
 [{0FF1}] "Star One Sports"
@@ -11633,24 +11688,13 @@ lagi OK?"
 "Baiklah..."
 ---------------------------------------------
 [0870]
-[{0FF1}] Hidup di Kebun
-'Petani Fran, Petani Fran!"
-'Iya, Jimmy?"
-▼Kamu tahu ga siapa yang
-menerjemahkan game
-HARVESTMOON: Back To Nature
-ke dalam bahasa Indonesia?▲
-▼Iya, aku tahu. Gamenya
-diterjemahkan oleh PALAPA.▲
-▼Kamu benar, game ini
-diterjemahkan oleh PALAPA pada
-tahun 2008 dan direvisi oleh
-Saiful Romadhon
-pada tahun 2016.▲
-▼Oh…, aku jadi mengerti
-sekarang. Semoga bermanfaat
-untuk hiburan teman-teman kita
-penggemar game ini. Amiiin.▲
+[{0FF1}] Hidup di Kebun  
+"Petani Fran, Petani Fran!"
+"Iya, Jimmy?"
+"Tahu ga siapa yg men 
+translate game harvest   
+moon ini?"
+"???"
 ---------------------------------------------
 [0871]
 [{0FF3}]· Gerakkan Kursor.
@@ -11826,113 +11870,96 @@ kalendermu...
 ---------------------------------------------
 [0901]
 [{0FF3}]Apa ini rumahmu ya!
-"Kebun [{400D}]"
+"[{400D}] Farm"
 ---------------------------------------------
 [0902]
-[{0FF3}]"Poultry Farm"
-Tempat membeli ayam beserta
-pakan dan obatnya.
+[{0FF3}]"Poultry Farm" … Kau bisa
+beli ayam disini.
+Kau juga bisa beli pakan ayam
+dan obat utk hewan. 
 ---------------------------------------------
 [0903]
-[{0FF3}]"Peternakan Yodel"
-Tempat membeli sapi,
-domba beserta pakan dan
-obat ternak.
+[{0FF3}]"Ranch" … Kau bisa beli
+sapi dan domba.
+Kau juga dpt membeli pakan, Cow
+Miracle Potion, Sheep Miracle
+Potion dan animal medicine.
 ---------------------------------------------
 [0904]
-[{0FF3}]"Pandai Besi Saibara"
-Kau bisa memesan peralatan
-perkebunan dan peternakan
-serta perhiasan dengan membawa
-logam mineral kesini.[{PRESS}][{CLEARBOX}]
-"Kebun Anggur Aja"
-Menjual jus anggur dan
-anggur wine…
+[{0FF3}]"Blacksmith" … Kau bisa membuat
+banyak benda jika
+kau bawa logam mineral ke sini.
+"Orchard" … Mereka jual jus
+dan Anggur....
 ---------------------------------------------
 [0905]
-[{0FF3}]"Perpustakaan"
-Ada banyak buku-buku
-ilmu pengetahuan…
+[{0FF3}]"Library" … Mereka punya
+banyak buku2....
 ---------------------------------------------
 [0906]
-[{0FF3}]"Supermarket"
-Tempat membeli ransel, keranjang,
-bibit serta bahan dasar untuk
-memasak…[{PRESS}][{CLEARBOX}]
-"Klinik"
-Tempat periksa kesehatan
-serta membeli minuman
-berenergi.
+[{0FF3}]"Supermarket" … Kau bisa
+beli macam-macam disini termasuk
+bibit dan bahan-bahan
+untuk masak...
+"Clinic" … Kau bisa
+periksakan badan. 
 ---------------------------------------------
 [0907]
-[{0FF3}]"Gereja"
-Tempat untuk pemakaman,
-acara pernikahan. Tersedia
-juga tempat untuk Pengakuan…[{PRESS}][{CLEARBOX}]
-"Gubuk Kurcaci Pemanen"
-Tempat tinggal 7 Kurcaci
-Pemanen, terletak di sisi
-belakang samping gereja.
-Kau bisa minta bantuan
-kepada mereka untuk
-mengurus kebun.
+[{0FF3}]"Church" … Ini tempat untuk
+pernikahan dan penguburan.
+mereka juga punya Pengakuan,
+jika kau merasa perlu...
+"Harvest Sprites' House" …
+Rumah kecil di belakang
+Gereja sana.
 ---------------------------------------------
 [0908]
-[{0FF3}]"Doug Resto dan Penginapan"
-Tempat membeli makanan
-dan minuman.
-Hanya di tempat ini satu-satunya
-yang memiliki telepon…
+[{0FF3}]"The Inn" … Mereka jual
+makanan siang dan minuman utk
+malam.
+☆Ngomong2, hanya Inn yang punya
+telepon di desa kita ini...
 ---------------------------------------------
 [0909]
-[{0FF3}]"Rose Square"
-Tempat berlangsungnya perayaan
-Festival di desa Mineral.
+[{0FF3}]"Rose Square" … Ini tempat
+desa mengadakan kebanyakan
+festival2nya....
 ---------------------------------------------
 [0910]
-[{0FF3}]"Pantai Mineral"
-Pondok Pantai milik
-Kai hanya buka saat
-musim panas.
+[{0FF3}]"Mineral Beach" … Pondok Panatai
+dibuka hanya saat Summer.
 ---------------------------------------------
 [0911]
-[{0FF3}]"Rumah Gotz tukang kayu"
-…Tempat membeli kayu atau
-membangun kandang,
-rumahmu dan hothouse…
+[{0FF3}]"Woodcutter{'s} House" …
+Kau bisa beli kayu disini
+dan pesan pembangunan rumahmu...
 ---------------------------------------------
 [0912]
-[{0FF3}]"Air terjun"
-Konon sang Dewi panen
-tinggal disini.[{PRESS}][{CLEARBOX}]
-"Tambang spring"
-Kau bisa menambang logam
-disini.[{PRESS}][{CLEARBOX}]
-"Pemandian air panas"
-Berendam didalamnya membuat
-staminamu pulih. Kau juga bisa
-memasak telur spa disini dengan
-melempar telur ke dalam airnya…
+[{0FF3}]"Waterfall" … Katanya Sang
+Dewi Peri hidup disini.
+"Mine" … Kau bisa gali banyak
+macam benda-benda. 
+"Hot Spring" … Duduk di
+sini membuat energimu pulih
+dan segarkan dirimu.
+Dan kau bisa masak spa-boiled
+eggs di airnya....
 ---------------------------------------------
 [0913]
-[{0FF3}]"Kaki Mother{'s} Hill"
-Danau: Kau bisa mancing disini
-dan menemui Dewa Kappa.
-Pulau kecil di tengah-tengah
-danau: dikenal sebagai
-"Tambang Winter" karena danau
-membeku saat musim dingin
-dan pulaunya bisa dimasuki.
+[{0FF3}]"Base of Mother{'s} Hill"
+"Lake" … Kau bisa mancing. 
+"Small Island" … di
+tengah-tengah danau....
 ---------------------------------------------
 [0914]
-[{0FF3}]"Samping Mother{'s} Hill"
-Ada taman bunga dan
-pohon cedar sendirian.
+[{0FF3}]"Side of Mother{'s} Hill"
+… Taman Bunga dan satu pohon
+cedar sendirian.
 ---------------------------------------------
 [0915]
-[{0FF3}]"Puncak Mother{'s} Hill"
-Pemandangannya sangat indah
-disini…
+[{0FF3}]"Summit of Mother{'s} Hill"
+… Pemandangan dari sini
+spektakuler...
 ---------------------------------------------
 [0916]
 Dummy
@@ -12070,15 +12097,15 @@ di kebunmu?!
 [{0FF3}]Apa ini OK?
 ---------------------------------------------
 [0936]
-[{0FF3}]Tbl Arah: Menggerakan
-Tombol ×: Input
-Tombol ○: Hps. 
+[{0FF3}]D Tombol: Menggerakan
+× Tombol: Input
+○ Tombol: Hps. 
 Start   : Pilih Nama… 
 ---------------------------------------------
 [0937]
 [{0FF3}]D tombol: Gerakkan kursor
-Tombol ×: Pilih 
-Tombol ○: Cancel
+× tombol: Pilih 
+○ tombol: Cancel
 ---------------------------------------------
 [0938]
 [{0FFA}]
@@ -12086,61 +12113,61 @@ Tombol ○: Cancel
  Coba lagi
 ---------------------------------------------
 [0939]
-[{0FF3}]Tbl Arah: Menggerakan
-Tombol ×: Menerangkan.
-Tombol ○: Tutup
+[{0FF3}]D Tombol: Menggerakan
+× Tombol: Menerangkan.
+○ Tombol: Tutup
 Start   : Mengamati
 ---------------------------------------------
 [0940]
 [{0FF3}]Tbl Arah: GerakKursor
-Tombol ×: Pilih Item 
-Tombol △: Penjelasan  
-Tombol ○: Batal /Tutup
+× Tombol: Pilih Item 
+△ Tombol: Penjelasan  
+○ Tombol: Batal /Tutup
 ---------------------------------------------
 [0941]
 [{0FF3}]Tbl Arah: GerakKursor
-Tombol ×: Pilih Item  
-Tombol △: Penjelasan  
-Tombol ○: Batal /Tutup
+× Tombol: Pilih Item  
+△ Tombol: Penjelasan  
+○ Tombol: Batal /Tutup
 ---------------------------------------------
 [0942]
 [{0FF3}]Tbl Arah: GerakKursor
-Tombol ×: Pilih Item 
-Tombol △: Penjelasan  
-Tombol ○: Batal /Tutup
+× Tombol: Pilih Item 
+△ Tombol: Penjelasan  
+○ Tombol: Batal /Tutup
 ---------------------------------------------
 [0943]
 [{0FF3}]Tbl Arah: GerakKursor
-Tombol ×: Pilih Item 
-Tombol △: Penjelasan  
-Tombol ○: Batal /Tutup
+× Tombol: Pilih Item 
+△ Tombol: Penjelasan  
+○ Tombol: Batal /Tutup
 ---------------------------------------------
 [0944]
 [{0FF3}]D tombol: Gerakkan kursor
-Tombol ×: Pilih 
-Tombol ○: Tutup menu  
+× tombol: Pilih 
+○ tombol: Tutup menu  
 ---------------------------------------------
 [0945]
-[{0FF3}]Tbl Arah: Gerakan kursor 
-Tombol ×: JelaskanArea
-Tombol ○: Tutup window
+[{0FF3}]D button: Gerakan kursor 
+× button: JelaskanArea
+○ button: Tutup window
 ---------------------------------------------
 [0946]
-[{0FF3}]Tbl Arah: Menggerakan
-Tombol ×: Lihat Instruksi  
-Tombol ○: Tutup
+[{0FF3}]D Tombol: Menggerakan
+× Tombol: Lihat Instruksi  
+○ Tombol: Tutup
 ---------------------------------------------
 [0947]
-[{0FF3}]Tbl Arah: Menggerakan
-Tombol ×: Pilih 
-Tombol △: Lihat Penjelasan
-Tombol ○: Tutup
+[{0FF3}]D Tombol: Menggerakan
+× Tombol: Pilih 
+△ Tombol: Lihat Penjelasan
+○ Tombol: Tutup
 ---------------------------------------------
 [0948]
 [{0FF3}]Tombol-tombol arah: 
 Gerakkan kursor
-Tombol ×: Hari Kegiatan  
-Tombol ○: Tutup Menu  
+× tombol: Hari Kegiatan  
+○ tombol: Tutup Menu  
 ---------------------------------------------
 [0949]
 [{0FF3}]Bersiap memasak.  
@@ -12159,12 +12186,12 @@ Mohon Tunggu
 ---------------------------------------------
 [0952]
 [{0FF3}]Tbl arah: GerakKursor
-Tombol ×: Memasak  
-Tombol △: Cara-cara Masak 
-Tombol ○: Tutup Resep 
+× Tombol: Memasak  
+△ Tombol: Cara-cara Masak 
+○ Tombol: Tutup Resep 
 ---------------------------------------------
 [0953]
-[{0FF3}]Tombol ○: Tutup resep 
+[{0FF3}]○ tombol: Tutup resep 
 ---------------------------------------------
 [0954]
 [{0FF3}]Bahan-bahan tak cukup… 
@@ -12178,19 +12205,19 @@ Tombol ○: Tutup Resep
 ---------------------------------------------
 [0956]
 [{0FF3}]Tbl Arah: GerakKursor
-Tombol ×: Pilih alat 
-Tombol ○: Batal /Tutup
+× Tombol: Pilih alat 
+○ Tombol: Batal /Tutup
 Mulai   : Pilihan Bahan-bahan 
 ---------------------------------------------
 [0957]
 [{0FF3}]Tbl Arah: GerakKursor
-Tombol ×: Pilih Bumbu-bumbu
-Tombol ○: Tutup
+× Tombol: Pilih Bumbu-bumbu
+○ Tombol: Tutup
 ---------------------------------------------
 [0958]
 [{0FF3}]Tbl Arah: GerakKursor
-Tombol ×: Pilih Bahan-bahan 
-Tombol ○: Batal /Tutup
+× Tombol: Pilih Bahan-bahan 
+○ Tombol: Batal /Tutup
 Start   : Memasak   
 ---------------------------------------------
 [0959]
@@ -14033,10 +14060,11 @@ Orchard.
 sebagai hadiah.
 Isinya adalah…
 [{PRESS}][{CLEARBOX}]
-Ikan Besar
-Kau bisa makan atau jual dgn
-harga tinggi. Kau bisa juga
-taruh di Kolam Ikan. 
+Large fish
+You can eat it or sell it for
+a high price.
+You can also put in the
+Fish Pond.
 ---------------------------------------------
 [1162]
 [{0FF3}]Sesuatu dibungkus

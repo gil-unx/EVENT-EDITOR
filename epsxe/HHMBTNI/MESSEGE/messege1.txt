@@ -10,9 +10,27 @@ bersemangat. Harusnya
 dia itu berlarian...
 ---------------------------------------------
 [0002]
-[{0F8B}][{0FF7}][{0FF4}][{0FF5}][{0F8D}][{ICON_ARROW}]cek
-cek
-[{PRESS}][{0FFA}]
+[{0F8B}][{0FF7}][{0FF4}][{0FF5}][{0F8D}][{ICON_ARROW}]Oh, [{MC_NAME}].[{PRESS}][{CLEARBOX}]
+[{0F8D}][{0FF7}][{0F8B}]Siapa itu, May?[{PRESS}][{CLEARBOX}]
+[{0F8B}][{0FF7}][{0F91}]Ini [{MC_NAME}]. Dia pindah
+ke sebelah rumahku.[{PRESS}][{CLEARBOX}]
+[{0F91}][{0FF7}][{0F88}]Oh ya kebun [{400D}] itu..[{PRESS}][{CLEARBOX}]
+[{0F88}][{0FF7}][{0F8E}]Kudanya tak bahagia…?[{PRESS}][{CLEARBOX}]
+[{0F8E}][{0FF7}][{0F8B}]Ranchnya penuh dgn kuda dan
+domba dan sapi, jadi kai tak bisa
+tambah masalah dengan
+hewan yg satu ini. Meski gitu[{PRESS}][{CLEARBOX}]
+dia kesepian ya…[{PRESS}][{CLEARBOX}]
+[{0F8B}][{0FF7}][{0F91}]Aku bisa merawatnya....[{PRESS}][{CLEARBOX}]
+[{0F91}][{0FF7}]Itu manis May, tapi kau
+masihlah muda… hey, kau punya
+kuda nggak?[{PRESS}][{CLEARBOX}]
+Kalau gitu, bisakah kau rawat
+kuda ini sampai dia jadi
+dewasa? Akan kubayar kau nanti. [{PRESS}][{CLEARBOX}]
+Kau tak harus lakukan hal yg
+spesial. Ajak bicara saja
+tiap hari.[{PRESS}][{0FFA}]
 [{0FF6}] Rawat kudanya itu
  Jangan mau rawat itu
 ---------------------------------------------
@@ -48,7 +66,7 @@ besar. Jgn cemas, May.
 [{0F89}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Tapi dia kuda bagus…
 ---------------------------------------------
 [0008]
-[{0FF7}][{0FF4}][{0FF5}]Dia lucu, benar? Maukah kau
+[{0F8E}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Dia lucu, benar? Maukah kau
 pikir lagi….?[{PRESS}][{0FFA}]
 [{0FF6}] Rawat kuda itu   
  Jangan rawat, cape!!
@@ -1612,13 +1630,13 @@ datang…aku mengundangmu ke
 pernikahanku
 ---------------------------------------------
 [0219]
-[{0EDE}][{0FF7}][{0FF4}][{0FF5}][{0F7B}][{ICON_ARROW}]Rick… kakak… terimakasih
-sudah merestui kami.[{PRESS}][{CLEARBOX}]
-[{0F7B}][{0FF7}][{0FE0}]Aku tak bilang tentang
-merestuimu… [{PRESS}][{CLEARBOX}]
+[{0EDE}][{0FF7}][{0FF4}][{0FF5}][{0F7B}][{ICON_ARROW}]Rick…kakak…makasih telah  
+terima kami. [{PRESS}][{CLEARBOX}]
+[{0F7B}][{0FF7}][{0FE0}]Aku tak bilang tentang me 
+nerimamu… [{PRESS}][{CLEARBOX}]
 [{0FE0}][{0FF7}][{0F78}](Stomp!)[{PRESS}][{CLEARBOX}]
-[{0F78}][{0FF7}][{0FE4}]Ouch! Kakiku…
-Karen, apa yang kau…[{PRESS}][{CLEARBOX}]
+[{0F78}][{0FF7}][{0FE4}]Ouch! Kakiku…Karen, 
+apa yang kau…[{PRESS}][{CLEARBOX}]
 [{0FE4}][{0FF7}][{0EDE}]Kai, tolong jaga dengan baik 
 Popuri.[{PRESS}][{CLEARBOX}]
 [{0EDE}][{0FF7}]Makasih, Karen.  
@@ -1643,8 +1661,8 @@ perayaan?   [{PRESS}][{0FFA}]
 [{0EDF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]…Makasih.  
 ---------------------------------------------
 [0224]
-[{0FB1}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Oh begitu…, datanglah kalau
-pekerjaanmu sudah selesai.
+[{0FB1}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Begitu…datanglah setelah kau 
+selesai. 
 ---------------------------------------------
 [0225]
 [{0EE5}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]Kai kirim surat padaku 
@@ -1858,7 +1876,7 @@ Kukira dia selesai waktu itu…
 ---------------------------------------------
 [0268]
 [{0FB0}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Hi, [{MC_NAME}]. Hari ini Elli 
-dan dokter Tim akan menikah.
+dan Dokter akan menikah.
 Gimana kalau kita minum di 
 malam perayaannya?  [{PRESS}][{0FFA}]
 [{0FF6}] Iya, mari minum
@@ -1910,10 +1928,10 @@ kesepian. Hanya kami berdua
 saja akan jadi sepi. 
 ---------------------------------------------
 [0277]
-[{0F46}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Boleh percaya atau tdk,
-aku dan dokter Tim seumuran.
-Ketika masih muda dulu kami
-saling curhat tentang cita2 kami.
+[{0F46}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Believe it or not, the Doctor
+and I are the same age. When
+we were young we used to talk
+about our dreams together.
 ---------------------------------------------
 [0278]
 [{0F45}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kami suka akan desa ini dan bi
@@ -2217,8 +2235,8 @@ Anjing juara tahun ini adl
 [{MC_NAME}].[{PRESS}][{CLEARBOX}]
 [{0F4F}][{0FF7}][{0F86}][{MC_NAME}] selalu menjaga dg
 baik si [{400C}].[{PRESS}][{CLEARBOX}]
-[{0F86}][{0FF7}]Kami memberimu gelar
-Peternak Top.
+[{0F86}][{0FF7}]Kami memberimu titel Top 
+Breeder.
 ---------------------------------------------
 [0332]
 [{0F91}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Makasih atas bantuanmu tadi…
@@ -2445,26 +2463,26 @@ Kubiarkan dulu di sini.
 [0374]
 [{0F4B}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Silahkan
 Jika kau ikut pesta tehnya,
-bawa hadiah, budum.
+bawa hadiah, badam.
 ---------------------------------------------
 [0375]
 [{0F4B}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Yipee! Beri juga pada  
-yg lainnya, budum. 
+yg lainnya, badam. 
 ---------------------------------------------
 [0376]
-[{0F4B}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kami masih menyiapkan, budum
+[{0F4B}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kami masih menyiapkan, badam
 ---------------------------------------------
 [0377]
 [{0F4B}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Mari kita pesta teh  
-bersama, budum. 
+bersama, badam. 
 ---------------------------------------------
 [0378]
-[{0F4B}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Tunggu dulu, budum.  
+[{0F4B}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Tunggu dulu, badam.  
 ---------------------------------------------
 [0379]
-[{0F4B}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Ini hadiah untukmu, budum.
+[{0F4B}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Ini hadiah untukmu, badam.
 Itu adalah daun teh  
-penyegar, budum.
+penyegar, badam.
 ---------------------------------------------
 [0380]
 [{0F48}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Pesta tehnya sudah berakhir,  
@@ -2495,88 +2513,85 @@ ini sangat harum sekali.
 ---------------------------------------------
 [0386]
 [{0F87}][{0FF7}][{0FF4}][{0FF5}][{0F83}][{ICON_ARROW}]Aku punya permintaan. 
-Aku ingin kau mengirimkan
-kue apel dari Inn ke
-neneknya Elli, Ellen. [{PRESS}][{CLEARBOX}]
-[{0F83}][{0FF7}]Aku biasanya yg mengirim, 
+Aku ingin kau mengirim
+kan kue apel dari Inn ke ne 
+neknya Elli, Ellen. [{PRESS}][{CLEARBOX}]
+[{0F83}][{0FF7}]Aku bisanya yg mengirim, 
 tapi hari ini aku harus
 pergi ke desa tetangga.   
 Apa kau bisa? [{PRESS}][{0FFA}]
-[{0FF6}] Iya, tak masalah.
- Maaf, tak bisa.
+[{0FF6}] Iya, tak masalah
+ Maaf, tak bisa 
 ---------------------------------------------
 [0387]
-[{0F86}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Terimakasih.
-Aku tahu kau bisa kuandalkan.
+[{0F86}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Makasih
+Aku tahu kau bisa kuandalkan
 ---------------------------------------------
 [0388]
 [{0F87}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Itu utk Ellen, ya?
 Kue apel dari Penginapan. 
 ---------------------------------------------
 [0389]
-[{0F84}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Oh… kukira kau bisa kumintai
-tolong… Kalau begitu aku
-cari orang lain saja.
+[{0F84}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Oh…kukira kau bilang Iya…
+Kalau gitu kucari orang lain
 ---------------------------------------------
 [0390]
-[{0FCE}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Oh itu benar, Thomas bilang
-kau yg akan mengambil kue.
-Kau pemuda yg baik.
+[{0FCE}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Oh itu benar, Wali 
+kota bilang kau yg akan mengam
+bil kue. Kau pemuda yg baik.
 Ini, ambil saja.
 ---------------------------------------------
 [0391]
 [{0F61}][{0FF7}][{0FF4}][{0FF5}][{0F61}][{ICON_ARROW}]Oh, makasih.  [{PRESS}][{CLEARBOX}]
 [{0F61}][{0FF7}]Aku sangat suka kue apel dr
-Inn. Aku selalu menunggu
-kiriman Thomas
-di hari Minggu.[{PRESS}][{CLEARBOX}]
+Inn. Aku selalu menunggu Wali
+kota di hari Minggu. [{PRESS}][{CLEARBOX}]
 Terima kasih banyak.
 Terima ini sebagai upah. [{PRESS}][{0FFA}]
-[{0FF6}] Terimakasih.
- Aku tulus membantu Nek.
+[{0FF6}] Makasih  
+ Aku tak butuh itu
 ---------------------------------------------
 [0392]
 [{0F62}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Datang lagi
 ---------------------------------------------
 [0393]
-[{0F61}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Oh, jangan ragu… terima saja.
+[{0F61}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Oh, jangan ragu…ambil saja
 ---------------------------------------------
 [0394]
 [{0FBA}][{0FF7}][{0FF4}][{0FF5}][{0F5E}][{ICON_ARROW}]Nenek…ini kue apel untukmu… [{PRESS}][{CLEARBOX}]
 [{0F5E}][{0FF7}][{0FB9}]Elli, knp kau membawanya? [{PRESS}][{CLEARBOX}]
-[{0FB9}][{0FF7}][{0FF4}][{0FF5}][{0F61}][{ICON_ELLI_HEART}]Hah? Oh…, itu benar… 
-Aku lupa [{MC_NAME}] yg akan
-antar kuenya.
+[{0FB9}][{0FF7}][{0FF4}][{0FF5}][{0F61}][{ICON_ELLI_HEART}]Hah? …Oh , itu benar… 
+Aku lupa [{MC_NAME}] yg akan ba 
+wa kuenya.
 Aku juga punya.[{PRESS}][{CLEARBOX}]
-[{0F61}][{0FF7}][{0FF4}][{0FF5}][{0FBA}][{ICON_ARROW}]Oh sayang… makasih.
-Berikan saja itu
-pada [{MC_NAME}].[{PRESS}][{CLEARBOX}]
+[{0F61}][{0FF7}][{0FF4}][{0FF5}][{0FBA}][{ICON_ARROW}]Oh sayang…makasih.
+Berikan saja itu pa 
+da [{MC_NAME}].[{PRESS}][{CLEARBOX}]
 [{0FBA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Itu usul yg bagus.
-Ini… [{MC_NAME}], terimakasih
-atas bantuanmu itu.
+Ini… [{MC_NAME}],
+makasih atas bantuanmu itu.
 ---------------------------------------------
 [0395]
-[{0F87}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Hei, [{MC_NAME}]… Aku datang.
+[{0F87}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Hei, [{MC_NAME}]…Ku balik
 ---------------------------------------------
 [0396]
-[{0F86}][{0FF7}][{0FF4}][{0FF5}][{0F87}][{ICON_ARROW}]Terimakasih.
-Aku dari Ellen barusan.
+[{0F86}][{0FF7}][{0FF4}][{0FF5}][{0F87}][{ICON_ARROW}]Thanks. Aku dari Ellen barusan
 Dia sangat senang kau pergi
 seperti itu.    [{PRESS}][{CLEARBOX}]
 [{0F87}][{0FF7}]Doug juga terkesima.    
-Jadi kubawakan kue dari
-penginapan utk kamu.
+Jd kubawakan kue dari peng
+inapan utk kamu.
 ---------------------------------------------
 [0397]
-[{0F87}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Dahh, sampai jumpa. 
+[{0F87}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Yahh, sampai jumpa. 
 ---------------------------------------------
 [0398]
 [{0F83}][{0FF7}][{0FF4}][{0FF5}][{0F84}][{ICON_ARROW}]Kenapa tak kau antar kue 
-apelnya ke Ellen? 
+apelnya ke Ellen ? 
 Doug bilang kau pergi ke  Inn.[{PRESS}][{CLEARBOX}]
-[{0F84}][{0FF7}]Kau bawa kue apelnya, tapi
-lupa tak diberikan ke Ellen…?
-Aku mempercayaimu.
+[{0F84}][{0FF7}]Kau bawa kue apelnya tapi 
+tak diberikan ke Ellen…?
+Aku percayaimu
 ---------------------------------------------
 [0399]
 [{0F84}][{0FF7}][{0FF4}][{0FF5}][{0F83}][{ICON_ARROW}]Kenapa kau tak berikan kue a
@@ -2684,105 +2699,102 @@ mereka masuk saat hujan ?
 ---------------------------------------------
 [0418]
 [{0F6D}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Selamat pagi, [{MC_NAME}].
-Kami akan memanen anggur
-diladang kami utk dibuat wine,
-yg dimulai besok.
-[{PRESS}][{0F00}][{FF00}]Kau bisa bantu kami tidak?[{PRESS}][{0FFA}]
-[{0FF6}] Baik, Kubantui.
- Maaf,Aku sibuk.
+Kami pergi memanen anggur
+diladang kami utk dibuat 
+wine, yg dimulai besok. [{PRESS}][{0F00}][{FF00}]Kau mau bantu kami tidak?[{PRESS}][{0FFA}]
+[{0FF6}] Baik, Kubantui
+ Maaf,Aku sibuk
 ---------------------------------------------
 [0419]
-[{0F6C}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Terimakasih. Datanglah kerumah
-antara jam 10:00AMs/d04:50PM
-Tentu saja, kami akan
-membayar upahmu.
+[{0F6C}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Makasih. Datang ke rumah 
+antara 10AM besok.   
+Tentu saja, Kami akan bayar
+upah kamu.
 ---------------------------------------------
 [0420]
-[{0F6D}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Oh, jika kau tahu siapa saja
-yg mau kerja, beritahu saja
-kalau ladang kami butuh
-bantuan.
+[{0F6D}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Oh, dan jk kau tau siapa sa
+ja yg mau kerja,beri
+tau mereka jk kami butuh  
+bantuan. 
 ---------------------------------------------
 [0421]
-[{0F6A}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Aku mengerti… Kau dpt selesaikan
-pekerjaanmu. Tapi kamu mungkin
-dpt minta tolong seseorang
-utk datang membantu.
+[{0F6A}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Aku mengerti…Kau dp selesai
+kan pekerjaanmu
+Tapi kau mungkin dp tanya se 
+seorang utk datang membantu. 
 ---------------------------------------------
 [0422]
-[{0F67}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kami sangat senang jika kau
-bantu sampai jam 05:00PM.
-Bisakah kamu…?[{PRESS}][{0FFA}]
-[{0FF6}] Iya, aku siap bantu.
- Tdk, utk hari ini.
+[{0F67}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Ini menyenangkan jk kau bantu
+sampe 5PM. Bisakah kamu   ?[{PRESS}][{0FFA}]
+[{0FF6}] Yap,Kubantuin
+Tdk, saat ini 
 ---------------------------------------------
 [0423]
-[{0F66}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Baik, akan kusimpan barangmu
-disini biar aman.
-Kerja yg semangat!!!
+[{0F66}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Baik, saya akan simpan  
+barangmu disini biar aman. 
+Laksanakan  !!
 ---------------------------------------------
 [0424]
 [{0F6C}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Pembayaran tergantung hasil
 anggur yg kau panen
-Selamat bekerja…
+Laksanakan.  
 ---------------------------------------------
 [0425]
 [{0F6C}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Jmlnya yaitu [{4000}]
 ---------------------------------------------
 [0426]
-[{0F6D}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Masihkah ada anggur yg tersisa?
+[{0F6D}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Masihkah ada angur yg ter
+sisa?
 ---------------------------------------------
 [0427]
-[{0F66}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Terimakasih ya… Jgn lupa besok
-datang bantu lagi.
-Ini barang milikmu.
+[{0F66}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Makasih. Sampai besok hari .
+Ini barang milik kamu.   
 ---------------------------------------------
 [0428]
 [{0FAB}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Ini asyiikk.
 ---------------------------------------------
 [0429]
-[{0F6D}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Hari ini kalian gajian…
-Kami sudah selesai memanen.
-Terimakasih atas bantuan kalian.
+[{0F6D}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Here{'s} today{'s} wages.
+Kami sdh selesai memanen.  
+Makasih atas bantuanmu. 
 ---------------------------------------------
 [0430]
-[{0F67}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Terimakasih ya…
-Ini, cobalah cicipi minum
-beberapa wine dan makan keju.
+[{0F67}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Makasih.  
+Nihh,minum bbrp wine.
 ---------------------------------------------
 [0431]
-[{0F6C}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Anggur2 yg kita panen hari ini
-akan dibuat minuman seperti ini.
+[{0F6C}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Anggur2 yg kami panen ha 
+ri ini akan dibuat minuman  
+kayak ini.
 ---------------------------------------------
 [0432]
-[{0F6D}][{0FF7}][{0FF4}][{0FF5}][{0FAB}][{ICON_ARROW}]Cliff… jadi maukah kau tetap
-bekerja dikebun anggur ini?
-Waktu panen sudah selesai, tapi
-membuat wine membutuhkan[{PRESS}][{CLEARBOX}]
-waktu yg lama.[{PRESS}][{CLEARBOX}]
-[{0FAB}][{0FF7}][{0F66}]Benar…? Kau seriuskan?[{PRESS}][{CLEARBOX}]
+[{0F6D}][{0FF7}][{0FF4}][{0FF5}][{0FAB}][{ICON_ARROW}]Cliff…jadi maukah kau tetap
+bekerja di kebun buah2an ?  
+Waktu panen sdh selesai
+Tp membuat wine ma[{PRESS}][{CLEARBOX}]
+kan waktu yg lama.  [{PRESS}][{CLEARBOX}]
+[{0FAB}][{0FF7}][{0F66}]beneer? Kau ini serius ?[{PRESS}][{CLEARBOX}]
 [{0F66}][{0FF7}][{0FAA}]Kami sudah bicara.
-Anak gadis kami telah pergi ke
-kota, jadi pekerjaan ini cukup
-berat bagi kami berdua.[{PRESS}][{CLEARBOX}]
-[{0FAA}][{0FF7}]Terimakasih banyak.
-Aku akan bekerja keras.
+Anak gadis kami tlh pergi ke 
+kota, jd ini sulit bagi ka
+mi berdua.    [{PRESS}][{CLEARBOX}]
+[{0FAA}][{0FF7}]Terima kasih banyak.
+Ku kan kerja keras.
 ---------------------------------------------
 [0433]
-[{0FAB}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Dan ini semua berkat jasamu
-[{MC_NAME}]… Kau memintaku kerja
-sambilan dikebun anggur ini.
-Terimakasih.
+[{0FAB}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Dan ini semua karna kau minta
+aku utk kerja dikebun tsb.
+Makasih.  
 ---------------------------------------------
 [0434]
-[{0F6B}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Hei, [{MC_NAME}]!!!
-Kau masih menyimpan beberapa
-anggur hasil panen!
+[{0F6B}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Hei, [{MC_NAME}]!!
+Kau masih punya bbrp angur!
 ---------------------------------------------
 [0435]
-[{0F6B}][{0FF7}][{0FF4}][{0FF5}][{0F6B}][{ICON_ARROW}]Anggur2 ini tdk utk dimakan.[{PRESS}][{CLEARBOX}]
-[{0F6B}][{0FF7}]Aku tak suka dgn sifat kamu itu.
-Kau tak perlu lagi datang besok.
+[{0F6B}][{0FF7}][{0FF4}][{0FF5}][{0F6B}][{ICON_ARROW}]Anggur2 ini tdk utk dimakan.  [{PRESS}][{CLEARBOX}]
+[{0F6B}][{0FF7}]Aku tak suka dengan si 
+kap kamu. Kau tak perlu da
+tang besok.   
 ---------------------------------------------
 [0436]
 [{0F63}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Ia bisa jd marah!!!
@@ -2797,26 +2809,26 @@ Kau disana ga, [{MC_NAME}]?
 [{0FC9}][{0FF7}][{0FF4}][{0FF5}][{ICON_ANN_HEART}]Aku kesini utk bicara bisnis. 
 Dimulai dari esok hari,
 dptkah kau antar 3 telur segar
-ke Inn utk keperluan[{PRESS}][{CLEARBOX}]
-memasak kami?
-Itu hanyalah utk sementara…[{PRESS}][{0FFA}]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}] Baik, akan kukirim.
- Maaf, tdk bisa.
+ke Inn utk keperluan me [{PRESS}][{CLEARBOX}]
+masak kami? Itu hanyalah untuk
+sementara...[{PRESS}][{0FFA}]
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}] Baik, akan aku kirim 
+ Maaf, tidak bisa
 ---------------------------------------------
 [0439]
 [{0FC9}][{0FF7}][{0FF4}][{0FF5}][{ICON_ANN_HEART}]Bagus, makasih. Tentu akan ku
 bayar atas pelayanannya.
 Bawakan 3 telur setiap hari,  
 dimulai dari esok hari.[{PRESS}][{CLEARBOX}]
-Sebelum pukul 05:00PM…
+Pukul 5 sore...
 ---------------------------------------------
 [0440]
-[{0FCA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ANN_HEART}]Oh begitu… OK. Dadaah.
+[{0FCA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ANN_HEART}]Oh gitu…OK. Dadaah.
 ---------------------------------------------
 [0441]
 [{0FCA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ANN_HEART}]Apa kau membawa 3 telur?![{PRESS}][{0FFA}]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}] Ya, aku bawa.
- Tdk, kubawa.
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}] Ya, kubawa
+ Tak kubawa{'t}
 ---------------------------------------------
 [0442]
 [{0FC9}][{0FF7}][{0FF4}][{0FF5}][{ICON_ANN_HEART}]Bagus, berikan padaku. 
@@ -2827,15 +2839,15 @@ Wow ini bagus sekali.
 Nih… bayaran utk telurnya.
 ---------------------------------------------
 [0444]
-[{0FCA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ANN_HEART}]Oh begitu… kutunggu sampai
-pukul 04:50PM ya…
+[{0FCA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ANN_HEART}]Oh begitu…
+kutunggu sampai jam  5:00.
 ---------------------------------------------
 [0445]
 [{0FCA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ANN_HEART}]Hi! Ini aku.
 ---------------------------------------------
 [0446]
-[{0FC9}][{0FF7}][{0FF4}][{0FF5}][{ICON_ANN_HEART}]Terimakasih atas bantuan
-telur darimu.
+[{0FC9}][{0FF7}][{0FF4}][{0FF5}][{ICON_ANN_HEART}]Makasih atas bantuan telur da
+rimu.
 Ini hadiah terimakasihku.
 ---------------------------------------------
 [0447]
@@ -2853,58 +2865,59 @@ ri ini.
 Itu keahlian kami.
 ---------------------------------------------
 [0450]
-[{0F3C}][{0FF7}][{0FF4}][{0FF5}][{0FC9}][{ICON_ARROW}]Nyamh… nyamh… nyamh…
-Masakannya enak sekali…[{PRESS}][{CLEARBOX}]
-[{0FC9}][{0FF7}][{0F7C}]Oh, hebatnya!!!
-Sekarang turis desa ini
-akan datang dan makan
-di Bar Inn kami!!![{PRESS}][{CLEARBOX}]
-[{0F7C}][{0FF7}]Dan orang2 dari desa tetangga
-akan membeli telur kita.
+[{0F3C}][{0FF7}][{0FF4}][{0FF5}][{0FC9}][{ICON_ARROW}]Nyamh…nyamh…nyamh.
+Semuanya enak sekali....[{PRESS}][{CLEARBOX}]
+[{0FC9}][{0FF7}][{0F7C}]Oh, hebatnya!!
+Sekarang turis desa ini  
+kan datang dan makan di Inn
+kami!!!![{PRESS}][{CLEARBOX}]
+[{0F7C}][{0FF7}]Dan orang2 dari desa te 
+tangga akan membeli telur  
+kita.
 ---------------------------------------------
 [0451]
-[{0F3B}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Bagus… orang2 akan membawakan
-aku makanan dan minuman utk
-pujianku.
+[{0F3B}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Bagus…orang2 akan bawakan 
+aku makanan dan minuman untuk
+pujianku. 
 ---------------------------------------------
 [0452]
-[{0F6C}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Hei, kau Pencicip Masakan.
-Pas sekali kau berkunjung…
-Nih, coba cicipi sedikit
-anggur buatanku.
+[{0F6C}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Hey, kau Pencicip Maka 
+nan, kan? Pas sekali...
+Nih, coba sedikit ang
+gur buatanku. 
 ---------------------------------------------
 [0453]
-[{0F3C}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Terimakasih banyak.
-Aku akan kembali ke Bar Inn
-dan mencicipi lagi.
+[{0F3C}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Terimakasih banyak. 
+Aku kan kembali ke Inn dan co 
+ba lagi
 ---------------------------------------------
 [0454]
-[{0F6C}][{0FF7}][{0FF4}][{0FF5}][{0F69}][{ICON_ARROW}]Kau kenal dia…?
-Dia Juri Masak yg datang
-saat Festival Masak.[{PRESS}][{CLEARBOX}]
-[{0F69}][{0FF7}]Jika dia menyukainya, dia
-menuliskannya dalam bukunya,
-dan lalu byk orang datang
-mencobanya… Tapi aneh dia[{PRESS}][{CLEARBOX}]
-datang kesini sekarang, padahal
-sedang tdk ada festival.
+[{0F6C}][{0FF7}][{0FF4}][{0FF5}][{0F69}][{ICON_ARROW}]Kau kenal dia..?
+Dia penilai masakan yg datang 
+saat diadakan festival. [{PRESS}][{CLEARBOX}]
+[{0F69}][{0FF7}]Jika dia menyukainya,
+dia menulisnya dalam buku
+nya, dan lalu banyak orang da
+tang mencobanya… Tapi aneh [{PRESS}][{CLEARBOX}]
+dia di sini sekarang  
+padahal tidak ada festival.
 ---------------------------------------------
 [0455]
 [{0F43}][{0FF7}][{0FF4}][{0FF5}][{0F69}][{ICON_ARROW}]…Jadi katamu anggur itu dicuri
-dari gudang entah kapan
+dari gudang entah kapan  
 waktu tadi malam, yah...?[{PRESS}][{CLEARBOX}]
 [{0F69}][{0FF7}][{0F46}]Iya, meskipun aku keluar masuk
 gudang tersebut sampai malam
-sangat larut sekali semalam.[{PRESS}][{CLEARBOX}]
+sangat larut sekali semalam. [{PRESS}][{CLEARBOX}]
 [{0F46}][{0FF7}][{0F69}]Baik, akan kuperiksa.[{PRESS}][{CLEARBOX}]
-Ngomong2, kudengar Pencicip
-Masakan mengunjungi desa
+Ngomong2, kudengar Penci
+cip Masakan mengunjungi desa
 ini yah?[{PRESS}][{CLEARBOX}]
-[{0F69}][{0FF7}][{0F46}]Iya, itu benar. Bahkan, kuberi
-dia sedikit anggur persis
-seperti yg telah dicuri.[{PRESS}][{CLEARBOX}]
+[{0F69}][{0FF7}][{0F46}]Iya, itu benar. Bahkan, ku
+beri dia sedikit anggur persis
+seperti yg telah dicuri. [{PRESS}][{CLEARBOX}]
 [{0F46}][{0FF7}][{0F6C}]Baik, aku pergi dulu...[{PRESS}][{CLEARBOX}]
-[{0F6C}][{0FF7}]Kuharap kau bisa bantu.
+[{0F6C}][{0FF7}]Kuharap kau bisa bantu. 
 ---------------------------------------------
 [0456]
 [{0F37}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Oh oh!
@@ -2926,11 +2939,11 @@ Kau orang jahat.[{PRESS}][{CLEARBOX}]
 [{0F46}][{0FF7}]Terimakasih banyak,  [{MC_NAME}].
 ---------------------------------------------
 [0458]
-[{0F6D}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Terimakasih telah datang dan
-ikut perduli.
+[{0F6D}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Makasih telah datang dan per
+duli…  
 ---------------------------------------------
 [0459]
-[{0F8B}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Halo kakak [{MC_NAME}].
+[{0F8B}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Hi [{MC_NAME}].
 ---------------------------------------------
 [0460]
 [{0F8B}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kata kakek hari ini boleh
@@ -2944,10 +2957,10 @@ Jangan diganggu.
 ---------------------------------------------
 [0462]
 [{0F89}][{0FF7}][{0FF4}][{0FF5}][{0F8D}][{ICON_ARROW}]Tapi semuanya kerja sekarang.
-Aku bosan.[{PRESS}][{CLEARBOX}]
-[{0F8D}][{0FF7}]Oh sayangku…[{PRESS}][{0FFA}]
-[{0FF6}] Temui paman Carter.
- Temui nenek Ellen.
+Aku bosan[{PRESS}][{CLEARBOX}]
+[{0F8D}][{0FF7}]Oh dear…[{PRESS}][{0FFA}]
+[{0FF6}] Ke gerejalah
+ Temui Ellen 
 ---------------------------------------------
 [0463]
 [{0FB1}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Oh, begitu.
@@ -2959,11 +2972,11 @@ Aku bisa menjaga dia.
 Sedang apa kau sendirian?
 ---------------------------------------------
 [0465]
-[{0F24}][{0FF7}][{0FF4}][{0FF5}][{0FB0}][{ICON_ARROW}]…Tak ada yg peduli aku…
-Mereka semua sibuk.[{PRESS}][{CLEARBOX}]
+[{0F24}][{0FF7}][{0FF4}][{0FF5}][{0FB0}][{ICON_ARROW}]…Tak ada yg peduli aku…Mereka
+semua sibuk. [{PRESS}][{CLEARBOX}]
 [{0FB0}][{0FF7}]Tunggu dulu… kau dan May punya
-masalah sama. Ayo, kita
-bermain bersama2.
+masalah sama. Ayo, kita ber
+main bersama2.
 ---------------------------------------------
 [0466]
 [{0FB0}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Jgn kawatir,
@@ -2976,43 +2989,42 @@ malam.
 Apa aku suaminya?
 ---------------------------------------------
 [0468]
-[{0F5E}][{0FF7}][{0FF4}][{0FF5}][{0F62}][{ICON_ARROW}]Stu baru saja mengajak main
-dgnku, tapi aku cepat lelah
-dan tak kuat utk berdiri…[{PRESS}][{CLEARBOX}]
-[{0F62}][{0FF7}]Oh aku tahu… bagaimana kalau
-ke tempat Carter?, dia baik…
-Jika dia libur, pasti mau
-menjaga mereka berdua main.
+[{0F5E}][{0FF7}][{0FF4}][{0FF5}][{0F62}][{ICON_ARROW}]Stu baru ajak aku main dengan 
+dia…tapi aku cepat lelah dan 
+tak kuat utk berdiri..[{PRESS}][{CLEARBOX}]
+[{0F62}][{0FF7}]Oh, aku tahu…gimana kalau ke 
+gereja? Pastor Carter baik....
+Jika dia libur pasti dia akan
+jaga dia....
 ---------------------------------------------
 [0469]
-[{0F8B}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Bila aku sdh besar aku mau
-jadi istrimu… kakak [{MC_NAME}].[{PRESS}][{0FFA}]
-[{0FF6}] Baik, lekas besar ya…
- Uhmmm…
+[{0F8B}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Bila aku besar aku mau jadi
+istrimu... [{MC_NAME}].[{PRESS}][{0FFA}]
+[{0FF6}] Baik, cepatlah besar 
+ Ummmm……
 ---------------------------------------------
 [0470]
-[{0F8B}][{0FF7}][{0FF4}][{0FF5}][{0F23}][{ICON_ARROW}]Sungguh…?! Baik, kita cantel
-jari kelingking.[{PRESS}][{CLEARBOX}]
-[{0F23}][{0FF7}]Aku pulang duluan ya…
+[{0F8B}][{0FF7}][{0FF4}][{0FF5}][{0F23}][{ICON_ARROW}]Sungguh?! Baik, kita cantel ke
+lingking[{PRESS}][{CLEARBOX}]
+[{0F23}][{0FF7}]Aku pulang ya…
 ---------------------------------------------
 [0471]
-[{0F88}][{0FF7}][{0FF4}][{0FF5}][{0F25}][{ICON_ARROW}]Kenapa?[{PRESS}][{CLEARBOX}]
-[{0F25}][{0FF7}]Kau akan jadi istri
-kakak [{MC_NAME}]!, benarkan?
-Main saja sama dia!!!
+[{0F88}][{0FF7}][{0FF4}][{0FF5}][{0F25}][{ICON_ARROW}]Knp?[{PRESS}][{CLEARBOX}]
+[{0F25}][{0FF7}]Kau akan jadi istri 
+[{MC_NAME}], benarkan? Main aja ama dia!
 ---------------------------------------------
 [0472]
-[{0FAD}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Hei, apa yg terjadi…?
+[{0FAD}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Hey, apa yang terjadi...?
 ---------------------------------------------
 [0473]
 [{0FB0}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Ayo, waktunya ngemil... 
 ---------------------------------------------
 [0474]
 [{0FAD}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Apa kalian ini bertengkar?!
-Ayo pd masuk ke dalam…
+Ayo ke dalam...
 ---------------------------------------------
 [0475]
-[{0F8B}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kita sudah berjanji, iya kan?
+[{0F8B}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kita sudah berjanji, kan?
 ---------------------------------------------
 [0476]
 [{0F25}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Jgn bicara padaku.
@@ -3025,42 +3037,43 @@ pikirkan.
 ---------------------------------------------
 [0478]
 [{0F89}][{0FF7}][{0FF4}][{0FF5}][{0F27}][{ICON_ARROW}]…………[{PRESS}][{CLEARBOX}]
-[{0F27}][{0FF7}]Lupakan saja May…
-Kau ini masih kecil.
+[{0F27}][{0FF7}]Lupakan May…kau ini masih
+kecil.
 ---------------------------------------------
 [0479]
 [{0F89}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]…………
 ---------------------------------------------
 [0480]
-[{0F27}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kukira kau tdk salah,
-kakak [{MC_NAME}].
-Seseorang seumuran kakakku Elli
-lebih cocok utk kamu.
+[{0F27}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kukira kau tidak salah, [{MC_NAME}].
+seseorang seumur ka 
+kakku lebih baik untuk kamu. 
 ---------------------------------------------
 [0481]
-[{0F5D}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Hei… sepertinya akan ada
-badai salju datang hari ini.
-Jgn pergi dulu ke arah gunung.
+[{0F5D}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Hey…sepertinya akan ada badai
+datang hari ini.
+Jangan pergi jauh ke
+gunung.   
 ---------------------------------------------
 [0482]
-[{0FF6}]Sepertinya badai salju
-datang…
+[{0FF6}]Sepertinya badai salju da
+tang…
 ---------------------------------------------
 [0483]
-[{0F5B}][{0FF7}][{0FF4}][{0FF5}][{0F5D}][{ICON_ARROW}]Kuperingatkan… Jgn anggap
-remeh gunung di musim dingin…[{PRESS}][{CLEARBOX}]
+[{0F5B}][{0FF7}][{0FF4}][{0FF5}][{0F5D}][{ICON_ARROW}]Kuperingatkan… Jgn 
+anggap enteng gunung di musim
+winter…[{PRESS}][{CLEARBOX}]
 [{0F5D}][{0FF7}]Maaf teriak… Kau tak apa2?!
 ---------------------------------------------
 [0484]
-[{0F5D}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Sepertinya badai salju
-sudah mereda.
-Sekarang kau boleh pulang…
+[{0F5D}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Sepertinya badai sudah 
+mereda.
+Sekarang waktunya pulang...
 ---------------------------------------------
 [0485]
 [{0F5D}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Maafkan aku… aku kehilangan  
 keluargaku saat badai…
 Tapi itu sudah lama sekali. 
-Jgn khawatirkan itu.
+Jgn kawatirkan itu. 
 ---------------------------------------------
 [0486]
 [{0F5A}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]…………
@@ -3070,22 +3083,20 @@ Jgn khawatirkan itu.
 ---------------------------------------------
 [0488]
 [{0F51}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Apa kabarnya?!
-Aku disini semusim saat
-musim panas.
+Aku di sini sebulan saat
+summer.
 ---------------------------------------------
 [0489]
 [{0F51}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kunjungi pondok pantaiku itu
 OK?
 ---------------------------------------------
 [0490]
-[{0F57}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Musim panas usai, jadi aku
-pulang ke daerah selatan lagi…
-Hanya mau berpamitan…
-Sampai jumpa tahun depan.
+[{0F57}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Summer selesai jadi aku ke
+selatan lagi… hanya mau berpa 
+mitan… Sampai junpa.
 ---------------------------------------------
 [0491]
-[{0F51}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Sampai bertemu musim panas
-tahun depan!
+[{0F51}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Sampai summer depan!
 ---------------------------------------------
 [0492]
 [{0F35}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Benar kataku!
@@ -3104,66 +3115,65 @@ Ini adl mereka![{PRESS}][{CLEARBOX}]
 [{0F36}][{0FF7}][{0F36}]Karena lebah ini sangat  
 langka, kukira kau bisa  
 jual madunya dgn lebih mahal.
-Akan kuberitahu pembelinya…[{PRESS}][{CLEARBOX}]
-[{0F36}][{0FF7}]Dadaaah… oh… akan kubawa
-salah satu. Terimakasih.
+Kan kuberitahu pembelinya...[{PRESS}][{CLEARBOX}]
+[{0F36}][{0FF7}]Dadaaah…oh…akan kubawa sa 
+lah satu. Terimakasih.
 ---------------------------------------------
 [0494]
 [{0FAE}][{0FF7}][{0FF4}][{0FF5}][{0F8E}][{ICON_ARROW}]Kita di sini hari ini berdoa [{PRESS}][{CLEARBOX}]
 [{401E}]semoga jiwanya damai...[{PRESS}][{CLEARBOX}]
-[{0F8E}][{0FF7}]Tolong jgn biarkan terjadi lagi…
-Ingatlah bahwa hewan ternakmu
-benar2 bergantung kpdmu…
+[{0F8E}][{0FF7}]Toong jangan biarkan terjadi
+lagi… Ingatlah bahwa he
+wan benar-benar bergan
+tung kepadamu....
 ---------------------------------------------
 [0495]
-[{0FF6}]Hari ini… sapi dari 
-kebun [{400D}] mati
-karena sakit…
+[{0FF6}]Hari ini… sapi dari kebun 
+mati karena sakit....
 ---------------------------------------------
 [0496]
 [{0FAE}][{0FF7}][{0FF4}][{0FF5}][{0F8E}][{ICON_ARROW}]Kita di sini hari ini berdoa [{PRESS}][{CLEARBOX}]
 [{401F}]semoga jiwanya damai...[{PRESS}][{CLEARBOX}]
-[{0F8E}][{0FF7}]Tolong jgn biarkan terjadi lagi…
-Ingatlah bahwa hewan ternakmu
-benar2 bergantung kpdmu…
+[{0F8E}][{0FF7}]Tolong jangan sampai terjadi
+lagi… Ingatlah bahwa he
+wan sangat bergantung 
+penuh pada dirimu
 ---------------------------------------------
 [0497]
-[{0FF6}]Hari ini… domba dari 
-kebun [{400D}] mati
-karena sakit…
+[{0FF6}]Hari ini… domba dari kebun 
+mati karena sakit....
 ---------------------------------------------
 [0498]
 [{0FAE}][{0FF7}][{0FF4}][{0FF5}][{0F8D}][{ICON_ARROW}]Kita di sini hari ini berdoa [{PRESS}][{CLEARBOX}]
 [{401B}]semoga jiwanya damai...[{PRESS}][{CLEARBOX}]
 [{0F8D}][{0FF7}]Jangan terlalu sedih.
-Kau sangat baik memeliharanya…
+Kau sangat baik mengurusnya...
 ---------------------------------------------
 [0499]
-[{0FF6}]Hari ini… sapi dari 
-kebun [{400D}] mati
-karena sudah tua…
+[{0FF6}]Hari ini…sapi dari kebun mati 
+karena tua…
 ---------------------------------------------
 [0500]
 [{0FAE}][{0FF7}][{0FF4}][{0FF5}][{0F8D}][{ICON_ARROW}]Kita di sini hari ini berdoa [{PRESS}][{CLEARBOX}]
 [{401C}]semoga jiwanya damai...[{PRESS}][{CLEARBOX}]
 [{0F8D}][{0FF7}]Jgn terlalu sedih.
-Kau sangat baik memelihara si [{401C}]…
+Kau sgt baik mengurus
+[{401C}].
 ---------------------------------------------
 [0501]
-[{0FF6}]Hari ini… domba
-kebun [{400D}] mati
-karena sudah tua…
+[{0FF6}]Hari ini…domba dari kebun  
+mati karena tua…
 ---------------------------------------------
 [0502]
 [{0FAE}][{0FF7}][{0FF4}][{0FF5}][{0F7B}][{ICON_ARROW}]Kita di sini hari ini berdoa [{PRESS}][{CLEARBOX}]
 [{4020}]semoga jiwanya damai...[{PRESS}][{CLEARBOX}]
 [{0F7B}][{0FF7}]…Aku percaya kau akan baik
-memeliharanya… Tolong jgn
-lakukan hal itu lagi.
+mengurusnya… Tolong jangan la
+kukan itu lagi
 ---------------------------------------------
 [0503]
-[{0FF6}]Hari ini… ayam dari kebun [{400D}]
-mati krn penyakitnya…
+[{0FF6}]Hari ini…ayam dari kebun mati
+karena penyakitnya...
 ---------------------------------------------
 [0504]
 [{0FAE}][{0FF7}][{0FF4}][{0FF5}][{0F7B}][{ICON_ARROW}]Kita di sini hari ini berdoa [{PRESS}][{CLEARBOX}]
@@ -3173,62 +3183,57 @@ pd yg mati sebelum kita…
 Tetap, ini berat.
 ---------------------------------------------
 [0505]
-[{0FF6}]Hari ini… ayam dari kebun [{400D}]
-mati karena sudah tua…
+[{0FF6}]Hari ini…ayam dari kebun mati
+karna sudah tua…
 ---------------------------------------------
 [0506]
-[{0F31}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Wow, ikannya di kolam
-sangat banyak…
+[{0F31}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Wow, ikannya sgt banyak…
 ---------------------------------------------
 [0507]
-[{0F30}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Ikannya memang banyak.
-Tapi jika kau menggunakan
-Pancing Besar ini, kau akan
-dpt ikan lebih banyak lagi.
+[{0F30}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Ikannya emang banyak.
+Tapi jika gunakan ini,
+akan lebih banyak lagi.
 ---------------------------------------------
 [0508]
-[{0F31}][{0FF7}][{0FF4}][{0FF5}][{0F2F}][{ICON_ARROW}]Hai. Tak ada yg spesial…,
-cuma… Apa itu…?!!![{PRESS}][{CLEARBOX}]
-[{0F2F}][{0FF7}]Kau tangkap semua Raja ikannya?
-Kau buat cetakkan ikannya…?
+[{0F31}][{0FF7}][{0FF4}][{0FF5}][{0F2F}][{ICON_ARROW}]Hai. Tak ada yg khusus…cuma…
+Apa itu..?!![{PRESS}][{CLEARBOX}]
+[{0F2F}][{0FF7}]Kau tangkap semua Rajanya?
+Kau buat cetakan ikan..?
 ---------------------------------------------
 [0509]
-[{0F2F}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Bisakah kau tunjukkan bukti
-cetakkan Raja ikannya padaku?!!!
+[{0F2F}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Bisakah tunjukkan padaku?!
 ---------------------------------------------
 [0510]
-[{0F2F}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Wow…, kau hebat [{MC_NAME}]!!!
-Kau tangkap 6 Raja ikannya!
-Kau Rajanya Pemancing!!![{PRESS}][{CLEARBOX}]
-[{0FF6}]Dapat gelar "Raja Pemancing".
+[{0F2F}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Aw, hebat!
+Kau tangkap 6 Rajanya!
+Kau Rajanya Pemancing![{PRESS}][{CLEARBOX}]
+[{0FF6}]Dpt gelar "Raja Pemancing" 
 ---------------------------------------------
 [0511]
-[{0F43}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Permisi [{MC_NAME}]…
-Ini aku Harris…
+[{0F43}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Permisi…Ini aku Harris..
 ---------------------------------------------
 [0512]
 [{0F43}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Maafkan aku datang larut,
-tapi… bisa kita bicara
-sebentar…?[{PRESS}][{0FFA}]
-[{0FF6}] Iya, silahkan.
- Aku sibuk…
+tapi…bisa kita bicara
+sebentar..?[{PRESS}][{0FFA}]
+[{0FF6}] Iya, silahkan
+ Aku sibuk..
 ---------------------------------------------
 [0513]
-[{0F43}][{0FF7}][{0FF4}][{0FF5}][{0F42}][{ICON_ARROW}]Sebenarnya… aku jatuh cinta
-kepada Aja, anaknya pemilik
-Kebun Anggur yg telah pindah
-ke kota…[{PRESS}][{CLEARBOX}]
-[{0F42}][{0FF7}]Aku ingin menulis surat padanya,
+[{0F43}][{0FF7}][{0FF4}][{0FF5}][{0F42}][{ICON_ARROW}]Sebenarnya…aku jatuh cinta pd
+Aja, anak dari Kebun Anggur
+yang telah pindah ke kota...[{PRESS}][{CLEARBOX}]
+[{0F42}][{0FF7}]Aku ingin tulis surat padanya
 tapi aku tak punya sesuatu
-utk dituliskan… apa ada yg
-terjadi disini?
+utk dituliskan… apa ada yang
+terjadi di sini?
 ---------------------------------------------
 [0514]
 [{0F43}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Maafkan aku berbicara begini…
 Tak ada maksud mengganggumu.
 ---------------------------------------------
 [0515]
-[{0F43}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Oh, baik… maaf telah
+[{0F43}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Oh, baik…maaf telah
 mengganggu kamu.
 ---------------------------------------------
 [0516]
@@ -3237,74 +3242,71 @@ mengganggu kamu.
 [0517]
 [{0F63}][{0FF7}][{0FF4}][{0FF5}][{0F66}][{ICON_ARROW}]Ada banyak sekali pria bujangan
 di desa kita ini.
-Kenapa anakku malah pergi ya…?[{PRESS}][{CLEARBOX}]
+Kenapa anakku malah pergi...?[{PRESS}][{CLEARBOX}]
 [{0F67}][{0FF7}][{0F66}]Oh, kau belum menikah ya,
 benarkan?[{PRESS}][{CLEARBOX}]
-[{0F66}][{0FF7}][{0F63}]Kapan2 kau hrs bertemu Aja.
-Umurnya sedikit lebih tua darimu,
-tapi dia cantik mempesona
-seperti diriku.[{PRESS}][{CLEARBOX}]
+[{0F66}][{0FF7}][{0F63}]Kau harus bertemu Aja kapan2.
+Dia sedikit lebih tua darimu
+tapi dia cantik sepertiku.[{PRESS}][{CLEARBOX}]
 [{0F63}][{0FF7}]Dia akan pulang jika sangat
 ingin menikah…
 Bagaimana menurutmu?!
 ---------------------------------------------
 [0518]
-[{0F67}][{0FF7}][{0FF4}][{0FF5}][{0F66}][{ICON_ARROW}]Apa? Harris?
-Dia naksir Aja…?
-Hmmm.[{PRESS}][{CLEARBOX}]
-[{0F66}][{0FF7}]Aku hrs bilang ini pd Duke!
-Harris itu memang mirip anakku!!
+[{0F67}][{0FF7}][{0FF4}][{0FF5}][{0F66}][{ICON_ARROW}]Apa? Harris? Dia suka Aja..?
+Hmmmm.[{PRESS}][{CLEARBOX}]
+[{0F66}][{0FF7}]Aku harus bilang ini pd Duke!
+Itu memang seperti anakku!!
 ---------------------------------------------
 [0519]
 [{0F42}][{0FF7}][{0FF4}][{0FF5}][{0F43}][{ICON_ARROW}]Maaf telah bicarakan masalahku
 pada waktu kemarin itu.[{PRESS}][{CLEARBOX}]
-[{0F43}][{0FF7}]Pria diposisiku seharusnya
-berpikir masalah akan terjadi…
-Aku merasa bersalah.
-Maafkan aku [{MC_NAME}].
+[{0F43}][{0FF7}]Pria di posisiku seharusnya
+berharap masalah akan terjadi…
+Aku salah. Maafkan aku. 
 ---------------------------------------------
 [0520]
 [{0F4F}][{0FF7}][{0FF4}][{0FF5}][{0F46}][{ICON_ARROW}]Oh, hallo Harris.[{PRESS}][{CLEARBOX}]
-[{0F46}][{0FF7}][{0F4C}]Apa ada kejadian Zack?[{PRESS}][{CLEARBOX}]
-[{0F4C}][{0FF7}][{0F46}]Tidak, ini ada surat untukmu.
-Aku baru saja akan bawakan
-ke rumahmu,
-tapi kau ada disini.[{PRESS}][{CLEARBOX}]
-[{0F46}][{0FF7}]Oh, terimakasih banyak.
+[{0F46}][{0FF7}][{0F4C}]Apa ada yang terjadi?[{PRESS}][{CLEARBOX}]
+[{0F4C}][{0FF7}][{0F46}]Tidak, ada surat untukmu. 
+Aku baru saja akan bawakan ke 
+rumahmu tapi kau di sini. [{PRESS}][{CLEARBOX}]
+[{0F46}][{0FF7}]Oh, terimakasih banyak. 
 ---------------------------------------------
 [0521]
 [{0F45}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Itu dari Aja!
-Surat dari Aja… untukku!?
+Dari Aja…utkku!?
 ---------------------------------------------
 [0522]
-[{0F45}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]…Kau cerita pd bibi Manna?
-Terimakasih banyak [{MC_NAME}].
-Oh, tapi aku hrs patroli dulu.
-Sampai nanti.
+[{0F45}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]…Kau bilang?
+Terimakasih banyak. 
+Oh, tapi aku harus berpatroli 
+dulu. Sampai nanti.
 ---------------------------------------------
 [0523]
 [{0F2C}][{0FF7}][{0FF4}][{0FF5}][{0F2B}][{ICON_ARROW}]Wah bukankah ini [{MC_NAME}].
-Bagaimana aku tahu namamu?!
-Itu karena aku adalah Dewi.[{PRESS}][{CLEARBOX}]
-[{0F2B}][{0FF7}]Terimakasih atas hadiahmu.
+Gimana aku tahu namamu?!
+Itu karna begitulah aku.[{PRESS}][{CLEARBOX}]
+[{0F2B}][{0FF7}]Terimakasih atas penawaranmu
 ---------------------------------------------
 [0524]
 [{0F2B}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Wah bukankah ini [{MC_NAME}]
-lagi…
-Terimakasih atas hadiahmu.
+lagi. 
+Terimakasih atas penawaranmu
 ---------------------------------------------
 [0525]
 [{0F28}][{0FF7}][{0FF4}][{0FF5}][{0F2C}][{ICON_ARROW}]Wah bukankah ini [{MC_NAME}]…
-lagi. Kau sering datang…,
-biar kulakukan sesuatu utkmu.[{PRESS}][{CLEARBOX}]
-[{0F2C}][{0FF7}]Apa kau punya kekasih…?[{PRESS}][{0FFA}]
-[{0FF6}] Ya, punya.
- Belum punya.
+lagi. 
+Kau sering datang…biar kulaku
+kan sesuatu utkmu.[{PRESS}][{CLEARBOX}]
+[{0F2C}][{0FF7}]Apa kau punya kekasih...?[{PRESS}][{0FFA}]
+[{0FF6}] Ya, punya
+ Tak punya 
 ---------------------------------------------
 [0526]
 [{0F2C}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Aku mengerti…
-Terimakasih atas hadiahmu.
-Sampai nanti.
+Terimakasih atas penawaranmu
+Sampai nanti. 
 ---------------------------------------------
 [0527]
 Dummy
@@ -3327,66 +3329,65 @@ mandi. Dadaaaah!
 ---------------------------------------------
 [0531]
 [{0FC3}][{0FF7}][{0FF4}][{0FF5}][{ICON_ANN_HEART}]Kita ketemu lagi! Apa?
-Ada monyet di kolam air panas?
-Wah, aku mandi lain kali saja.
-Dadaah…
+Tak ada monyet di kolam air panas?
+Wah, kurasa lain 
+kali saja aku mandinya. Dadaah
 ---------------------------------------------
 [0532]
-[{0FB9}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Oh, kebetulan sekali…
-Aku lelah…, jadi aku akan
-mandi di kolam air panas dan
-istirahat sebentar.
+[{0FB9}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Oh, kebetulan sekali...
+Aku lelah…jadi aku akan man
+di di kolam air panas dan isti
+rahat sebentar. 
 ---------------------------------------------
 [0533]
-[{0FB9}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Oh, ketemu lagi!!! Apa?!
-Ada monyet di kolam air panas?
-Iya…, tapi aku terlanjur
-berendam di dalam air…
+[{0FB9}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Oh, ketemu lagi!!!
+Apa ada monyet di kolam air pa
+nas? Iya…tapi aku sudah bera
+da di air....
 ---------------------------------------------
 [0534]
-[{0FE3}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}]Kau dari kolam air panas…?
-Aku akan kesana sekarang.
+[{0FE3}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}]Kau dari kolam air panas..?
+Aku kan kesana sekarang
 ---------------------------------------------
 [0535]
-[{0FE4}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}]Oh…, sedang apa kau disini?!
-Ada monyet di pemandian air
-panas?! Haha, ternyata mereka
-suka air panas juga.[{PRESS}][{CLEARBOX}]
-Baik, hari ini aku tidak
-akan pergi kesana.
+[{0FE4}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}]Oh…sedang apa kau di sini?!
+Ada monyet di pemandian air 
+panas?! Haha, mereka suka air
+panas juga. [{PRESS}][{CLEARBOX}]
+Ya, hari ini aku tak kesana.
 ---------------------------------------------
 [0536]
-[{0F9B}][{0FF7}][{0FF4}][{0FF5}][{ICON_MARY_HEART}]Leherku pegal karena menulis
-novel, jadi aku kesini ingin
-bersantai. Airnya punya bermacam
-khasiat tahu tidak?
+[{0F9B}][{0FF7}][{0FF4}][{0FF5}][{ICON_MARY_HEART}]Leherku kejang karena menu
+lis novel, jadi aku ke sini 
+ingin bersantai. Airnya punya
+macam-macam efek tahu tidak?
 ---------------------------------------------
 [0537]
-[{0F97}][{0FF7}][{0FF4}][{0FF5}][{ICON_MARY_HEART}]Sedang apa kau disini…?
+[{0F97}][{0FF7}][{0FF4}][{0FF5}][{ICON_MARY_HEART}]Sedang apa kau di sini..?
 Ada monyet di kolam air panas?
-OMG!!! Aku tak mau
-mandi bersama monyet…
+Oh, ya tuhanku. 
+Aku tak mau mandi dengan itu…
 ---------------------------------------------
 [0538]
 [{0F2B}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Wah bukankah ini [{MC_NAME}]
-lagi. Sangat langka lihat
-manusia sering datang…
-Kuberikan kau ini.
+lagi. Sangat langka lihat ma
+nusia sering datang…Nih, biar
+kuberikan kau ini. 
 ---------------------------------------------
 [0539]
-[{0F5D}][{0FF7}][{0FF4}][{0FF5}][{0F59}][{ICON_ARROW}]Wah, kebetulan sekali.
-Bagaimana jika kau berikan
-kayu itu padaku?
-Hari ini aku tak enak badan…[{PRESS}][{CLEARBOX}]
-[{0F59}][{0FF7}]Jadi cepat lelah kalau
-menebang pohon.
-Tentu aku akan bayar…
+[{0F5D}][{0FF7}][{0FF4}][{0FF5}][{0F59}][{ICON_ARROW}]Hey, pas sekali.
+Gimana jika kayu itu beri
+padaku?
+Hari ini aku tak enak badan[{PRESS}][{CLEARBOX}]
+[{0F59}][{0FF7}]…Jadi sgt sulit menebang
+pohon.
+Tentu akan aku bayar...
 ---------------------------------------------
 [0540]
 [{0F2C}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Wah bukankah ini [{MC_NAME}]
-lagi. Aku senang lihat kau
-sering datang. Kuberi kau
-ini, makanlah.
+lagi. Aku senang lihat kau sering
+datang. Nih, untukmu.
+Makanlah.
 ---------------------------------------------
 [0541]
 [{0EF3}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]…………
@@ -3419,8 +3420,8 @@ gunung itu.
 Boleh aku ikut istirahat?
 ---------------------------------------------
 [0547]
-[{0EF7}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Jangan khawatir…
-Aku tak akan buat masalah.
+[{0EF7}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Jgn kawatir…
+Aku tak buat masalah.
 ---------------------------------------------
 [0548]
 [{0FC4}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Akhir-akhir ini, makanan
@@ -3431,56 +3432,55 @@ kami hilang...
 kami?
 ---------------------------------------------
 [0550]
-[{0F42}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Iya, aku harus segera
-menangkapnya.
-Kueku juga telah dicuri.
+[{0F42}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Iya, aku harus segera menang
+kap dia.
+Kueku telah dicuri.
 ---------------------------------------------
 [0551]
 [{0F88}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Itu kecil dan mempunyai
 ekor...
 ---------------------------------------------
 [0552]
-[{0F8D}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kulihat sesuatu persis
-dengan gambaran.
-Tapi mataku kurang jelas. Aku
+[{0F8D}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kulihat seseorang persis dgn
+gambaran.
+Tapi mataku tak baik. Aku
 ingat dia punya suara keras.
 ---------------------------------------------
 [0553]
-[{0FC9}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Aku selalu beri kucing
-sisa makanan.
+[{0FC9}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Aku selalu beri kucing si
+sa makanan
 ---------------------------------------------
 [0554]
 [{0FCF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Oh, Ann membawanya karena
 kelihatan sakit.
 ---------------------------------------------
 [0555]
-[{0F8B}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Oh, itu kucing…
+[{0F8B}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Oh, itu kucing..
 ---------------------------------------------
 [0556]
-[{0F8E}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Apa… kucing?
+[{0F8E}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Apa…kucing?
 ---------------------------------------------
 [0557]
-[{0F44}][{0FF7}][{0FF4}][{0FF5}][{0F46}][{ICON_ARROW}]Kucingnya…, sepertinya ada
-bekas krim di wajahnya…[{PRESS}][{CLEARBOX}]
-Tentu saja!
-Pencurinya adalah kucing itu.
+[{0F44}][{0FF7}][{0FF4}][{0FF5}][{0F46}][{ICON_ARROW}]Kucingnya…sepertinya ada bekas
+krim di wajahnya..[{PRESS}][{CLEARBOX}]
+[{0F46}][{0FF7}]Tentu saja!
+Pencurinya kucing itu
 ---------------------------------------------
 [0558]
-[{0FCA}][{0FF7}][{0FF4}][{0FF5}][{0FCE}][{ICON_ARROW}]Apa…, jadi pencurinya
-itu kucing?[{PRESS}][{CLEARBOX}]
-[{0FCE}][{0FF7}]Hahaha… hahaha…
+[{0FCA}][{0FF7}][{0FF4}][{0FF5}][{0FCE}][{ICON_ARROW}]Apa…jadi itu kucing?[{PRESS}][{CLEARBOX}]
+[{0FCE}][{0FF7}]Hahahahahaha.
 ---------------------------------------------
 [0559]
 [{0FCA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Nah, aku harus bikin kue
 untuk Harris. 
 ---------------------------------------------
 [0560]
-[{0FCB}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Jika kucing yang melakukan,
-tidak ada yang salah.
+[{0FCB}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Jika kucing yg lakukan, tak ada
+yg salah
 ---------------------------------------------
 [0561]
-[{0F91}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Jadi yang kudengar ternyata
-suara kucing.
+[{0F91}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Jadi yg kudengar adl suara ku
+cing.
 ---------------------------------------------
 [0562]
 [{0F8C}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kucing juga suka kue...
@@ -3489,27 +3489,27 @@ suara kucing.
 [{0F45}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Pencuri yang lucu.
 ---------------------------------------------
 [0564]
-[{0FCC}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Maafkan aku restonya jadi
-berantakan.
-Tolong kembali lagi
-agak siang.
+[{0FCC}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Maafkan aku tokonya beran
+takan.
+Tolong kembali sedikit sia
+ngan. 
 ---------------------------------------------
 [0565]
 [{0F7B}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Tangan panjangnya seram. 
 ---------------------------------------------
 [0566]
-[{0FED}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Dia punya teriakan aneh,
+[{0FED}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Itu punya teriakan aneh,
 seperti keeee, keeeee.
 ---------------------------------------------
 [0567]
-[{0F25}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Dia ditutupi bulu-bulu.
+[{0F25}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Itu ditutupi bulu-bulu
 ---------------------------------------------
 [0568]
 [{0F43}][{0FF7}][{0FF4}][{0FF5}][{0F42}][{ICON_ARROW}]Orang-orang mulai bicara
-tentang serangan tiba2 saat
-mereka jalan disini malam2.[{PRESS}][{CLEARBOX}]
+tentang serangan tiba2 saat mere
+ka jalan di sini malam2. [{PRESS}][{CLEARBOX}]
 Aku bertanya pada korban
-gambarannya…[{PRESS}][{CLEARBOX}]
+gambarannya...[{PRESS}][{CLEARBOX}]
 [{0F42}][{0FF7}]Tapi semuanya gambarkan
 sesuatu yang berbeda karena
 cukup gelap…
@@ -3519,45 +3519,44 @@ cukup gelap…
 Jgn menuduhku!
 ---------------------------------------------
 [0570]
-[{0F59}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Oh… monyet ini… Kurasa dia
-datang dari gunung itu
-tanpa sengaja……
+[{0F59}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Oh…monyet ini… Kurasa dia
+datang dari gunung itu tanpa
+sengaja....
 ---------------------------------------------
 [0571]
-[{0F78}][{0FF7}][{0FF4}][{0FF5}][{0F44}][{ICON_ARROW}]Ahhh… kau menakutiku! monyet…?
-Tangannya berayun mengagetkanku.[{PRESS}][{CLEARBOX}]
-[{0F44}][{0FF7}]Tunggu…, hmmm……, tangannya
-panjang punya banyak bulu.
+[{0F78}][{0FF7}][{0FF4}][{0FF5}][{0F44}][{ICON_ARROW}]Ahhh…kau menakutiku! Monyet..?
+Tangan itu meloncat
+mengagetkanku. [{PRESS}][{CLEARBOX}]
+[{0F44}][{0FF7}]Tunggu…hmmm……tangan panjang
+banyak bulu
 ---------------------------------------------
 [0572]
-[{0F45}][{0FF7}][{0FF4}][{0FF5}][{0F27}][{ICON_ARROW}]Tentu saja! Penjahatnya
-adalah monyet ini!!![{PRESS}][{CLEARBOX}]
-[{0F27}][{0FF7}]Oh, jadi begitu.
+[{0F45}][{0FF7}][{0FF4}][{0FF5}][{0F27}][{ICON_ARROW}]Tentu saja!
+Penjahatnya adl monyet ini![{PRESS}][{CLEARBOX}]
+[{0F27}][{0FF7}]Oh, jadi gitu
 ---------------------------------------------
 [0573]
 [{0F5C}][{0FF7}][{0FF4}][{0FF5}][{0F59}][{ICON_ARROW}]Oh, kau bicarakan tentang
 monyet ini...[{PRESS}][{CLEARBOX}]
-[{0F59}][{0FF7}]Dia datang dari gunung tanpa
-sengaja baru-baru ini…
+[{0F59}][{0FF7}]Dia datang dari gunung tanpa se
+ngaja baru-baru ini…
 Kurasa aku harus bawa dia lagi
-karena dia sepertinya[{PRESS}][{CLEARBOX}]
+karena dia sepertinya [{PRESS}][{CLEARBOX}]
 mengganggu orang.
 ---------------------------------------------
 [0574]
-[{0F46}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Beberapa penduduk bilang
-mereka melihat sinar aneh
-disekitar sini, jadi aku
-memeriksanya.
+[{0F46}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Beberapa penduduk bilang mere
+ka lihat sinar aneh sekitar
+sini, jadi aku memeriksanya
 ---------------------------------------------
 [0575]
 [{0FF6}]Jalan malam hari seram ya,
 budum.
 ---------------------------------------------
 [0576]
-[{0FF6}][{0FF5}][{0F43}][{ICON_ARROW}]Apa…, Apa…?
-Apakah itu…, budum?[{PRESS}][{CLEARBOX}]
-[{0FF4}][{0F43}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Oh… bisa berbicara…
-To… tolong kemari sebentar.[{PRESS}][{CLEARBOX}]
+[{0FF6}][{0FF5}][{0F43}][{ICON_ARROW}]Apa…Apa…? Apakah itu…, budum?[{PRESS}][{CLEARBOX}]
+[{0FF4}][{0F43}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Oh…bisa berbicara!
+T…tolong coba kemarilah.[{PRESS}][{CLEARBOX}]
 [{0FF6}]??? Ada masalah, budum?
 ---------------------------------------------
 [0577]
@@ -3566,15 +3565,14 @@ Aku harus pulang sekarang dan
 memasak utk semuanya…, budum.
 ---------------------------------------------
 [0578]
-[{0F43}][{0FF7}][{0FF4}][{0FF5}][{0F4B}][{ICON_ARROW}]Ternyata sinar aneh sumbernya
-dari seorang Kurcaci Pemanen?![{PRESS}][{CLEARBOX}]
-[{0F4B}][{0FF7}][{0F45}]Iya, karena aku takut gelap
-Carter memberiku lentera
-bagus ini.[{PRESS}][{CLEARBOX}]
-[{0F45}][{0FF7}][{0F4B}]Oh begitu…, maaf telah
-menghentikan perjalananmu.
-Hati-hati di jalan ya…[{PRESS}][{CLEARBOX}]
-[{0F4B}][{0FF7}]Terimakasih…, budum.
+[{0F43}][{0FF7}][{0FF4}][{0FF5}][{0F4B}][{ICON_ARROW}]Sinar aneh datang dr seorang
+Kurcaci Panen?![{PRESS}][{CLEARBOX}]
+[{0F4B}][{0FF7}][{0F45}]Iya, nah, aku takut gelap
+jadi Carter beri aku lentera
+bagus ini budum.[{PRESS}][{CLEARBOX}]
+[{0F45}][{0FF7}][{0F4B}]Begitu… maaf buat kau berhenti.
+Hati-hati dlm perjalanan. [{PRESS}][{CLEARBOX}]
+[{0F4B}][{0FF7}]Makasaih…, budum.
 ---------------------------------------------
 [0579]
 [{0F46}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kita harus pulang juga.
@@ -3583,241 +3581,228 @@ Hati-hati di jalan ya…[{PRESS}][{CLEARBOX}]
 [{0F46}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Sampai nanti. 
 ---------------------------------------------
 [0581]
-[{0FE3}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}]Halo [{MC_NAME}] tampan…
+[{0FE3}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}]Hello.
 ---------------------------------------------
 [0582]
-[{0FE4}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}]Apa dirimu mau pergi ke
-Festival Tahun Baru?[{PRESS}][{0FFA}]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}] Iya, benar.
- Tidak sempat.
+[{0FE4}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}]Apa kau ini mau pergi ke Fes
+tival Tahun Baru?[{PRESS}][{0FFA}]
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}] Ya, benar
+ Tidak akan
 ---------------------------------------------
 [0583]
-[{0FE3}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}]Biar kuajari kau caranya
-menari.
-Kau belum tahu caranya kan?
+[{0FE3}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}]Biar keajari kau caranya ber
+dansa.
+Kau tak tahu caranya kan?
 ---------------------------------------------
 [0584]
-[{0FE4}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}]Wedew…, sekarang kau siap.
-Santai saja, festivalnya
-nanti pasti meriah.
+[{0FE4}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}]Phew…sekarang kau siap.
+festivalnya pasti meriah
+nanti.
 ---------------------------------------------
 [0585]
-[{0FE4}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}]Oh begitu… Aku akan mengajarimu
-menari untuk Festival
-Tahun Baru. Nah… itu tarian
-yg mudah, jadi kau pasti[{PRESS}][{CLEARBOX}]
-cepat bisanya jika kau mau.
-Datanglah jika dirimu berubah
-pikiran.
+[{0FE4}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}]Oh… Aku akan mengajari kau
+berdansa utk Festival Ta
+hun Baru. Nah…itu dansa yg
+mudah, jadi kau cepat  [{PRESS}][{CLEARBOX}]
+bisanya jika kau mau.
+Datanglah jika berubah pi
+kiran
 ---------------------------------------------
 [0586]
-[{0FEE}][{0FF7}][{0FF4}][{0FF5}][{0FE8}][{ICON_ARROW}]Berhasil, berhasil…!
-Mereka  memilih lukisanku itu.[{PRESS}][{CLEARBOX}]
+[{0FEE}][{0FF7}][{0FF4}][{0FF5}][{0FE8}][{ICON_ARROW}]Berhasil, berhasil!
+Mereka pilih gambarku itu[{PRESS}][{CLEARBOX}]
 [{0FE8}][{0FF7}][{0FEF}]Oh, itu hebat sekali.
-Mari kita pajang di toko
-secepatnya…[{PRESS}][{CLEARBOX}]
-[{0FEF}][{0FF7}][{0FE8}]Aku senang memutuskan melukis
-desa ini.[{PRESS}][{CLEARBOX}]
-[{0FE8}][{0FF7}][{0FEB}]Iya, mari kita buat acara
+Mari kita pajang di toko se
+cepatnya...[{PRESS}][{CLEARBOX}]
+[{0FEF}][{0FF7}][{0FE8}]Aku senang putuskan menggambar
+desa ini[{PRESS}][{CLEARBOX}]
+[{0FE8}][{0FF7}][{0FEB}]Iya, mari kita buat suatu
 perayaan ya.[{PRESS}][{CLEARBOX}]
-[{0FEB}][{0FF7}]Apa ya acaranya…
+[{0FEB}][{0FF7}]Apa ya...
 ---------------------------------------------
 [0587]
-[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Apa kau sudah dengar?
-Lukisanku telah dipilih.
+[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Apa kau dengar?
+Gambarku telah dipilih
 ---------------------------------------------
 [0588]
-[{0FE9}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kita harus buat acara
-untuk merayakannya…
+[{0FE9}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kita harus buat suatu utk
+merayakan...
 ---------------------------------------------
 [0589]
-[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Hari ini kami punya diskon
-yang besar.
-Beli yang banyak ya…
+[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Hari ini kami punya dis
+kon yang besar.
+Beli yg banyak.
 ---------------------------------------------
 [0590]
-[{0FBE}][{0FF7}][{0FF4}][{0FF5}][{0FED}][{ICON_ARROW}]Maaf ya…, apa Supermarket
-benar2 akan menutup usahanya?![{PRESS}][{CLEARBOX}]
-[{0FED}][{0FF7}]Apa…?!!!
+[{0FBE}][{0FF7}][{0FF4}][{0FF5}][{0FED}][{ICON_ARROW}]Maaf ya, apa Supermar
+ketnya benar2 akan menutup
+usahanya itu?![{PRESS}][{CLEARBOX}]
+[{0FED}][{0FF7}]Apa?!
 ---------------------------------------------
 [0591]
-[{0F6B}][{0FF7}][{0FF4}][{0FF5}][{0F69}][{ICON_ARROW}]Hei…, apa benar kau menutup
-usahamu karena kami sering
-berhutang?[{PRESS}][{CLEARBOX}]
-[{0F69}][{0FF7}][{0FED}]Hari ini aku akan bayar
-lunas hutangku.[{PRESS}][{CLEARBOX}]
-[{0FED}][{0FF7}][{0FBE}]A… apa? Apa maksudmu itu?!!![{PRESS}][{CLEARBOX}]
+[{0F6B}][{0FF7}][{0FF4}][{0FF5}][{0F69}][{ICON_ARROW}]Hey, apa benar kau menutup usa
+hamu?
+Karena kami tak bayar kontan?[{PRESS}][{CLEARBOX}]
+[{0F69}][{0FF7}][{0FED}]Hari ini aku kan bayar semua
+utangku.[{PRESS}][{CLEARBOX}]
+[{0FED}][{0FF7}][{0FBE}]A…apa? Apa maksudmu itu?![{PRESS}][{CLEARBOX}]
 [{0FBE}][{0FF7}][{0FC1}]Kau selalu beri kami kredit
-dan sekarang kau harus tutup,
-benar…? Itu alasan kenapa kau
-buat acara diskon
-besar-besaran kan?[{PRESS}][{CLEARBOX}]
-[{0FC1}][{0FF7}]Aku juga bawa uang
-untuk melunasi hutang.
+dan sekarang kau harus tu
+tup, benar? Itu kenapa kau
+buat diskon besar-besaran, kan?[{PRESS}][{CLEARBOX}]
+[{0FC1}][{0FF7}]Aku bawa uang utk bayar juga. 
 ---------------------------------------------
 [0592]
-[{0FCC}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Jeff, kau tak akan menutup
-Supermarketmu ini, benarkan…?!
-Ini…, aku lunasi hutangku.
+[{0FCC}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Jeff, kau tak akan menutup toko
+mu itu, benarkan?!
+Nih, aku bayar utang. 
 ---------------------------------------------
 [0593]
-[{0FAE}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Ini…, aku datang untuk melunasi
-hutang bibit yang aku beli
-waktu itu…
+[{0FAE}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Nih, aku datang utk bayar bibit
+yang aku beli waktu itu…
 ---------------------------------------------
 [0594]
-[{0FE8}][{0FF7}][{0FF4}][{0FF5}][{0FEF}][{ICON_ARROW}]…Ceritakanlah apa yang
-baru saja terjadi.[{PRESS}][{CLEARBOX}]
-[{0FEF}][{0FF7}][{0FE8}]Iya…, aku adakan acara diskon
-besar untuk merayakan pemilihan
-lukisan yang kubuat, tapi
-semuanya salah sangka…[{PRESS}][{CLEARBOX}]
-[{0FE8}][{0FF7}][{0FEE}]Buat acara diskon besar dan
-mendapatkan kembali semua
-uangmu. Bisa jadi kisah lucu
-dalam hidup… Hahaha…![{PRESS}][{CLEARBOX}]
-[{0FEE}][{0FF7}]Wakakaka…
+[{0FE8}][{0FF7}][{0FF4}][{0FF5}][{0FEF}][{ICON_ARROW}]…Lihat pada semua yg aku le
+watkan. [{PRESS}][{CLEARBOX}]
+[{0FEF}][{0FF7}][{0FE8}]…Yeah, aku punya diskon be
+sar untuk merayakan pe
+milihan gambar yg kubuat
+tapi semuanya salah sangka…[{PRESS}][{CLEARBOX}]
+[{0FE8}][{0FF7}][{0FEE}]Buat diskon besar dan mendapat
+kan kembali semua uangmu.
+Hidup bisa sgt lucu..Hahahaha![{PRESS}][{CLEARBOX}]
+[{0FEE}][{0FF7}]Hahahaha.
 ---------------------------------------------
 [0595]
-[{0FEE}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Hahaha… Aku sudah lama tak
-tertawa seperti ini.
+[{0FEE}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Haaaa…Aku sudah lama tak ter
+tawa seperti begini
 ---------------------------------------------
 [0596]
 [{0FE8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Penduduk desa di sini sa
 ngat baik...
 ---------------------------------------------
 [0597]
-[{0FC8}][{0FF7}][{0FF4}][{0FF5}][{0FE2}][{ICON_ARROW}]Sadar Karen…
-Kendalikan dirimu!!![{PRESS}][{CLEARBOX}]
-[{0FE2}][{0FF7}][{0FC8}]…Diam! Lagipula siapa kau
-berani bicara?![{PRESS}][{CLEARBOX}]
-[{0FC8}][{0FF7}]Aku sama sekali tak mengerti!!!
-Kubilang itu cukup!
+[{0FC8}][{0FF7}][{0FF4}][{0FF5}][{0FE2}][{ICON_ARROW}]Ayolah, Karen.
+Kendalikan dirimu itu!![{PRESS}][{CLEARBOX}]
+[{0FE2}][{0FF7}][{0FC8}]…Diam! Lagipula siapa Bi
+cara?![{PRESS}][{CLEARBOX}]
+[{0FC8}][{0FF7}]Aku samasekali tak mengerti!!
+Kataku itu cukup!
 ---------------------------------------------
 [0598]
-[{0FC7}][{0FF7}][{0FF4}][{0FF5}][{0FC8}][{ICON_ARROW}]Ayolah, Karen!!!
-Pengunjung sudah pada pulang.
-Tak ada orang lagi…[{PRESS}][{CLEARBOX}]
-[{0FC8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ANN_HEART}][{MC_NAME}] kau itu suaminya.
-Cepat ajak Karen pulang.
+[{0FC7}][{0FF7}][{0FF4}][{0FF5}][{0FC8}][{ICON_ARROW}]Ayolah, Karen!!
+Semuanya pada pulang.
+Tak ada orang lagi...[{PRESS}][{CLEARBOX}]
+[{0FC8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ANN_HEART}]Kau itu suaminya,  [{MC_NAME}].
+Bawa dia pulang
 ---------------------------------------------
 [0599]
-[{0FC4}][{0FF7}][{0FF4}][{0FF5}][{ICON_ANN_HEART}]Karen selalu memikirkan
-keadaan orang lain.
+[{0FC4}][{0FF7}][{0FF4}][{0FF5}][{ICON_ANN_HEART}]Karen selalu pikirkan orang lain.
 Dia pasti sangat lelah.
-Jagalah dia baik-baik ya…
+Jaga dia baik-baik ya.
 ---------------------------------------------
 [0600]
-[{0FE3}][{0FF7}][{0FF4}][{0FF5}][{0FE0}][{ICON_KAREN_HEART}]Hmmm…, angin malam terasa
-semilir sekali.
-Aku sudah sadar sekarang.[{PRESS}][{CLEARBOX}]
-[{0FE0}][{0FF7}]Maafkan aku [{400F}]♡,
-jadi terlihat kebiasaan burukku.
-Aku hanya ingin sedikit minum,
-tapi malah keterusan.
+[{0FE3}][{0FF7}][{0FF4}][{0FF5}][{0FE0}][{ICON_KAREN_HEART}]Mmmmmm…angin malam terasa
+enak sekali.
+Aku sudah sadar sekarang[{PRESS}][{CLEARBOX}]
+[{0FE0}][{0FF7}]Maafkan kuperlihatkan sisi je
+lekku. Aku hany ingin minum,
+tapi tak sengaja.
 ---------------------------------------------
 [0601]
-[{0FE3}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}]Jalan-jalan bersamamu lebih
-baik daripada minum-minum
-sendirian.
+[{0FE3}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}]Jalan bersamamu lebih baik
+daripada minum-minum tapi
+sendiri.
 ---------------------------------------------
 [0602]
 [{0FFA}]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}] Bangunkan!!! ★
- Ikut tidur disebelahnya ☆
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}] Bangunkan!!
+ Mau Tidur
 ---------------------------------------------
 [0603]
-[{0FC3}][{0FF7}][{0FF4}][{0FF5}][{0FC6}][{ICON_ANN_HEART}]Oh, kau mengejutkanku [{400F}]♡!
-Semilir sekali disini,
-hingga aku terlelap tidur.[{PRESS}][{CLEARBOX}]
-[{0FC6}][{0FF7}]Maaf…, aku akan segera pulang
-dan mengurus rumah.
+[{0FC3}][{0FF7}][{0FF4}][{0FF5}][{0FC6}][{ICON_ANN_HEART}]Oh, aku terkejut!!!!
+Nyaman sekali hingga aku ter
+tidur.[{PRESS}][{CLEARBOX}]
+[{0FC6}][{0FF7}]Maaf…aku akan langsung pulang
+dan bereskan rumah
 ---------------------------------------------
 [0604]
-[{0FC8}][{0FF7}][{0FF4}][{0FF5}][{0FC6}][{ICON_ANN_HEART}]Apa!!!, hari sudah petang.
-Cepat bangun [{400F}]♡…?[{PRESS}][{CLEARBOX}]
-[{0FC6}][{0FF7}]Aku tadi kaget ketika bangun
-dan melihatmu tidur disebelahku.
+[{0FC8}][{0FF7}][{0FF4}][{0FF5}][{0FC6}][{ICON_ANN_HEART}]Apa kau bangun [{400F}]?
+Semakin gelap....[{PRESS}][{CLEARBOX}]
+[{0FC6}][{0FF7}]Aku kaget bangun dan melihatmu
+tidur di samping diriku ini.
 ---------------------------------------------
 [0605]
 [{0FC9}][{0FF7}][{0FF4}][{0FF5}][{ICON_ANN_HEART}]Cukup menyenangkan, yah?
-Mari kita pulang,
-hari sudah mulai gelap.
+Tapi mari pulang.
 ---------------------------------------------
 [0606]
-[{0F73}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]Sepertinya burung ini sakit.
-Bisakah kau memeriksanya…?
+[{0F73}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]Sepertinya sakit.
+Bisakah kau memeriksanya.
 ---------------------------------------------
 [0607]
-[{0F76}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]Oh, dia mulai bisa
-menggerakkan sayapnya.
+[{0F76}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]Oh, ia gerakkan sayapnya.
 ---------------------------------------------
 [0608]
-[{0F76}][{0FF7}][{0FF4}][{0FF5}][{0F75}][{0E2A}]Oh, dia terbang…[{PRESS}][{CLEARBOX}]
-[{0F75}][{0FF7}]Kau telah menyembuhkannya…,
-aku terkesan [{400F}]♡.
+[{0F76}][{0FF7}][{0FF4}][{0FF5}][{0F75}][{0E2A}]Oh, ia terbang...[{PRESS}][{CLEARBOX}]
+[{0F75}][{0FF7}]kau sembuhkan…aku terkesan.
 ---------------------------------------------
 [0609]
-[{0F26}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Selamat pagi,
-kakak ipar [{MC_NAME}].
-Kakak Elli bilang dia ingin
-jangkrik, ini aku bawakan.
+[{0F26}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Selamat Pagi, [{MC_NAME}].
+Elli bilang dia ingin jengkrik
+jadi aku bawakan. 
 ---------------------------------------------
 [0610]
 [{0F27}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Aku menangkapnya semalam.
-Kau harus berikan padanya,
-dan bilang saja kau yang tangkap.
-Kurasa akan membuatnya
-senang.
+Kau harus berikan padanya
+dan bilang kau yg tangkap.
+Kurasa itu membuatnya senang. 
 ---------------------------------------------
 [0611]
-[{0FBA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Apa yang sedang terjadi?
-Oh…, sepertinya aku mendengar
-suaranya Stu.
+[{0FBA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Apa yang terjadi?
+Oh…kurasa kudengar suaranya
+Stu.
 ---------------------------------------------
 [0612]
-[{0FB8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Apa?! …dari Stu? Oh, si nakal.
-Aku benci serangga.
-Biar kumarahi dia nanti.
+[{0FB8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Apa?! …Stu? Oh, si nakal. Aku
+benci serangga,
+Kumarahi dia nanti.
 ---------------------------------------------
 [0613]
-[{0FB4}][{0FF7}][{0FF4}][{0FF5}][{0FB7}][{ICON_ELLI_HEART}]Yaaa…, itu kecoak!!![{PRESS}][{CLEARBOX}]
-[{0FB7}][{0FF7}]Oh, itu jangkrik ya…
-Aku benci serangga [{400F}]♡.
-Tolong lepaskan saja.
+[{0FB4}][{0FF7}][{0FF4}][{0FF5}][{0FB7}][{ICON_ELLI_HEART}]Yaaa, itu kecoa!!!![{PRESS}][{CLEARBOX}]
+[{0FB7}][{0FF7}]Oh, itu jengkrik ya….
+Aku benci serangga.
+Tolong lepaskan aja.
 ---------------------------------------------
 [0614]
 [{0F99}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Anak sapinya entah kemana
 Mana  [{MC_NAME}]… Oh bagus.
 ---------------------------------------------
 [0615]
-[{0F95}][{0FF7}][{0FF4}][{0FF5}][{0F92}][{ICON_MARY_HEART}]Oh, kau mengejutkanku
-[{400F}]♡![{PRESS}][{CLEARBOX}]
-[{0F92}][{0FF7}][{0F93}]Sebenarnya, aku sedang menulis
+[{0F95}][{0FF7}][{0FF4}][{0FF5}][{0F92}][{ICON_MARY_HEART}]Oh, kau kagetkan aku![{PRESS}][{CLEARBOX}]
+[{0F92}][{0FF7}][{0F93}]Sebenarnya, aku sedang tulis
 novel dan kau pemeran utamanya.
-aku dapat banyak ide saat
-menulis hal yang kusukai.[{PRESS}][{CLEARBOX}]
+Aku dapat banyak ide saat me
+nulis hal yang akrab.[{PRESS}][{CLEARBOX}]
 [{0F93}][{0FF7}]Kau belum boleh membacanya.
-Tunggu sampai novelnya selesai.
+Tunggu sampai selesai.
 ---------------------------------------------
 [0616]
-[{0F96}][{0FF7}][{0FF4}][{0FF5}][{ICON_MARY_HEART}]Kurasakan hal yang sama
-seperti sebelumnya.
+[{0F96}][{0FF7}][{0FF4}][{0FF5}][{ICON_MARY_HEART}]Kurasakan hal yang sama seper
+ti sebelumnya.
 ---------------------------------------------
 [0617]
-[{0F71}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]Apa kau tahu [{400F}]♡,
-sekarang hari apa?[{PRESS}][{0FF9}]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}] Ulangtahun Pernikahan kita.
- Ulangtahunku.
- Ulangtahun Popuri manja.
+[{0F71}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]Kau tahu hari apa sekarang?[{PRESS}][{0FF9}]
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}] Peringatan Menikah 
+ Ulangtaunku
+ Ulangtaun Popuri
 ---------------------------------------------
 [0618]
-[{0F71}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]Apa kau tahu [{400F}]♡,
-sekarang hari apa?[{PRESS}][{0FF8}]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}] Ulangtahun Pernikahan kita.
- Ulangtahunku.
- Ulangtahun Popuri manja.
- Ulangtahun anak kita [{400E}].
+[{0F71}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]Kau tahu hari apa sekarang?[{PRESS}][{0FF8}]
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}] Peringatan Menikah 
+ Ulangtaunku
+ Ulangtaun Popuri
+ [{400E}] ulangtaun
 ---------------------------------------------
 [0619]
 [{0F76}][{0FF7}][{0FF4}][{0FF5}][{0F75}][{0E2A}]Tepat! Kau mengingatnya!
@@ -3827,162 +3812,154 @@ yg penting. [{PRESS}][{CLEARBOX}]
 Makan banyak2!
 ---------------------------------------------
 [0620]
-[{0F74}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]Apa yang kau bilang…?
-Ini adalah hari Ulangtahun
-Pernikahan kita!!!
-Kau pelupa!!!
+[{0F74}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]Apa yang kau bilang?
+Ini adl peringatan menikah!!!
+Kau idiot!!
 ---------------------------------------------
 [0621]
-[{0F74}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]…Hari ini Ulangtahun
-Pernikahan kita… Itu artinya
-kau lupa hari ulangtahunku juga,
-benarkan? Kau keterlaluan!
+[{0F74}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]…Hari ini peringatan
+menikah kita… Itu artinya kau
+tak ingat hari ulangtaunku
+juga, benar? Kau keterlaluan!
 ---------------------------------------------
 [0622]
-[{0F72}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]Abimu itu memang keterlaluan.
-Dia bilang kau ulangtahun
-[{400E}]! Padahal hari ini
-ulangtahun pernikahan
-Abimu dan Ummimu.
+[{0F72}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]Ayahmu itu memang keterla
+luan. Dia bilang  [{400E}] 
+ulangtaun! Padahal hari ini
+peringatan menikah ayah dan ibu
 ---------------------------------------------
 [0623]
-[{0F71}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]Maafkan aku [{400F}]♡
-karena terlalu manja selama ini.
+[{0F71}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]Maafkan aku karena sa
+ngat egois setiap waktu.
 ---------------------------------------------
 [0624]
 [{0FCA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ANN_HEART}]Makan besar, benar?!
-Kau tahu kenapa [{400F}]♡?[{PRESS}][{0FF9}]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}] Ulangtahun Pernikahan kita.
- Ulangtahunku.
- Ulangtahun istriku Ann.
+Kau tahu kenapa?[{PRESS}][{0FF9}]
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}] Peringatan menikah 
+ Ulangtaunku
+ Ulangtaun Ann
 ---------------------------------------------
 [0625]
-[{0FCA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ANN_HEART}]Makan besar, benar?!
-Kau tahu kenapa [{400F}]♡?[{PRESS}][{0FF8}]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}] Ulangtahun Pernikahan kita.
- Ulangtahunku.
- Ulangtahun istriku Ann.
- Ulangtahun anak kita [{400E}].
+[{0FCA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ANN_HEART}]Makan besar, kan?
+Kau tahu kenapa...?[{PRESS}][{0FF8}]
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}] Peringatan Menikah 
+ Ulangtaunku
+ Ulangtaun Ann
+ [{400E}] Ulangtaun
 ---------------------------------------------
 [0626]
-[{0FC9}][{0FF7}][{0FF4}][{0FF5}][{ICON_ANN_HEART}]Oh, kau ingat itu [{400F}]♡.
-Kukira kau mungkin lupa
-karena kau selalu sibuk
-bekerja dikebun.[{PRESS}][{CLEARBOX}]
-Aku jadi sedikit gugup nih.
+[{0FC9}][{0FF7}][{0FF4}][{0FF5}][{ICON_ANN_HEART}]Oh, kau ingat itu  ♡
+Kukira kau mungkin lupa ka
+rena sepertinya kau selalu
+sibuk. [{PRESS}][{CLEARBOX}]
+Aku agak sedikit gugup.
 ---------------------------------------------
 [0627]
-[{0FC8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ANN_HEART}]Kau sakit ya [{400F}]♡?!
+[{0FC8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ANN_HEART}]…[{400F}], Kau sakit?!
 Kau bekerja terlalu keras.
 Ini, makan. Kau tahu hari ini
-Hari Ulangtahun Pernikahan[{PRESS}][{CLEARBOX}]
-kita, benar kan?
+Hari Peringatan Menikah, [{PRESS}][{CLEARBOX}]
+benarkan?
 ---------------------------------------------
 [0628]
 [{0FC5}][{0FF7}][{0FF4}][{0FF5}][{ICON_ANN_HEART}]Iya, mungkin itu tak penting
 bagimu. Itu bukan hal besar,
-tapi… hari ini Ulangtahun
-Pernikahan kita [{400F}]♡.
+tapi…hari ini Peringatan
+menikah kita
 ---------------------------------------------
 [0629]
 [{0FC7}][{0FF7}][{0FF4}][{0FF5}][{ICON_ANN_HEART}]Aku bisa mengerti kau
-lupa tentang hari Ulangtahun
-Pernikahan kita, tapi kau bisa
-bingung dengan hari Ulangtahun[{PRESS}][{CLEARBOX}]
-[{400E}] anakmu sendiri
-[{400F}]♡…?
+lupa tentang hari peringatan
+menikah kita, tapi kau bisa
+bingung dengan hari ulangtaun[{PRESS}][{CLEARBOX}]
+anakmu sendiri?
 ---------------------------------------------
 [0630]
 [{0FC6}][{0FF7}][{0FF4}][{0FF5}][{ICON_ANN_HEART}]Aku belajar dari ayah,
 semua yg kumasak seperti
-yang kau dapatkan di Bar Inn
-[{400F}]♡.
+yang kau dapatkan di Inn.
 ---------------------------------------------
 [0631]
-[{0FB8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Bukankah hidangan ini mewah
-sekali? Dibuat  dengan biaya
-rumahan jadi seperti hidangan
-VIP di rumahsakitkan?[{PRESS}][{CLEARBOX}]
-Kau tahu sekarang hari
-apa [{400F}]♡…?[{PRESS}][{0FF9}]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}] Ulangtahun Pernikahan kita.
- Ulangtahunku.
- Ulangtahun istriku Elli.
+[{0FB8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Bukankah hidangan ini indah
+sekali? Membuat ongkos biasa
+kita seperti makanan rumahsakit
+kan?[{PRESS}][{CLEARBOX}]
+Kau tahu hari apa sekarang
+ini..?[{PRESS}][{0FF9}]
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}] Peringatan Menikah 
+ Ulangtaunku
+ Ulangtaun Elli
 ---------------------------------------------
 [0632]
-[{0FB8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Bukankah hidangan ini mewah
-sekali? Dibuat  dengan biaya
-rumahan jadi seperti hidangan
-VIP di rumahsakitkan?[{PRESS}][{CLEARBOX}]
-Kau tahu sekarang hari
-apa [{400F}]♡…?[{PRESS}][{0FF8}]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}] Ulangtahun Pernikahan kita.
- Ulangtahunku.
- Ulangtahun istriku Elli.
- Ulangtahun anak kita [{400E}].
+[{0FB8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Bukankah hidangan ini indah
+sekali? membuat ongkos biasa
+seperti makanan rumah sakit,
+benar?![{PRESS}][{CLEARBOX}]
+Kau tahu hari apa sekarang
+ini..?[{PRESS}][{0FF8}]
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}] Peringatan menikah 
+ Ulangtaunku
+ Ulangtaun Elli
+ [{400E}] Ulangtaun
 ---------------------------------------------
 [0633]
 [{0FB5}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Iya, setidaknya kau ingat itu…
 Bikin aku senang.
-Mari kita makan [{400F}]♡.
+Kita makan  ♡
 ---------------------------------------------
 [0634]
-[{0FB8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Apa kau sudah mulai pikun
-di usiamu saat ini…?!
-Hari ini Ulangtahun
-Pernikahan kita [{400F}]♡.
+[{0FB8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Apa kau sudah mulai lupa se
+suatu di umurmu sekarang..?!
+Hari ini Peringatan
+menikah kita.
 ---------------------------------------------
 [0635]
-[{0FB8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]…Ulangtahunku?! Kau cuma
-menebak, benarkan? Wah,
-kau melupakan itu. Kukira
-Ulangtahun Pernikahan bukan[{PRESS}][{CLEARBOX}]
-hal yang biasa di ingat
-oleh pria.
+[{0FB8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]…Ulangtaunku?! Kau hanya
+menebak benarkan? Wah, kau lu
+pakan itu. Kukira peringatan
+menikah bukan hal yang biasa [{PRESS}][{CLEARBOX}]
+pria selalu mengingatnya
 ---------------------------------------------
 [0636]
-[{0FB8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Keterlaluan! Hal biasa kalau
-lupa hari Ulangtahun Pernikahan
-kita, tapi kau bisa melupakan[{PRESS}][{CLEARBOX}]
-hari Ulangtahun anak
-kita [{400E}]?
+[{0FB8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Keterlaluan! Hal biasa lupa
+hari peringatan menikah
+kita, tapi bisanya kau
+lupakan hari ulangtahun bayi kita?
 ---------------------------------------------
 [0637]
-[{0FBA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Aku ingin segera punya
-anak lagi.
-Aku suka dengan anak-anak.
+[{0FBA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Aku ingin segera punya bayi.
+Aku suka anak2. 
 ---------------------------------------------
 [0638]
 [{0FB9}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Akhir2 ini aku berpikir…
 Aku merasa akhirnya aku
-mengerti apa artinya sebuah
-pernikahan…
+mengerti apa artinya telah me
+nikah...
 ---------------------------------------------
 [0639]
-[{0FE3}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}]Itu kelihatannya enak, benarkan?
-Aku curahkan keahlianku
-untuk memasak hidangan ini.
-Menurutmu kenapa kulakuan…?[{PRESS}][{0FF9}]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}] Ulangtahun Pernikahan kita.
- Ulangtahunku.
- Ulangtahun istriku Karen.
+[{0FE3}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}]Itu kelihatan enak, benarkan?
+Kutaruhkan skillku ke hidangan
+ini.
+Menurutmu kenapa kulakukan..?[{PRESS}][{0FF9}]
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}] Peringatan menikah 
+ Ulangtaunku
+ Ulangtaun Karen
 ---------------------------------------------
 [0640]
-[{0FE3}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}]Itu kelihatannya enak, benarkan?
-Aku curahkan keahlianku
-untuk memasak hidangan ini.
-Menurutmu kenapa kulakuan…? [{PRESS}][{0FF8}]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}] Ulangtahun Pernikahan kita.
- Ulangtahunku.
- Ulangtahun istriku Karen.
- Ulangtahun anak kita [{400E}].
+[{0FE3}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}]Kelihatannya enak, benarkan?
+Kutaruhkan skillku ke hidangan
+ini.
+Menurutmu kenapa aku lakukan? [{PRESS}][{0FF8}]
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}] Peringatan menikah 
+ Ulangtaunku
+ Ulangtaun Karen
+ [{400E}] Ulangtaun
 ---------------------------------------------
 [0641]
-[{0FE3}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}]Iya, hari ini Ulangtahun
-Pernikahan kita! sangat banyak
-hal yang terjadi selama ini…
-dan semua berlalu
-sangat cepat.
+[{0FE3}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}]Iya, hari ini peringatan
+menikah kita! Sangat ba
+nyak yg terjadi selama ini…
+dan semua berlalu sangat cepat.
 ---------------------------------------------
 [0642]
 [{0FE3}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}]Hahahaha. Kau salah sangka
@@ -4003,49 +3980,48 @@ seperti hal yang terjadi [{PRESS}][{CLEARBOX}]
 sudah amat lama.
 ---------------------------------------------
 [0645]
-[{0FDF}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}]Tapi…, aku ingin bersamamu
-seperti ini saat Ulangtahun
-Pernikahan kita [{400F}]♡….
+[{0FDF}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}]Tapi…aku ingin bersamamu seper
+ti ini saat peringa
+tan menikah
 ---------------------------------------------
 [0646]
 [{0F9A}][{0FF7}][{0FF4}][{0FF5}][{ICON_MARY_HEART}][{400F}]!! Lihat! Menurutmu
-untuk apa semua ini?[{PRESS}][{0FF9}]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}] Ulangtahun Pernikahan kita.
- Ulangtahunku.
- Ulangtahun istriku Mary.
+untuk apa semua ini? [{PRESS}][{0FF9}]
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}] Peringatan Menikah 
+ Ulangtaunku
+ Ulangtaun Mary
 ---------------------------------------------
 [0647]
-[{0F9A}][{0FF7}][{0FF4}][{0FF5}][{ICON_MARY_HEART}][{400F}]!! Lihat! Menurutmu
-untuk apa semua ini?[{PRESS}][{0FF8}]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}] Ulangtahun Pernikahan kita.
- Ulangtahunku.
- Ulangtahun istriku Mary.
- Ulangtahun anak kita [{400E}].
+[{0F9A}][{0FF7}][{0FF4}][{0FF5}][{ICON_MARY_HEART}][{400F}]!! Lihat!
+Menurutmu untuk apa semua 
+ini?[{PRESS}][{0FF8}]
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}] Peringatan menikah 
+ Ulangtaunku
+ Ulangtaun Mary
+ [{400E}] ulangtaun
 ---------------------------------------------
 [0648]
-[{0F9B}][{0FF7}][{0FF4}][{0FF5}][{ICON_MARY_HEART}]Iya, hari ini Ulangtahun
-Pernikahan kita [{400F}]♡.
-Mari kita rayakan…
+[{0F9B}][{0FF7}][{0FF4}][{0FF5}][{ICON_MARY_HEART}]Iya, hari ini peringatan
+menikah kita ♡
+Mari rayakan...
 ---------------------------------------------
 [0649]
 [{0F9A}][{0FF7}][{0FF4}][{0FF5}][{ICON_MARY_HEART}]Oh, bodoh. Tak pernah ada saat
-yang bosan denganmu. Kau
-persis dengan karakter di
-novelku.[{PRESS}][{CLEARBOX}]
-Baik, ayo rayakan hari
-Ulangtahun Pernikahan kita.
+yg bosan denganmu. Kau persis
+dengan karakter yang di novel.
+Baik, ayo rayakan hari pe
+ringatan menikah kita. 
 ---------------------------------------------
 [0650]
-[{0F99}][{0FF7}][{0FF4}][{0FF5}][{ICON_MARY_HEART}]Aku senang merayakan ulang
-tahunku setahun 2x, tapi ini
-hari Ulangtahun Pernikahan
-kita [{400F}]♡….
+[{0F99}][{0FF7}][{0FF4}][{0FF5}][{ICON_MARY_HEART}]Aku senang rayakan ulang
+tahunku dua kali seta
+hun tapi ini peringatan
+menikah kita.
 ---------------------------------------------
 [0651]
-[{0F97}][{0FF7}][{0FF4}][{0FF5}][{ICON_MARY_HEART}]Hari ini kita pemeran utama,
-bukan anak kita [{400E}].
-Ini hari Ulangtahun Pernikahan
-kita [{400F}]♡…[{PRESS}][{CLEARBOX}]
+[{0F97}][{0FF7}][{0FF4}][{0FF5}][{ICON_MARY_HEART}]Hari ini kita permeran uta
+ma, bukan  [{400E}]. Ini peri
+ngatan menikah kita…
 Kau ingat sekarang?
 ---------------------------------------------
 [0652]
@@ -4054,78 +4030,73 @@ Kugunakan sayuran dari
 gunung....
 ---------------------------------------------
 [0653]
-[{0F74}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]…Apa maksudmu hari Ulangtahun
-Pernikahan kita…?!
-Hari ini ulangtahunku [{400F}]♡!
+[{0F74}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]…Apa maksudmu peringatan meni
+kah kita...?!
+Hari ini ulangtahunku!
 ---------------------------------------------
 [0654]
 [{0F74}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]Apa??? Hari ini ulangtahunku.
-Aku benci sifat pelupamu.
+Aku benci. 
 ---------------------------------------------
 [0655]
-[{0F71}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]Kau ingat itu! Tak kulihat
-persiapanmu, kukira kau
-benar-benar lupa tentang
-hal itu…[{PRESS}][{CLEARBOX}]
-Tak mungkin, bukan? [{400F}]♡…
+[{0F71}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]Kau ingat itu! Tak kulihat tan
+danya, kukira kau benar2
+lupa tentang hal itu…
+Tak mungkin, bukan? ♡
 ---------------------------------------------
 [0656]
-[{0F72}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]Oh, [{400E}] Abimu pelupa.
-Dia bilang ini hari
-ulangtahunmu. Padahal
-hari ulangtahun Ummimu.
+[{0F72}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]Oh, ayahmu sangat buruk.
+Dia bilang ini hari ulangtahun
+mu. Padahal ulang tahun ibumu. 
 ---------------------------------------------
 [0657]
-[{0F71}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]Apa aku agak tua? Baiklah,
-kukira ulangtahun tak
-terlalu banyak buat
-perbedaan.
+[{0F71}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]Apa aku agak tua? Baik,
+kukira ulangtahun tak ter
+lalu banyak buat perbedaan.
 ---------------------------------------------
 [0658]
 [{0FC5}][{0FF7}][{0FF4}][{0FF5}][{ICON_ANN_HEART}]…Itu mungkin tak penting
-buatmu, dan itu tak masalah.
-Tapi… hari ini ulangtahunku
-[{400F}]♡…
+buatmu, dan itu tak apa
+tapi…hari ini ulangtaunku
 ---------------------------------------------
 [0659]
-[{0FC8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ANN_HEART}]…Kau sakit ya [{400F}]♡…?
-Kau bekerja terlalu keras.
-Ini, makanlah. Kau tahu ini
+[{0FC8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ANN_HEART}]…Kau sakit,  [{400F}]?
+Kau terlalu bekerja keras.
+ini, makan ini. Kau tahu ini
 hari ulangtahunku bukan?
 ---------------------------------------------
 [0660]
 [{0FC8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ANN_HEART}]Kau harus ingat hari ulangtahun
-istri dan ulangtahun anakmu.
+istri dan ulangtahun anak
+mu itu.
 Lain kali tak akan kumaafkan.
 ---------------------------------------------
 [0661]
-[{0FB8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]…Ulangtahun Pernikahan? Kau
-cuma menebak itu, benarkan?
+[{0FB8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]…Peringatan menikah? Kau hanya
+menebak itu saja, benar?
 Tak apa-apa. Kau terlalu sibuk
-bekerja, jadi tidak ingat[{PRESS}][{CLEARBOX}]
-hari ulangtahunku.
+utk ingat ulangtahunku. 
 ---------------------------------------------
 [0662]
-[{0FB3}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Apa kau mulai pikun diusiamu
-saat ini? Jangan khawatirkan
-aku… Hari ini bukan
-ulangtahunmu…[{PRESS}][{CLEARBOX}]
-Tapi hari ulangtahunku.
+[{0FB3}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Apa kau mulai melupakan se
+suatu di umurmu ini? Jangan kawa
+tirkan aku… Hari ini bukan ulang
+tahunmu… tapi ultahku
 ---------------------------------------------
 [0663]
-[{0FB8}][{0FF7}][{0FF4}][{0FF5}][{0FBA}][{ICON_ELLI_HEART}]Ulangtaunku…? Kau cuma
-menebak itu, benarkan…?[{PRESS}][{CLEARBOX}]
-[{0FBA}][{0FF7}]Kau ingat itu! ……Akusenang!!!
+[{0FB8}][{0FF7}][{0FF4}][{0FF5}][{0FBA}][{ICON_ELLI_HEART}]Ulangtaunku…? Kau hanya
+menebak, benar..?[{PRESS}][{CLEARBOX}]
+[{0FBA}][{0FF7}]Kau ingat itu!! ……Aku senang!!
 ---------------------------------------------
 [0664]
-[{0FB8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Dasar pelupa! Kau tak ingat
-ulangtahun istrimu atau bahkan
-ulangtahun anakmu!!!
+[{0FB8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Dasar bodoh. Kau tak ingat
+ulangtaun istrimu atau bahkan
+ulangtaun anakmu itu!!!
 ---------------------------------------------
 [0665]
-[{0FB5}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Punya anak satu membuatku
-merasa lebih tua daripada
-berulangtahun [{400F}]♡…
+[{0FB5}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Punya anak satu membuatku mera
+sa lebih tua daripada ber
+ulangtaun. ♡
 ---------------------------------------------
 [0666]
 [{0FE0}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}]…………Salah !!! Ini ulangtahunku!
@@ -4137,8 +4108,8 @@ ulangtahunku dengan ulang
 tahunmu!!!
 ---------------------------------------------
 [0668]
-[{0FE3}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}]Itu benar! Mari [{400F}]♡
-kita rayakan bersama!!!
+[{0FE3}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}]Itu benar! Mari kita rayakan
+bersama!!
 ---------------------------------------------
 [0669]
 [{0FE4}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}]Bagus mencintai anakmu, tapi
@@ -4147,48 +4118,42 @@ Hari ini ulangtahun istrimu
 sayang. 
 ---------------------------------------------
 [0670]
-[{0F97}][{0FF7}][{0FF4}][{0FF5}][{ICON_MARY_HEART}]Hari ini ulangtahun
-pernikahan kita…?
+[{0F97}][{0FF7}][{0FF4}][{0FF5}][{ICON_MARY_HEART}]Hari ini peringatan
+menikah kita…?
 Lalu kapan ulangtahunku?
-Aku bingung [{400F}]♡!!!
+Aku bingung!!
 ---------------------------------------------
 [0671]
-[{0F9A}][{0FF7}][{0FF4}][{0FF5}][{ICON_MARY_HEART}]Oh, bodoh. Tak ada saat yang
-membosankan bersama denganmu.
-Kau persis dengan karakter
-dalam novelku.[{PRESS}][{CLEARBOX}]
-Baiklah [{400F}]♡,
-mari kita rayakan ulangtahunku
-bersama-sama.
+[{0F9A}][{0FF7}][{0FF4}][{0FF5}][{ICON_MARY_HEART}]Oh, bodoh. Tak ada saat yg mem
+bosankan denganmu. Kau benar2
+persis dgn karakter dlm novel.
+Baik, kita rayakan ulang
+tahunku bersama-sama.
 ---------------------------------------------
 [0672]
-[{0F96}][{0FF7}][{0FF4}][{0FF5}][{ICON_MARY_HEART}]Iya, ini hari ulangtahunku.
-Aku bertambah tua setahun…
-Senangnya diriku [{400F}]♡.
+[{0F96}][{0FF7}][{0FF4}][{0FF5}][{ICON_MARY_HEART}]Iya, ini ulangtaunku.
+aku tuaan setaun…
+Senangnya.  ♡
 ---------------------------------------------
 [0673]
-[{0F95}][{0FF7}][{0FF4}][{0FF5}][{ICON_MARY_HEART}]Apa!!! [{400E}] ulangtahun!?
-Oh tidak…! Seorang ayah
-seharusnya tidak lupa dengan
-hari ulangtahun anaknya!!![{PRESS}][{CLEARBOX}]
-Ini adalah hari
-ulangtahunku [{400F}]♡.
+[{0F95}][{0FF7}][{0FF4}][{0FF5}][{ICON_MARY_HEART}][{400E}] ulangtaun!?
+Tidak! Seorang ayah harusnya tak
+lupa ultah anaknya!!
+Hari ini ulangtaunku.
 ---------------------------------------------
 [0674]
-[{0F72}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]Oh… kau ini…! Sekarang
-hari ulangtahun [{400E}].
+[{0F72}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]Oh…kau…! sekarang [{400E}]
+ulangtaun.
 ---------------------------------------------
 [0675]
-[{0F74}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]Apa yang kau katakan itu?
-Sekarang hari ulangtahun
-[{400E}].
-Dasar pelupa.
+[{0F74}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]Apa yang kau bicarakan itu?
+sekarang [{400E}] ulangtaun.
+Kubenci kau
 ---------------------------------------------
 [0676]
 [{0F74}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]Kau keterlaluan!
-Sekarang [{400E}] ulangtahun.
-Kau lupa hari ulangtahunku
-juga ya!!!?
+Sekarang [{400E}] ulangtaun.
+Kau lupa ulangtaunku juga!!!
 ---------------------------------------------
 [0677]
 [{0F75}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]Ya itu benar… Apa tadi…? 
@@ -4197,20 +4162,19 @@ yg beginian? Tak masalah.
 Kumakan untuknya.
 ---------------------------------------------
 [0678]
-[{0F71}][{0FF7}][{0FF4}][{0FF5}][{0E2A}][{400E}] anak laki-laki,
-jadi kuingin dia tumbuh
-tinggi besar.
+[{0F71}][{0FF7}][{0FF4}][{0FF5}][{0E2A}][{400E}] anak laki2, jadi ku
+inginkan dia tinggi besar
 ---------------------------------------------
 [0679]
-[{0FC8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ANN_HEART}]Sigh… Sekarang hari ulangtahun
-[{400E}] tersayang!
+[{0FC8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ANN_HEART}]Sigh… Sekarang hari ulangtaun
+ [{400E}] tersayang!
 Kau lupa!!!
 ---------------------------------------------
 [0680]
-[{0FC8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ANN_HEART}]Kau sakit ya [{400F}]♡…?!
-Kau terlalu sibuk bekerja. Nih,
-makanlah. Kau ingat sekarang
-[{400E}] ulangtahun, benar?
+[{0FC8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ANN_HEART}]…[{400F}], Kau sakit?!
+Kau bekerja terlalu keras.
+Nih, makanlah. Kau tahu sekarang
+   [{400E}] ulangtaun, benar?
 ---------------------------------------------
 [0681]
 [{0FC5}][{0FF7}][{0FF4}][{0FF5}][{ICON_ANN_HEART}]Bodoh Kau! Itu artinya kau belum
@@ -4218,233 +4182,204 @@ siapkan hadiah ulangtahun
 [{400E}], benar?
 ---------------------------------------------
 [0682]
-[{0FC6}][{0FF7}][{0FF4}][{0FF5}][{ICON_ANN_HEART}]Cepatnya setahun berlalu.
-Sebesar apa ya pertumbuhan
-[{400E}] tahun depan. Hee hee,
-aku sudah tidak sabar.
+[{0FC6}][{0FF7}][{0FF4}][{0FF5}][{ICON_ANN_HEART}]cepatnya setahun berlalu.
+Gimanakah bayinya nanti setahun
+ini mulai sekarang.
+Hee hee, aku tak sabar
 ---------------------------------------------
 [0683]
-[{0FB8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Ulangtahun pernikahan kita?!
-Kau cuma menebak, benarkan?
-Kau seharusnya ingat hari
-ulangtahun anakmu sendiri!!!
+[{0FB8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Peringatan menikah?!
+Kau hanya menebak benarkan?
+Kau harusnya ingat ulangtahun
+anakmu sendiri!!!
 ---------------------------------------------
 [0684]
-[{0FB3}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Apa kau sudah pikun?
-Aku mengkhawatirkanmu.
-Sekarang hari ulangtahunnya
-[{400E}] [{400F}]♡.
+[{0FB3}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Apa kau sudah mulai jadi
+pelupa? Aku mengkawatirkanmu
+Sekarang [{400E}] ulangtaun.
 ---------------------------------------------
 [0685]
-[{0FB8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Hari ulangtahunku?
-Kau cuma menebak, benarkan?
-Kau seharusnya ingat hari
-ulangtahun anakmu sendiri!!!.
+[{0FB8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Ulangtaunku?
+Itu hanyalah tebakan,benar..?
+Kau harusnya ingat ulangtahun
+anakmu sendiri!!!
 ---------------------------------------------
 [0686]
-[{0FB9}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Hari ini ulangtahun anak
-kesayanganmu [{400E}].
-Tentu saja kau ingat,
-benarkan [{400F}]♡…?
+[{0FB9}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Ini ulangtahun anak manismu.
+Tentu saja kau ingat itu
+benarkan? ♡
 ---------------------------------------------
 [0687]
 [{0FB5}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Sangat senang perhatikan anak
 kita tumbuh.
 ---------------------------------------------
 [0688]
-[{0FE0}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}]……Salah! Sekarang hari
-ulangtahunnya [{400E}]!!
-Oh, kau pelupa [{400F}]♡!!!
+[{0FE0}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}]…………Salah! Sekarang [{400E}]
+ulangtaun!! Oh, kau lupa!!!
 ---------------------------------------------
 [0689]
-[{0FE3}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}]Hahaha. Kau salah ingat hari
-ulangtahun anakmu dengan hari
-ulangtahunmu [{400F}]♡.
-Dasar pelupa!!!
+[{0FE3}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}]Hahaha. Kau salah sangka ulang
+tahun anakmu dengan ulang
+tahunmu. Bodoh!
 ---------------------------------------------
 [0690]
-[{0FE2}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}]Kau pernah lihat ada wanita
-lebih manis dariku… Bagaimana
-kau bisa lupa hari ulangtahun
-[{400E}] tampan anakmu?
+[{0FE2}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}]Kau tahu ada seseorang lebih
+manis dariku… Gimana kau lupa
+kan anak manismu.. [{400E}]?
 ---------------------------------------------
 [0691]
-[{0FE3}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}]Kau senangkan [{400E}]?
-Abimu ingat hari
-ulangtahunmu. ♡
+[{0FE3}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}]Itu bagus bukan [{400E}]?
+Ayahmu ingat hari ulangta
+hunmu itu. ♡
 ---------------------------------------------
 [0692]
-[{0FE4}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}]Lekas besar ya [{400E}]…
-Agar bisa menemani Ummimu ini.
-Abimu selalu sibuk bekerja
-di kebun. ♡
+[{0FE4}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}]Tumbuhlah dengan cepat agar
+bisa menemani ibumu ini.
+Ayahmu selalu sibuk bekerja.♡
 ---------------------------------------------
 [0693]
-[{0F99}][{0FF7}][{0FF4}][{0FF5}][{ICON_MARY_HEART}]Jika sekarang hari ulangtahun
-pernikahan kita, lalu kapan
-hari ulangtahun anakmu?
-Kau lupa ya [{400F}]♡…?
+[{0F99}][{0FF7}][{0FF4}][{0FF5}][{ICON_MARY_HEART}]Jika sekarang peringatan
+menikah, kaku kapan anak
+kita bertambah besar?
+Dia itu anakmu tahu gak?
 ---------------------------------------------
 [0694]
-[{0F9A}][{0FF7}][{0FF4}][{0FF5}][{ICON_MARY_HEART}]Oh, dasar pelupa. Tidak ada saat
-membosankan bersamamu.
-Kau persis seperti karakter
-di dalam novelku.[{PRESS}][{CLEARBOX}]
-Baiklah [{400F}]♡, mari
-kita buat pesta ulangtahun
-untuk [{400E}].
+[{0F9A}][{0FF7}][{0FF4}][{0FF5}][{ICON_MARY_HEART}]Oh, bodoh. Tak ada saat membo
+sankan denganmu. Kau persis se
+perti karakter di dalam novel.
+Baik, kita buat pesta ulang
+taun utk [{400E}].
 ---------------------------------------------
 [0695]
-[{0F92}][{0FF7}][{0FF4}][{0FF5}][{ICON_MARY_HEART}]…Gak! Ingatlah [{400F}]♡…!
-Sekarang hari ulangtahunnya
-[{400E}].
+[{0F92}][{0FF7}][{0FF4}][{0FF5}][{ICON_MARY_HEART}]…Gak! Sadarlah [{400F}]!
+Sekarang [{400E}] ulangtaun.
 ---------------------------------------------
 [0696]
-[{0F9A}][{0FF7}][{0FF4}][{0FF5}][{ICON_MARY_HEART}]Itu benar. Seorang ayah
-harusnya ingat hari ulangtahun
-anaknya.[{PRESS}][{CLEARBOX}]
-Mari [{400F}]♡, sekarang kita
-pesta untuk ulangtahunnya
-[{400E}].
+[{0F9A}][{0FF7}][{0FF4}][{0FF5}][{ICON_MARY_HEART}]Itu benar. Seorang ayah ha
+rusnya ingat. Sekarang kita
+pesta ulangtaun utk [{400E}].
 ---------------------------------------------
 [0697]
-[{0F96}][{0FF7}][{0FF4}][{0FF5}][{ICON_MARY_HEART}]Saat aku remaja, aku tidak suka
-kalau hari ulangtahunku sama
-dengan hari ulangtahun
-pernikahan orangtuaku…
+[{0F96}][{0FF7}][{0FF4}][{0FF5}][{ICON_MARY_HEART}]Saat aku muda aku tak suka
+kalau ulangtaunku sama dengan
+ulangtaun pernikahan kedua orang
+tuaku itu…
 ---------------------------------------------
 [0698]
-[{0F73}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]Kau sangat sibuk sampai kau
-lupa hari ini adalah
-ulangtahunmu? Istirahat dan
-makanlah dulu [{400F}] ♡.[{PRESS}][{CLEARBOX}]
-Santailah bersamaku sekarang. ♡
+[{0F73}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]Kau sgt sibuk kau lupa ulang
+tahunmu?
+Makan, dan santailah sekarang. ♡
 ---------------------------------------------
 [0699]
-[{0F71}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]Selamat Ulangtahun ya [{400F}]
-[{MC_NAME}]❤ tampan…
-Sudah lama kurencanakan perayaan
-ini dari dulu. ♡
+[{0F71}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]Selamat Ulangtahun!
+Kurencanakan perayaan
+ini sudah dari sejak dulu
 ---------------------------------------------
 [0700]
-[{0F74}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]Hari ini ulangtahunmu [{400F}]!
-Kenapa kau anggap hari
-ulangtahunku?, keterlaluan!!!
+[{0F74}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]Hari ini ulangtahunmu!
+Keterlaluan kau anggap ulangta
+hunku!
 ---------------------------------------------
 [0701]
-[{0F72}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]Apa?! …Aku tak mengerti apa yang
+[{0F72}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]Apa?! …Aku tak mengerti apa yg
 kau pikirkan…
-Hari ini ulangtahunmu [{400F}] ♡…
+Hari ini ulangtahunmu.  
 ---------------------------------------------
 [0702]
-[{0F75}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]Kita bersama selamanya
-[{400F}] ♡…
+[{0F75}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]Kita bersama selamanya...
 ---------------------------------------------
 [0703]
-[{0FC5}][{0FF7}][{0FF4}][{0FF5}][{ICON_ANN_HEART}]…Salah. Hari ini adalah
-ulangtahunmu [{400F}] ♡.
+[{0FC5}][{0FF7}][{0FF4}][{0FF5}][{ICON_ANN_HEART}]…Salah. Hari ini ulangtahunmu.
 Kau tak ingat ya?
 ---------------------------------------------
 [0704]
 [{0FCA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ANN_HEART}]Iya. Kau sudah makin tua…
 ---------------------------------------------
 [0705]
-[{0FC8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ANN_HEART}]Hari ulangtahunku?
-Oh, cobalah ingat!
-Hari ini adalah ulangtahunmu
-[{400F}] ♡…
+[{0FC8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ANN_HEART}]Ulangtaunku?
+Oh, ayolah!
+Hari ini ulangtahunmu!
 ---------------------------------------------
 [0706]
-[{0FC8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ANN_HEART}]Apa kau bercanda?
-Hari ini ulangtahunmu
-[{400F}] ♡…
+[{0FC8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ANN_HEART}]Apa kau becanda?
+Hari ini ulangtaunmu
 ---------------------------------------------
 [0707]
-[{0FB8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]…Hari ulangtahun pernikahan kita?
-Kau cuma menebak, benarkan?
-Setidaknya kau harus ingat hari
-ulangtahunmu [{400F}] ♡.
+[{0FB8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]…Peringatan menikah?
+Kau hanya menebak, kan?
+Setidaknya kau harus ingat
+hari ulangtahunmu.  
 ---------------------------------------------
 [0708]
-[{0FB5}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Selamat Ulangtahun [{400F}]
-[{MC_NAME}] sayang ♡…
+[{0FB5}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Met Ulangtahun!
 Apa kau terkejut?!
 ---------------------------------------------
 [0709]
-[{0FB8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Sigh… Aku tahu kau tak ingat hari
-ulangtahunku, tapi seharusnya
-kau ingat kapan hari
-ulangtahunmu [{400F}] ♡…
+[{0FB8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Sigh… Aku tahu kau tak ingat
+ulangtahunku, tapi harusnya kau
+ingat kapan ulangtahunmu.
 ---------------------------------------------
 [0710]
-[{0FB8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Kau ini aneh, kau tak ingat hari
-ulangtahunmu dan juga hari
-ulangtahun anakmu…?
+[{0FB8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Kau ini aneh.
+Kau tak ingat ulangtahunmu
+dan juga ulangtahun
+anakmu...?
 ---------------------------------------------
 [0711]
-[{0FBA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Kau itu ayah dan bertambah usia
-setahun juga.
-Selalu lebih baik [{400F}] ♡.
+[{0FBA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Kau itu ayah dan setahun lebih
+tua juga.
+Selalu lebih baik  ♡
 ---------------------------------------------
 [0712]
-[{0FE4}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}]Baiklah… Bagiku hari ini lebih
-penting dari hari ulangtahun
-pernikahan kita.
-Hari ini ulangtahunmu tahu?!
+[{0FE4}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}]Well… Untukku ini hari lebih
+penting dari peringatan me
+nikah kita.
+Ini ulangtahunmu tahu?!
 ---------------------------------------------
 [0713]
-[{0FE3}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}]Iya, selamat ulangtahun
-[{400F}] [{MC_NAME}] ♡!
-Mari kita rayakan ya…
+[{0FE3}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}]Iya, met ulangtahun!
+Mari minum ya.
 ---------------------------------------------
 [0714]
-[{0FE3}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}]Hahaha… Kau bingung antara hari
-ulangtahunku dan hari
-ulangtahunmu.
-Kau ini lucu ya!!!
+[{0FE3}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}]Hahahaha.
+Kau bingung antara ulangtaunmu
+dan ulangtaunmu.
+Kau ini lucu!!
 ---------------------------------------------
 [0715]
-[{0FE4}][{0FF7}][{0FF4}][{0FF5}][{0FE0}][{ICON_KAREN_HEART}]Kau mencintai [{400E}],
+[{0FE4}][{0FF7}][{0FF4}][{0FF5}][{0FE0}][{ICON_KAREN_HEART}]Kau mencintai   [{400E}],
 benarkan?[{PRESS}][{CLEARBOX}]
-…sangat cinta hingga kau lupa
-dengan hari ulangtahunmu
-sendiri.
+[{0FE0}][{0FF7}]…sgt cinta hingga kau lupa
+ulangtaunmu sendiri
 ---------------------------------------------
 [0716]
-[{0F9B}][{0FF7}][{0FF4}][{0FF5}][{ICON_MARY_HEART}]Oh, dasar pelupa. Tak ada saat
-yang membosankan saat
-bersamamu. Kau mirip sekali
-dengan karakter di novel.[{PRESS}][{CLEARBOX}]
-Selamat ulangtahun ya [{400F}]
-[{MC_NAME}] ♡.
+[{0F9B}][{0FF7}][{0FF4}][{0FF5}][{ICON_MARY_HEART}]Oh, bodoh. Taka ada saat membo
+sankan denganmu. Kau persis
+sekali dengan karakter di novel.
+Met Ulangtahun.
 ---------------------------------------------
 [0717]
-[{0F96}][{0FF7}][{0FF4}][{0FF5}][{ICON_MARY_HEART}]Apa kau kira aku lupa…?
-Sangat sulit berpura-pura tak
-mengetahuinya.
+[{0F96}][{0FF7}][{0FF4}][{0FF5}][{ICON_MARY_HEART}]Apa kau kira aku lupa?
+Sangat sulit pura-pura aku
+tak mengetahui.
 ---------------------------------------------
 [0718]
-[{0F9A}][{0FF7}][{0FF4}][{0FF5}][{ICON_MARY_HEART}]Sangat lucu kau keliru hari
-ulangtahunmu dengan hari
-ulangtahunku.
-Kadang-kadang kau ini aneh ya.
+[{0F9A}][{0FF7}][{0FF4}][{0FF5}][{ICON_MARY_HEART}]Sangat lucu kau tukar ulang
+taunmu dgn ulangtaunku.
+kadang-kadang kau ini aneh
 ---------------------------------------------
 [0719]
-[{0F99}][{0FF7}][{0FF4}][{0FF5}][{ICON_MARY_HEART}]Kau lupa hari ini adalah
-ulangtahunmu [{400F}]?
-[{400E}] disini untuk ikut
-merayakannya.[{PRESS}][{CLEARBOX}]
-Aku akan marah jika lain kali
-kau lupa lagi.
+[{0F99}][{0FF7}][{0FF4}][{0FF5}][{ICON_MARY_HEART}]Kau lupa tentang ulangtaun
+mu itu?  [{400E}] di sini
+karena kau ada disini. Aku kan
+marah lain kali jika kau lupa
 ---------------------------------------------
 [0720]
-[{0F71}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]Oh… [{400F}] ♡.
-Apa ada yang salah dengan
-diriku?
+[{0F71}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]Oh…[{400F}]. Apa salahku?
 ---------------------------------------------
 [0721]
-[{0FB9}][{0FF7}][{0FF4}][{0FF5}][{0F71}][{ICON_ARROW}]Popuri…, selamat ya kau sudah
-hamil.[{PRESS}][{CLEARBOX}]
+[{0FB9}][{0FF7}][{0FF4}][{0FF5}][{0F71}][{ICON_ARROW}]Popuri…selamat untukmu,
+kau telah hamil[{PRESS}][{CLEARBOX}]
 [{0F71}][{0FF7}]Oh…
 ---------------------------------------------
 [0722]
@@ -4993,13 +4928,13 @@ Aku akan jadi ibu yg lebih
 baik. 
 ---------------------------------------------
 [0832]
-[{0F76}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]Kau tahu, karena kita sudah
-menikah, aku harus panggil
-kamu dengan nama kesayangan.
+[{0F76}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]Kau tahu, karena kita ma
+nikah, aku harus panggil
+kau yang lain.
 Kau ingin dipanggil apa nanti?![{PRESS}][{0FF9}]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}] Nama
- Akang
- KangMas
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}] Dear
+ Honey
+ Darling
 ---------------------------------------------
 [0833]
 [{0F71}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]Ok, sdh diputuskan.
@@ -5014,9 +4949,9 @@ Aku ingin panggil kau
 dengan nama lain selain 
 namamu.
 Mana yg kau sukai?![{PRESS}][{0FF9}]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}] Nama
- Akang
- KangMas
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}] Dear
+ Honey
+ Darling
 ---------------------------------------------
 [0835]
 [{0FC9}][{0FF7}][{0FF4}][{0FF5}][{ICON_ANN_HEART}]OK. Kau dan aku bersama2
@@ -5025,9 +4960,9 @@ selalu, [{400F}] ♡
 [0836]
 [{0FB5}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Aku harus panggil kau apa
 setelah kita nikah?[{PRESS}][{0FF9}]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}] Nama
- Akang
- KangMas
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}] Dear
+ Honey
+ Darling
 ---------------------------------------------
 [0837]
 [{0FB5}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Hee hee hee. OK, [{400F}] ♡
@@ -5036,9 +4971,9 @@ setelah kita nikah?[{PRESS}][{0FF9}]
 [{0FE3}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}]Karena kita pasangan,
 kita bisa sedikit formal.
 Kau mau dipanggil apa olehku?[{PRESS}][{0FF9}]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}] Nama
- Akang
- KangMas
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}] Dear
+ Honey
+ Darling
 ---------------------------------------------
 [0839]
 [{0FE3}][{0FF7}][{0FF4}][{0FF5}][{ICON_KAREN_HEART}][{400F}] ♡ Gimana rasanya..?
@@ -5048,9 +4983,9 @@ Kau mau dipanggil apa olehku?[{PRESS}][{0FF9}]
 sampai sekarang tapi karena
 kita menikah aku sudah pikir
 kan tentang panggil nama lain  [{PRESS}][{0FF9}]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}] Nama
- Akang
- KangMas
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}] Dear
+ Honey
+ Darling
 ---------------------------------------------
 [0841]
 [{0F96}][{0FF7}][{0FF4}][{0FF5}][{ICON_MARY_HEART}][{400F}]…… ♡
@@ -5080,23 +5015,22 @@ coba cari seseorang yah.
 [{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Tunggu… Kau mau menebang aku?![{PRESS}][{CLEARBOX}]
 [{0FF6}]Aku sudah berakar untuk 
 100 tahun.
-Tolong… jangan tebang aku…[{PRESS}][{0FFA}]
-[{0FF6}] Tebang.★
- Jangan tebang.☆
+Tolong…jangan tebang aku[{PRESS}][{0FFA}]
+[{0FF6}] Tebang  
+ Jangan tebang
 ---------------------------------------------
 [0847]
 [{0F5B}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Hey, sedang apa kau di sini!
 Jangan pernah pikir utk menebang
 pohon cedar ini!
-Enyah kau dari sini!!!
+Pergi dari sini
 ---------------------------------------------
 [0848]
 [{0F5B}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Enyahlah!!!!
 ---------------------------------------------
 [0849]
 [{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Terimakasih banyak…
-Akan kuberi ini sebagai
-ganjarannya…, makanlah.
+Akan kuberi ini sbg imbalan..
 ---------------------------------------------
 [0850]
 [{0FBE}][{0FF7}][{0FF4}][{0FF5}][{0FC1}][{ICON_ARROW}]Kau sudah sadar sekarang…?
@@ -5247,7 +5181,7 @@ untukmu… [{PRESS}][{CLEARBOX}]
 [{0EF8}][{0FF7}]Bagaimanapun bagusnya rumah,
 sesuatu hilang jika di sana
 kosong.
-Lihat pada vas bunga ini!!!![{PRESS}][{CLEARBOX}]
+Lihat pada vas bungan ini!!!![{PRESS}][{CLEARBOX}]
 Cuma 5000G untuk buat rumahmu
 cantik.  [{PRESS}][{0FFA}]
 [{0FF6}] Bli
@@ -6377,8 +6311,8 @@ hadiahnya?[{PRESS}][{0FF9}]
 ---------------------------------------------
 [1092]
 [{0F87}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Apa kau mau membeli tiketnya?
-Atau mungkin menukarkan
-hadiah nya? [{PRESS}][{0FF9}]
+Atau mungkinmenukarkan hadiah
+nya? [{PRESS}][{0FF9}]
 [{0FF6}] Beli tiket  
  Tukar medali dengan hadiah
  Cuma bertanya..
@@ -6421,7 +6355,7 @@ jadi silahkan masuk yah.
 [1102]
 [{0F91}][{0FF7}][{0FF4}][{0FF5}][{0F87}][{ICON_ARROW}]OK, bagus.
 Akan kumulai
-balapannya… Mayor…[{PRESS}][{CLEARBOX}]
+balapnnya… Mayor…[{PRESS}][{CLEARBOX}]
 [{0F87}][{0FF7}]Oh…iya… Baik mulailah…
 ---------------------------------------------
 [1103]
@@ -9101,13 +9035,13 @@ jadi pulanglah saja duluan.   [{PRESS}][{CLEARBOX}]
 [{0FF6}]Festival Dombanya selesai……………
 ---------------------------------------------
 [1647]
-[{0F91}][{0FF7}][{0FF4}][{0FF5}][{0F87}][{ICON_ARROW}]…Dan pemenangnya…… [{401A}]
-dari kebun [{400D}].
+[{0F91}][{0FF7}][{0FF4}][{0FF5}][{0F87}][{ICON_ARROW}]…Dan pemenangnya.. [{401A}]
+dari.... [{400D}] farm.
 Wolnya berkualitas tinggi dan
-ia sangat ramah.[{PRESS}][{CLEARBOX}]
-[{0F87}][{0FF7}]Semuanya setuju pada domba ini.
+ia sangat ramah. [{PRESS}][{CLEARBOX}]
+[{0F87}][{0FF7}]Semuanya setuju pd yang ini.
 Jelas sekali kau telah merawat
-dombamu dengan sangat baik.
+domba itu dengan amat baik. 
 ---------------------------------------------
 [1648]
 [{0F79}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Domba lebih sulit diperkirakan
@@ -10317,8 +10251,8 @@ Wahahahaha.
 ---------------------------------------------
 [1892]
 [{0FF3}]D tombol: Pndh/Rubah kuantitas
-Tombol ×:Pilih 
-Tombol ○:Cancel
+× tombol:Pilih 
+○ tombol:Cancel
 Start:Berhenti beli tiket
 ---------------------------------------------
 [1893]
@@ -10527,11 +10461,11 @@ kita buat waktu dulu?
 [{0F87}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Selama tiga tahun yg lalu
 aku sudah lihat macam2 hidup
 yang kau buat untukmu sendiri
-di kebunmu. Dan aku dengarkan [{PRESS}][{CLEARBOX}]
+di kebunmu. Dan akudengarkan [{PRESS}][{CLEARBOX}]
 cerita tentangmu dari para
 penduduk.
 Hari ini aku datang membagi
-beberapa cerita itu………
+beberapa cerita itu....
 ---------------------------------------------
 [1923]
 [{0F87}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Maukah kau datang dengan
@@ -10743,7 +10677,7 @@ dengan baik.
 Mestinya kau rawat mereka seperti
 mereka itu aset yang berharga.[{PRESS}][{CLEARBOX}]
 Sebagai pemilik kebun kau
-GAGAL!!!
+GAGAL...
 ---------------------------------------------
 [1969]
 [{0F84}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kau tak punya persediaan di
@@ -10769,7 +10703,7 @@ adl bagian terpenting
 mengelola kebun. 
 ---------------------------------------------
 [1973]
-[{0F84}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Para cewek di desa ini sepertinya
+[{0F84}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Para gadis di desa ini sepertinya
 tak terlalu suka padamu.
 Jika kau ingin tinggal di desa
 ini, kuharapkan kau pikir [{PRESS}][{CLEARBOX}]
@@ -10928,7 +10862,7 @@ Tujuan kita berbeda, tapi
 kita saling berpacu yah![{PRESS}][{CLEARBOX}]
 [{0F9A}][{0FF7}][{0FF4}][{0FF5}][{0FE0}][{ICON_MARY_HEART}]Sangat senang lihat dua pemuda
 bisa jadi lawan tapi juga
-tetap perduli satu sama lain.[{PRESS}][{CLEARBOX}]
+tetap perduli satu samalain.[{PRESS}][{CLEARBOX}]
 [{0FE0}][{0FF7}][{0FF4}][{0FF5}][{0FE4}][{ICON_KAREN_HEART}]Apakah itu artinya...?[{PRESS}][{CLEARBOX}]
 [{0FE4}][{0FF7}][{0F88}]Nah, dlm hal apapun
 selamat buatmu… Tapi itu bukan
@@ -10968,7 +10902,7 @@ tetap bekerja sekeras mungkin![{PRESS}][{CLEARBOX}]
 [{0F27}][{0FF7}][{0F88}]Apa kau tak tahu apa2.. May?
 Sekarang [{MC_NAME}] telah buktikan
 dia sebagai pria
-dibutuhkan oleh desa.[{PRESS}][{CLEARBOX}]
+diperlukan oleh desa.[{PRESS}][{CLEARBOX}]
 [{0F88}][{0FF7}][{0F23}]Apakah artinya itu?![{PRESS}][{CLEARBOX}]
 [{0F23}][{0FF7}][{0F89}]…Well, uhmmm…kau akan ngerti
 bila kau sdh dewasa.[{PRESS}][{CLEARBOX}]
@@ -11197,9 +11131,8 @@ yang besar di desa ini.
 ---------------------------------------------
 [2014]
 [{0EF4}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Dgn alat ini kau bisa menangkap
-byk ikan besar
-Mister [{MC_NAME}]!
-Yg kau butuhkan cuma Keahlian.
+banyak Mister [{MC_NAME}]!
+Yg kau butuhkan cuma Skill
 ---------------------------------------------
 [2015]
 [{0FC1}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Ah, hello. Kau ini dr
@@ -11377,7 +11310,7 @@ Selamat buatmu.
 ---------------------------------------------
 [2052]
 [{0FC1}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Semoga beruntung Kau dan
-juga Elli.
+juga Elli
 ---------------------------------------------
 [2053]
 [{0F87}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Hello…kami sedang bersiap
