@@ -1,5 +1,5 @@
 [0000]
-[{0F87}][{0FF7}][{0FF4}][{0FF5}][{0F87}][{0E2F}]Jadi ini cara balap. [{PRESS}][{CLEARBOX}]
+[{0F87}][{0FF7}][{0FF4}][{0FF5}][{0F87}][{ICON_ARROW}]Jadi ini cara balap. [{PRESS}][{CLEARBOX}]
 [{0F87}][{0FF7}][{0F87}]Untuk membuat kuda
 jadi cepat tekan tombol × itu.
 Kudanya akan kehabisan nafas
@@ -11,15 +11,15 @@ kudamu dan tekan tombol  [{PRESS}][{CLEARBOX}]
 dgn hati-hati.
 ---------------------------------------------
 [0001]
-[{0F87}][{0FF7}][{0FF4}][{0FF5}][{0E2F}]Mengerti?[{PRESS}][{0FFA}]
+[{0F87}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Mengerti?[{PRESS}][{0FFA}]
 [{0FF6}] Ngerti
  Jelaskan itu lagi 
 ---------------------------------------------
 [0002]
-[{0F86}][{0FF7}][{0FF4}][{0FF5}][{0E2F}]OK, mari dimulai. 
+[{0F86}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]OK, mari dimulai. 
 ---------------------------------------------
 [0003]
-[{0FF6}][{0FF4}][{0FF5}][{0E2F}]Di garis pertama,
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Di garis pertama,
 adl  [{4000}]
 [{4001}] di garis ke2
 [{4002}] di garis ke3
@@ -29,7 +29,7 @@ adl  [{4000}]
 Balapannya akan dimulai...
 ---------------------------------------------
 [0004]
-[{0FF6}][{0FF4}][{0FF5}][{0E2F}]Di garis pertama,
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Di garis pertama,
 adl  [{4000}]
 [{4001}] di garis ke2
 [{400B}] dari [{400D}] farm
@@ -41,10 +41,10 @@ Kami simpati padamu.
 Balapannya akan dimulai...
 ---------------------------------------------
 [0005]
-[{0FF6}][{0FF4}][{0FF5}][{0E2F}]Bersiap...[{0FF2}]
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Bersiap...[{0FF2}]
 ---------------------------------------------
 [0006]
-[{0FF6}][{0FF4}][{0FF5}][{0E2F}]Hasil dari balapannya adl..
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Hasil dari balapannya adl..
 Juara ke1: [{4000}]
 Juara ke2: [{4001}]
 Juara ke3: [{4002}]
@@ -53,11 +53,11 @@ Juara ke5: [{4004}]
 Juara ke6: [{4005}]
 ---------------------------------------------
 [0007]
-[{0FF6}][{0FF4}][{0FF5}][{0E2F}]Bayaran untuk nomor
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Bayaran untuk nomor
 balap  [{4000}] sbg berikut  
 ---------------------------------------------
 [0008]
-[{0F86}][{0FF7}][{0FF4}][{0FF5}][{0E2F}]Jika kau ingin menukar medalimu
+[{0F86}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Jika kau ingin menukar medalimu
 dengan hadiah, minta pdku
 di meja resepsi ya.[{PRESS}][{CLEARBOX}]
 Kau hanya bisa tukar medali
@@ -65,11 +65,11 @@ di Balap Kuda Lokal ini,
 jadi jangan lupa ya.
 ---------------------------------------------
 [0009]
-[{0F7C}][{0FF7}][{0FF4}][{0FF5}][{0E2F}]OK, ini cara bermain
+[{0F7C}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]OK, ini cara bermain
 game Festival Ayamnya itu. 
 ---------------------------------------------
 [0010]
-[{0F7D}][{0FF7}][{0FF4}][{0FF5}][{0F87}][{0E2F}]Pemain mendesak ayam mereka   [{PRESS}][{CLEARBOX}]
+[{0F7D}][{0FF7}][{0FF4}][{0FF5}][{0F87}][{ICON_ARROW}]Pemain mendesak ayam mereka   [{PRESS}][{CLEARBOX}]
 [{0F7D}][{0FF7}]Menekan tombol ×
 mendesak ayammu itu.
 Tekan tombolnya saat ayammu sedang
@@ -78,7 +78,7 @@ dan kau bisa membuat ayam
 yang lain takut...
 ---------------------------------------------
 [0011]
-[{0F7C}][{0FF7}][{0FF4}][{0FF5}][{0E2F}]Jika ayam yang lain ada di
+[{0F7C}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Jika ayam yang lain ada di
 depan, takuti dan buat dia lari
 ketakutan.    [{PRESS}][{CLEARBOX}]
 Jika kau bagus dalam mendesak
@@ -87,28 +87,28 @@ ayam yang lain keluar dari
 arena.
 ---------------------------------------------
 [0012]
-[{0F7D}][{0FF7}][{0FF4}][{0FF5}][{0E2F}]Tapo jika kau desak ayammnu
+[{0F7D}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Tapo jika kau desak ayammnu
 saat dia ada di batas arena
 tersebut...
 ---------------------------------------------
 [0013]
-[{0F7B}][{0FF7}][{0FF4}][{0FF5}][{0E2F}]…kau mungkin akan kalah,
+[{0F7B}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]…kau mungkin akan kalah,
 jadi hati2...
 ---------------------------------------------
 [0014]
-[{0F7C}][{0FF7}][{0FF4}][{0FF5}][{0E2F}]Kau mengerti kan?[{PRESS}][{0FFA}]
+[{0F7C}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kau mengerti kan?[{PRESS}][{0FFA}]
 [{0FF6}] Ngerti
  Jelaskan lagi itu 
 ---------------------------------------------
 [0015]
-[{0F7D}][{0FF7}][{0FF4}][{0FF5}][{0E2F}]Pertandingan kedua akan
+[{0F7D}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Pertandingan kedua akan
 dimulai.
 Apa kau butuh penjelasannya?[{PRESS}][{0FFA}]
 [{0FF6}] Tdk 
  Jelaskan lagi...
 ---------------------------------------------
 [0016]
-[{0F7C}][{0FF7}][{0FF4}][{0FF5}][{0E2F}]OK, ini pertandingan ketiga.
+[{0F7C}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]OK, ini pertandingan ketiga.
 Yang ini putuskan juaranya,
 jadi semoga beruntung yah.
 Apa perlu penjelasannya lagi?[{PRESS}][{0FFA}]
@@ -116,31 +116,31 @@ Apa perlu penjelasannya lagi?[{PRESS}][{0FFA}]
  Jelaskan lagi
 ---------------------------------------------
 [0017]
-[{0F7D}][{0FF7}][{0FF4}][{0FF5}][{0E2F}]Yang pertama.
+[{0F7D}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Yang pertama.
 Siap…
 ---------------------------------------------
 [0018]
-[{0F7B}][{0FF7}][{0FF4}][{0FF5}][{0E2F}]Mulai!
+[{0F7B}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Mulai!
 ---------------------------------------------
 [0019]
-[{0F7D}][{0FF7}][{0FF4}][{0FF5}][{0E2F}]Yang Kedua...
+[{0F7D}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Yang Kedua...
 Siap……
 ---------------------------------------------
 [0020]
-[{0F7D}][{0FF7}][{0FF4}][{0FF5}][{0E2F}]Yang Ketiga.
+[{0F7D}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Yang Ketiga.
 Siap……
 ---------------------------------------------
 [0021]
-[{0F7B}][{0FF7}][{0FF4}][{0FF5}][{0E2F}]Selesai !!!
+[{0F7B}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Selesai !!!
 ---------------------------------------------
 [0022]
-[{0F7C}][{0FF7}][{0FF4}][{0FF5}][{0E2F}]Pemenangnya.. [{4018}]!
+[{0F7C}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Pemenangnya.. [{4018}]!
 ---------------------------------------------
 [0023]
-[{0F7C}][{0FF7}][{0FF4}][{0FF5}][{0E2F}]Pemenangnya.. [{4000}]!
+[{0F7C}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Pemenangnya.. [{4000}]!
 ---------------------------------------------
 [0024]
-[{0F87}][{0FF7}][{0FF4}][{0FF5}][{0F87}][{0E2F}]Baiklah, ini penjelasannya yah[{PRESS}][{CLEARBOX}]
+[{0F87}][{0FF7}][{0FF4}][{0FF5}][{0F87}][{ICON_ARROW}]Baiklah, ini penjelasannya yah[{PRESS}][{CLEARBOX}]
 [{0F87}][{0FF7}][{0F87}]Tekan tombol △
 untuk sembunyi dlm tong.
 Tekan tombol × saat
@@ -157,70 +157,70 @@ kau keluar dari gamenya.[{PRESS}][{CLEARBOX}]
  Jelaskan lagi  
 ---------------------------------------------
 [0025]
-[{0F86}][{0FF7}][{0FF4}][{0FF5}][{0E2F}]OK, mari mulai.
+[{0F86}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]OK, mari mulai.
 ---------------------------------------------
 [0026]
-[{0F87}][{0FF7}][{0FF4}][{0FF5}][{0E2F}]Siaap……
+[{0F87}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Siaap……
 ---------------------------------------------
 [0027]
-[{0F85}][{0FF7}][{0FF4}][{0FF5}][{0E2F}]Hey! Kau sudah keluar.
+[{0F85}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Hey! Kau sudah keluar.
 Kau tak boleh lempar....
 ---------------------------------------------
 [0028]
-[{0F87}][{0FF7}][{0FF4}][{0FF5}][{0E2F}]Ahhh, kau keluar dari game.
+[{0F87}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Ahhh, kau keluar dari game.
 Kau tak boleh lempar
 lagi tahu ga.
 ---------------------------------------------
 [0029]
-[{0F87}][{0FF7}][{0FF4}][{0FF5}][{0E2F}]OK, gamenya udahan.
+[{0F87}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]OK, gamenya udahan.
 ---------------------------------------------
 [0030]
-[{0F86}][{0FF7}][{0FF4}][{0FF5}][{0E2F}]Tim Ayam dipimpin oleh Rick!!!
+[{0F86}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Tim Ayam dipimpin oleh Rick!!!
 ---------------------------------------------
 [0031]
-[{0F86}][{0FF7}][{0FF4}][{0FF5}][{0E2F}]Tim Domba yg dipimpin Stu!!
+[{0F86}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Tim Domba yg dipimpin Stu!!
 ---------------------------------------------
 [0032]
-[{0F86}][{0FF7}][{0FF4}][{0FF5}][{0E2F}]Tim Kelapa dipimpin oleh Duke!
+[{0F86}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Tim Kelapa dipimpin oleh Duke!
 ---------------------------------------------
 [0033]
-[{0F86}][{0FF7}][{0FF4}][{0FF5}][{0E2F}]Tim Bintang dipimpin Doug!!
+[{0F86}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Tim Bintang dipimpin Doug!!
 ---------------------------------------------
 [0034]
-[{0F86}][{0FF7}][{0FF4}][{0FF5}][{0E2F}]Dan pemenangnya...
+[{0F86}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Dan pemenangnya...
 Tim Ayamnya Rick!
 ---------------------------------------------
 [0035]
-[{0F86}][{0FF7}][{0FF4}][{0FF5}][{0E2F}]Dan pemenangnya...
+[{0F86}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Dan pemenangnya...
 adl tim domba!!
 ---------------------------------------------
 [0036]
-[{0F86}][{0FF7}][{0FF4}][{0FF5}][{0E2F}]Dan pemenangnya...
+[{0F86}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Dan pemenangnya...
 adl Tim Kelapa!!!
 ---------------------------------------------
 [0037]
-[{0F86}][{0FF7}][{0FF4}][{0FF5}][{0E2F}]Dan pemenangnya...
+[{0F86}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Dan pemenangnya...
 Tim bintang!!!
 ---------------------------------------------
 [0038]
-[{0F87}][{0FF7}][{0FF4}][{0FF5}][{0E2F}]Hasilnya Seri, jadi
+[{0F87}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Hasilnya Seri, jadi
 main lagi..
 ---------------------------------------------
 [0039]
-[{0F86}][{0FF7}][{0FF4}][{0FF5}][{0E2F}]Ini pertandingan penentuan.
+[{0F86}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Ini pertandingan penentuan.
 ---------------------------------------------
 [0040]
-[{0F87}][{0FF7}][{0FF4}][{0FF5}][{0E2F}]Apa kau siap?![{PRESS}][{0FFA}]
+[{0F87}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Apa kau siap?![{PRESS}][{0FFA}]
 [{0FF6}] Kapanpun mulai..
  Jelaskan caranya 
 ---------------------------------------------
 [0041]
-[{0F86}][{0FF7}][{0FF4}][{0FF5}][{0E2F}]Kau tahu peraturannya kan?[{PRESS}][{0FFA}]
+[{0F86}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kau tahu peraturannya kan?[{PRESS}][{0FFA}]
 [{0FF6}] Iya
  Ga
 ---------------------------------------------
 [0042]
-[{0F50}][{0FF7}][{0FF4}][{0FF5}][{0F4F}][{0E2F}]OK, dengarkan[{PRESS}][{CLEARBOX}]
+[{0F50}][{0FF7}][{0FF4}][{0FF5}][{0F4F}][{ICON_ARROW}]OK, dengarkan[{PRESS}][{CLEARBOX}]
 [{0F4F}][{0FF7}][{0F4C}]Kau ingin anjingmu menang,
 jadi larilah secepatnya
 ke garis akhir![{PRESS}][{CLEARBOX}]
@@ -237,23 +237,23 @@ Jadi patuhi aturannya
 tersebut!!!
 ---------------------------------------------
 [0043]
-[{0F4F}][{0FF7}][{0FF4}][{0FF5}][{0E2F}]Kau mengerti semua itu?![{PRESS}][{0FFA}]
+[{0F4F}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kau mengerti semua itu?![{PRESS}][{0FFA}]
 [{0FF6}] Yeah, ngerti
  Jelaskan lagi yah
 ---------------------------------------------
 [0044]
-[{0F4F}][{0FF7}][{0FF4}][{0FF5}][{0E2F}]Ohhh, kau terlihat senang.
+[{0F4F}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Ohhh, kau terlihat senang.
 Kau hebat ya…  OK,
 kami siap memulai!!!
 ---------------------------------------------
 [0045]
-[{0F4F}][{0FF7}][{0FF4}][{0FF5}][{0F4F}][{0E2F}]Di jalur pertama, 
+[{0F4F}][{0FF7}][{0FF4}][{0FF5}][{0F4F}][{ICON_ARROW}]Di jalur pertama, 
 [{4000}]
 Di jalur kedua adl,
 [{4001}]
 Di jalur ketiga,  
 Kebun [{400D}] [{400C}]
-Hey!  [{400A}], menang ya!
+Hey!  [{MC_NAME}], menang ya!
 Di jalur keempat,  
 [{4002}]
 Di jalur kelima,  
@@ -264,18 +264,18 @@ Well, siapa yg akan jadi
 juara tahun ini?! 
 ---------------------------------------------
 [0046]
-[{0F4E}][{0FF7}][{0FF4}][{0FF5}][{0E2F}]Ready… set …
+[{0F4E}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Ready… set …
 ---------------------------------------------
 [0047]
-[{0F4E}][{0FF7}][{0FF4}][{0FF5}][{0E2F}]Go!
+[{0F4E}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Go!
 ---------------------------------------------
 [0048]
-[{0F4F}][{0FF7}][{0FF4}][{0FF5}][{0E2F}]Anjing Juara tahun ini adl
+[{0F4F}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Anjing Juara tahun ini adl
 [{4000}]{'s} [{4001}]
 selamat untukmu!
 ---------------------------------------------
 [0049]
-[{0F87}][{0FF7}][{0FF4}][{0FF5}][{0F87}][{0E2F}]Baiklah, ini adl
+[{0F87}][{0FF7}][{0FF4}][{0FF5}][{0F87}][{ICON_ARROW}]Baiklah, ini adl
 penjelasannya[{PRESS}][{CLEARBOX}]
 [{0F87}][{0FF7}][{0F87}]Kau maju ke depan
 dengan menekan tombol ×.
@@ -286,24 +286,24 @@ jadi lakukan yg terbaik
 berenanglah ke finish.
 ---------------------------------------------
 [0050]
-[{0FF6}][{0FF4}][{0FF5}][{0E2F}]Semoga beruntung ya!!
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Semoga beruntung ya!!
 ---------------------------------------------
 [0051]
-[{0F87}][{0FF7}][{0FF4}][{0FF5}][{0E2F}]Kau mengerti?[{PRESS}][{0FFA}]
+[{0F87}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kau mengerti?[{PRESS}][{0FFA}]
 [{0FF6}] Ngerti
  Jelaskan lagi ya
 ---------------------------------------------
 [0052]
-[{0FF7}][{0FF4}][{0FF5}][{0E2F}]Baiklah.
+[{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Baiklah.
 Semoga beruntung ya
 ---------------------------------------------
 [0053]
-[{0F86}][{0FF7}][{0FF4}][{0FF5}][{0E2F}]Di posisi, bersiaplah…
+[{0F86}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Di posisi, bersiaplah…
 ---------------------------------------------
 [0054]
-[{0F85}][{0FF7}][{0FF4}][{0FF5}][{0E2F}]Go!
+[{0F85}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Go!
 ---------------------------------------------
 [0055]
-[{0FF6}][{0FF4}][{0FF5}][{0E2F}]sedikit lagi saja.
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]sedikit lagi saja.
 Teruskan lagi!
 ---------------------------------------------

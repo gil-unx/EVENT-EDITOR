@@ -4256,7 +4256,7 @@ real fun.
 ………………The End
 ---------------------------------------------
 [0438]
-[{0FD9}][{0FF7}][{0FF4}][{0FF5}][{0E2F}]Kau punya sesuatu di tanganmu
+[{0FD9}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kau punya sesuatu di tanganmu
 itu… Aku akan simpan sampai
 kau datang lagi kemari yah.
 ---------------------------------------------
@@ -5412,7 +5412,7 @@ tiba sekali lagi saat untuk
 Bernyanyi.
 Bintang hari ini"M."
 Yuk kita dengarkan.
-☆ A Song for [{400A}] ☆
+☆ A Song for [{MC_NAME}] ☆
 Sejumlah air di dalamm…………
 Watering Can…Q
 Sejumlah makan ternak dalam
@@ -5425,7 +5425,7 @@ Sejumlah pakan ikan……………
 V
 Clap-clap-clap-clap……
 Skrg kita dikit tau ttg
-[{400A}].
+[{MC_NAME}].
 Terima kasih banyak.
 ---------------------------------------------
 [0494]
@@ -5943,7 +5943,7 @@ Chicken Lil{'s} ↘
 ↙ [{400D}] Farm
 ---------------------------------------------
 [0519]
-[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{0E2F}]OK. Akanku kirim ke per
+[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]OK. Akanku kirim ke per
 ternakanmu.
 ---------------------------------------------
 [0520]
@@ -7779,7 +7779,7 @@ Kalau kau mau barangnya,
 pesan sekarang!   
 ---------------------------------------------
 [0609]
-[{0EF7}][{0FF7}][{0FF4}][{0FF5}][{0E2F}]Terima kasih banyak. 
+[{0EF7}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Terima kasih banyak. 
 Kantongmu kosong?      
 Kemana yahh?    
 Ini kok aneh. Tapi jk pulang, 
