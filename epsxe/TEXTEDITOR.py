@@ -1,4 +1,4 @@
-from fun import *
+from FUN import *
 table ={0x0000:"A",
 0x0001:"B",
 0x0002:"C",
@@ -126,6 +126,14 @@ table ={0x0000:"A",
 0x0ffc:"[{PRESS}]",
 0x0ffb:"[{CLEARBOX}]",
 }
+ctr_tbl =[
+["[{0E2B}]","[{ICON_MARY_HEART}]"],
+["[{0E2C}]","[{ICON_ELLI_HEART}]"],
+["[{0E2D}]","[{ICON_ANN_HEART}]"],
+["[{0E2E}]","[{ICON_KAREN_HEART}]"],
+["[{0E2F}]","[{ICON_ARROW}]"],
+["[{400A}]","[{MC_NAME}]"],
+]
 inv_table= {v: k for k, v in table.items()}
 import glob,struct,sys
 class String:
@@ -188,11 +196,16 @@ def ex():
     for messName in glob.glob("HHMBTNI/MESSEGE/*.bin"):
         print(messName)
         f = open(messName, "rb")
-        txt = open(messName[:-3] + "txt", "w", encoding="utf-8")
+        txt = io.StringIO()
+        #txt = open(messName[:-3] + "txt", "w", encoding="utf-8")
         index = 0
         while faceData := f.read(0x1800):
+        
             txt.write("[{0:04d}]\n".format(index))
             text = io.BytesIO(f.read(0x800))
+            cc = struct.unpack("<H",  text.read(2))[0]
+            text.seek(0)
+            fileSave(faceData,messName[:-12]+"/FACEDATA/{0}.bin".format(cc))
             while d := text.read(2):
                 c = struct.unpack("<H", d)[0]
                 if c == 0xffff:
@@ -207,31 +220,49 @@ def ex():
 
             txt.write("\n---------------------------------------------\n")
             index += 1
-
-def ins(iso):
-    #iso = open("isos/HHMBTNI_BASE.bin","r+b")
-    messOff = [0x4882C68,
-               0x591BFE8,
-               0x6B99DA8,
-               0x71711E8,
-               0x7DF0AA8,
-               ]
+        txt.seek(0,0)
+        
+        txtBuff = txt.read()
+        for x in ctr_tbl:
+            txtBuff = txtBuff.replace(x[0],x[1])
+        outTxt = open(messName[:-3] + "txt", "w", encoding="utf-8").write(txtBuff)
+def insertText():
+    iso = open("isos/HHMBTNI_BASE.iso","r+b")
+    messOff = [
+        0x048DE138,
+        0x059774B8,
+        0x06BF5278 ,
+        0x071CC6B8,
+        0x07E4BF78 ,]
     i = 0
     for messName in glob.glob("HHMBTNI/MESSEGE/*.bin"):
-        print("Insert :"+messName)
+    
         f = open(messName, "r+b")
-        txt = Br(open(messName[:-3] + "txt", "r", encoding="utf-8"))
+        txtBuff = open(messName[:-3] + "txt", "r", encoding="utf-8").read()
+        for x in ctr_tbl:
+            txtBuff = txtBuff.replace(x[1],x[0])
+        txt = Br(io.StringIO(txtBuff))
         index = 0
-        while faceData := f.read(0x1800):
+        while d := f.read(4):
             txt.readline()
             stringText = txt.rt()[:-1]
+            cc = stringText[2:6]
+            try:
+                
+                faceD = open(messName[:-12]+"/FACEDATA/{0}.bin".format(cc),"rb")
+                faceD.seek(4)
+                f.write(faceD.read())
+            except:
+                f.read(0x1800-4)
             bstring = String(stringText, inv_table)
             bstring, bsize = bstring.encode()
             f.write(bstring)
             index += 1
+        f.seek(0,0)
         f.seek(0,0)
         iso.seek(messOff[i])
         while dat := f.read(0x800):
             iso.write(dat)
             iso.read(0x130)
         i+=1
+    print("INSERT TEXT DONE!!!")
