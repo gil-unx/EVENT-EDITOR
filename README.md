@@ -28,7 +28,7 @@ untuk android bisa pakai pydroid / termux +python
 - HHMBTNI/
 - ---------BGM/(list bgm yang ada dalam game,digunakan dalam command BGM)
 - ---------DOOR/(index pintu yang diketahui,digunakan dalam command OPENDOOR)
-- ---------EVENT_BASE/COMMAND_BASE.xlsx(
+- ---------EVENT_BASE/COMMAND_BASE.xlsx(Basis command, rename ke COMMAND.xlsx)
 - ---------ITEM/(List Item yang bisa di display dalam game,digunakan dalam command MC-HANDLING-ITEM,SET-ITEM-POS)
 - ---------LISTFACE/(List face npc, dan control code face npc, digunakan dalam edit text npc jika mau ganti wajah siapa yang ditampilkan)
 - ---------MESSEGE/(All editable text harvest moon back to nature,berhubungan dengan command OPENTEXTBOX)
