@@ -2,6 +2,6 @@ Simpan base iso disini
 
 link nya 
 
-https://drive.google.com/file/d/1lx6xT8Jn0lLBVnErcc1BMzpgREn2rMc2/view?usp=drivesdk
+[HHMBTNI_BASE.7z](https://drive.google.com/file/d/1SAHUhEq-xh6JAjA7Be1CXHvSX-OoRvsb/view?usp=drive_link)
 
 Credit versi indonesia buat PALAPA
