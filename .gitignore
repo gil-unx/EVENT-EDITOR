@@ -35,8 +35,7 @@ epsxe/sstates/SLUS_011.15.001.pic
 epsxe/sstates/SLUS_011.15.002
 op.SNA
 *.SNA
-*.bin
-*.bin
+
 epsxe/PyTexturePacker/list/*
 epsxe/isos/HHMBTNI_BASE.iso
 epsxe/mapdict.py
@@ -447,3 +446,6 @@ epsxe/HHMBTNI/NPC/SAPI/BINARY/0010.bin
 epsxe/PyTexturePacker/list/vram0.json
 epsxe/PyTexturePacker/list/vram0.png
 epsxe/isos/HHMBTNI_BASE.7z
+epsxe/bios/SCPH1001.BIN
+epsxe/memcards/NPC_MAKER.py
+epsxe/PyTexturePacker/list/vram0.json
