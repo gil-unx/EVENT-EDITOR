@@ -20,10 +20,10 @@
                 "h": 1
             }
         },
-        "HHMBTNI\\NPC\\DZAK_A\\SPRITE\\0001.png": {
+        "HHMBTNI\\NPC\\SAPI\\SPRITE\\0001.png": {
             "frame": {
                 "x": 0,
-                "y": 1,
+                "y": 4,
                 "w": 1024,
                 "h": 1
             },
@@ -80,10 +80,10 @@
                 "h": 1
             }
         },
-        "HHMBTNI\\NPC\\SAPI\\SPRITE\\0001.png": {
+        "HHMBTNI\\NPC\\MANNA\\SPRITE\\0001.png": {
             "frame": {
                 "x": 0,
-                "y": 4,
+                "y": 6,
                 "w": 1024,
                 "h": 1
             },
@@ -103,7 +103,7 @@
         "HHMBTNI\\ITEM\\0000\\SPRITE\\0001.png": {
             "frame": {
                 "x": 0,
-                "y": 5,
+                "y": 7,
                 "w": 1024,
                 "h": 1
             },
@@ -123,7 +123,7 @@
         "HHMBTNI\\NPC\\CLAIRE\\SPRITE\\0013.png": {
             "frame": {
                 "x": 0,
-                "y": 6,
+                "y": 8,
                 "w": 68,
                 "h": 40
             },
@@ -143,7 +143,7 @@
         "HHMBTNI\\NPC\\JOY\\SPRITE\\0006.png": {
             "frame": {
                 "x": 0,
-                "y": 46,
+                "y": 48,
                 "w": 64,
                 "h": 45
             },
@@ -163,7 +163,7 @@
         "HHMBTNI\\NPC\\JOY\\SPRITE\\0007.png": {
             "frame": {
                 "x": 0,
-                "y": 91,
+                "y": 93,
                 "w": 64,
                 "h": 44
             },
@@ -183,147 +183,7 @@
         "HHMBTNI\\NPC\\JOY\\SPRITE\\0008.png": {
             "frame": {
                 "x": 0,
-                "y": 135,
-                "w": 64,
-                "h": 44
-            },
-            "rotated": false,
-            "trimed": false,
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 64,
-                "h": 44
-            },
-            "sourceSize": {
-                "w": 64,
-                "h": 44
-            }
-        },
-        "HHMBTNI\\NPC\\DZAK_A\\SPRITE\\0007.png": {
-            "frame": {
-                "x": 0,
-                "y": 179,
-                "w": 64,
-                "h": 44
-            },
-            "rotated": false,
-            "trimed": false,
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 64,
-                "h": 44
-            },
-            "sourceSize": {
-                "w": 64,
-                "h": 44
-            }
-        },
-        "HHMBTNI\\NPC\\DZAK_A\\SPRITE\\0008.png": {
-            "frame": {
-                "x": 64,
-                "y": 179,
-                "w": 64,
-                "h": 44
-            },
-            "rotated": false,
-            "trimed": false,
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 64,
-                "h": 44
-            },
-            "sourceSize": {
-                "w": 64,
-                "h": 44
-            }
-        },
-        "HHMBTNI\\NPC\\CLAIRE\\SPRITE\\0000.png": {
-            "frame": {
-                "x": 64,
-                "y": 46,
-                "w": 64,
-                "h": 44
-            },
-            "rotated": false,
-            "trimed": false,
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 64,
-                "h": 44
-            },
-            "sourceSize": {
-                "w": 64,
-                "h": 44
-            }
-        },
-        "HHMBTNI\\NPC\\CLAIRE\\SPRITE\\0002.png": {
-            "frame": {
-                "x": 64,
-                "y": 90,
-                "w": 64,
-                "h": 44
-            },
-            "rotated": false,
-            "trimed": false,
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 64,
-                "h": 44
-            },
-            "sourceSize": {
-                "w": 64,
-                "h": 44
-            }
-        },
-        "HHMBTNI\\NPC\\CLAIRE\\SPRITE\\0005.png": {
-            "frame": {
-                "x": 64,
-                "y": 134,
-                "w": 64,
-                "h": 42
-            },
-            "rotated": false,
-            "trimed": false,
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 64,
-                "h": 42
-            },
-            "sourceSize": {
-                "w": 64,
-                "h": 42
-            }
-        },
-        "HHMBTNI\\NPC\\CLAIRE\\SPRITE\\0012.png": {
-            "frame": {
-                "x": 128,
-                "y": 134,
-                "w": 64,
-                "h": 42
-            },
-            "rotated": false,
-            "trimed": false,
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 64,
-                "h": 42
-            },
-            "sourceSize": {
-                "w": 64,
-                "h": 42
-            }
-        },
-        "HHMBTNI\\NPC\\CLAIRE\\SPRITE\\0014.png": {
-            "frame": {
-                "x": 128,
-                "y": 176,
+                "y": 137,
                 "w": 64,
                 "h": 44
             },
@@ -342,8 +202,8 @@
         },
         "HHMBTNI\\NPC\\SAPI\\SPRITE\\0000.png": {
             "frame": {
-                "x": 192,
-                "y": 176,
+                "x": 128,
+                "y": 52,
                 "w": 52,
                 "h": 64
             },
@@ -362,8 +222,8 @@
         },
         "HHMBTNI\\NPC\\SAPI\\SPRITE\\0002.png": {
             "frame": {
-                "x": 128,
-                "y": 6,
+                "x": 168,
+                "y": 116,
                 "w": 52,
                 "h": 64
             },
@@ -382,8 +242,8 @@
         },
         "HHMBTNI\\NPC\\SAPI\\SPRITE\\0006.png": {
             "frame": {
-                "x": 128,
-                "y": 70,
+                "x": 180,
+                "y": 52,
                 "w": 56,
                 "h": 64
             },
@@ -400,10 +260,110 @@
                 "h": 64
             }
         },
+        "HHMBTNI\\NPC\\CLAIRE\\SPRITE\\0000.png": {
+            "frame": {
+                "x": 64,
+                "y": 112,
+                "w": 64,
+                "h": 44
+            },
+            "rotated": false,
+            "trimed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 64,
+                "h": 44
+            },
+            "sourceSize": {
+                "w": 64,
+                "h": 44
+            }
+        },
+        "HHMBTNI\\NPC\\CLAIRE\\SPRITE\\0002.png": {
+            "frame": {
+                "x": 104,
+                "y": 156,
+                "w": 64,
+                "h": 44
+            },
+            "rotated": false,
+            "trimed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 64,
+                "h": 44
+            },
+            "sourceSize": {
+                "w": 64,
+                "h": 44
+            }
+        },
+        "HHMBTNI\\NPC\\CLAIRE\\SPRITE\\0005.png": {
+            "frame": {
+                "x": 104,
+                "y": 200,
+                "w": 64,
+                "h": 42
+            },
+            "rotated": false,
+            "trimed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 64,
+                "h": 42
+            },
+            "sourceSize": {
+                "w": 64,
+                "h": 42
+            }
+        },
+        "HHMBTNI\\NPC\\CLAIRE\\SPRITE\\0012.png": {
+            "frame": {
+                "x": 168,
+                "y": 200,
+                "w": 64,
+                "h": 42
+            },
+            "rotated": false,
+            "trimed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 64,
+                "h": 42
+            },
+            "sourceSize": {
+                "w": 64,
+                "h": 42
+            }
+        },
+        "HHMBTNI\\NPC\\CLAIRE\\SPRITE\\0014.png": {
+            "frame": {
+                "x": 120,
+                "y": 8,
+                "w": 64,
+                "h": 44
+            },
+            "rotated": false,
+            "trimed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 64,
+                "h": 44
+            },
+            "sourceSize": {
+                "w": 64,
+                "h": 44
+            }
+        },
         "HHMBTNI\\NPC\\SAPI\\SPRITE\\0003.png": {
             "frame": {
-                "x": 180,
-                "y": 6,
+                "x": 232,
+                "y": 179,
                 "w": 52,
                 "h": 63
             },
@@ -422,7 +382,7 @@
         },
         "HHMBTNI\\NPC\\SAPI\\SPRITE\\0004.png": {
             "frame": {
-                "x": 184,
+                "x": 272,
                 "y": 69,
                 "w": 52,
                 "h": 61
@@ -440,130 +400,10 @@
                 "h": 61
             }
         },
-        "HHMBTNI\\NPC\\DZAK_A\\SPRITE\\0000.png": {
-            "frame": {
-                "x": 192,
-                "y": 130,
-                "w": 60,
-                "h": 46
-            },
-            "rotated": false,
-            "trimed": false,
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 60,
-                "h": 46
-            },
-            "sourceSize": {
-                "w": 60,
-                "h": 46
-            }
-        },
-        "HHMBTNI\\NPC\\DZAK_A\\SPRITE\\0002.png": {
-            "frame": {
-                "x": 232,
-                "y": 6,
-                "w": 60,
-                "h": 44
-            },
-            "rotated": false,
-            "trimed": false,
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 60,
-                "h": 44
-            },
-            "sourceSize": {
-                "w": 60,
-                "h": 44
-            }
-        },
-        "HHMBTNI\\NPC\\DZAK_A\\SPRITE\\0003.png": {
-            "frame": {
-                "x": 236,
-                "y": 50,
-                "w": 60,
-                "h": 45
-            },
-            "rotated": false,
-            "trimed": false,
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 60,
-                "h": 45
-            },
-            "sourceSize": {
-                "w": 60,
-                "h": 45
-            }
-        },
-        "HHMBTNI\\NPC\\DZAK_A\\SPRITE\\0004.png": {
-            "frame": {
-                "x": 244,
-                "y": 176,
-                "w": 60,
-                "h": 45
-            },
-            "rotated": false,
-            "trimed": false,
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 60,
-                "h": 45
-            },
-            "sourceSize": {
-                "w": 60,
-                "h": 45
-            }
-        },
-        "HHMBTNI\\NPC\\DZAK_A\\SPRITE\\0005.png": {
-            "frame": {
-                "x": 252,
-                "y": 95,
-                "w": 60,
-                "h": 45
-            },
-            "rotated": false,
-            "trimed": false,
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 60,
-                "h": 45
-            },
-            "sourceSize": {
-                "w": 60,
-                "h": 45
-            }
-        },
-        "HHMBTNI\\NPC\\DZAK_A\\SPRITE\\0006.png": {
-            "frame": {
-                "x": 296,
-                "y": 6,
-                "w": 60,
-                "h": 45
-            },
-            "rotated": false,
-            "trimed": false,
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 60,
-                "h": 45
-            },
-            "sourceSize": {
-                "w": 60,
-                "h": 45
-            }
-        },
         "HHMBTNI\\NPC\\CLAIRE\\SPRITE\\0008.png": {
             "frame": {
-                "x": 296,
-                "y": 51,
+                "x": 272,
+                "y": 130,
                 "w": 60,
                 "h": 44
             },
@@ -582,8 +422,8 @@
         },
         "HHMBTNI\\NPC\\CLAIRE\\SPRITE\\0010.png": {
             "frame": {
-                "x": 304,
-                "y": 140,
+                "x": 288,
+                "y": 8,
                 "w": 60,
                 "h": 46
             },
@@ -598,172 +438,12 @@
             "sourceSize": {
                 "w": 60,
                 "h": 46
-            }
-        },
-        "HHMBTNI\\NPC\\DZAK_A\\SPRITE\\0009.png": {
-            "frame": {
-                "x": 312,
-                "y": 95,
-                "w": 56,
-                "h": 43
-            },
-            "rotated": false,
-            "trimed": false,
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 56,
-                "h": 43
-            },
-            "sourceSize": {
-                "w": 56,
-                "h": 43
-            }
-        },
-        "HHMBTNI\\NPC\\DZAK_A\\SPRITE\\0010.png": {
-            "frame": {
-                "x": 304,
-                "y": 186,
-                "w": 56,
-                "h": 42
-            },
-            "rotated": false,
-            "trimed": false,
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 56,
-                "h": 42
-            },
-            "sourceSize": {
-                "w": 56,
-                "h": 42
-            }
-        },
-        "HHMBTNI\\NPC\\CLAIRE\\SPRITE\\0003.png": {
-            "frame": {
-                "x": 360,
-                "y": 186,
-                "w": 56,
-                "h": 46
-            },
-            "rotated": false,
-            "trimed": false,
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 56,
-                "h": 46
-            },
-            "sourceSize": {
-                "w": 56,
-                "h": 46
-            }
-        },
-        "HHMBTNI\\NPC\\CLAIRE\\SPRITE\\0004.png": {
-            "frame": {
-                "x": 364,
-                "y": 138,
-                "w": 56,
-                "h": 43
-            },
-            "rotated": false,
-            "trimed": false,
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 56,
-                "h": 43
-            },
-            "sourceSize": {
-                "w": 56,
-                "h": 43
-            }
-        },
-        "HHMBTNI\\NPC\\CLAIRE\\SPRITE\\0006.png": {
-            "frame": {
-                "x": 416,
-                "y": 181,
-                "w": 56,
-                "h": 44
-            },
-            "rotated": false,
-            "trimed": false,
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 56,
-                "h": 44
-            },
-            "sourceSize": {
-                "w": 56,
-                "h": 44
-            }
-        },
-        "HHMBTNI\\NPC\\CLAIRE\\SPRITE\\0007.png": {
-            "frame": {
-                "x": 356,
-                "y": 6,
-                "w": 56,
-                "h": 46
-            },
-            "rotated": false,
-            "trimed": false,
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 56,
-                "h": 46
-            },
-            "sourceSize": {
-                "w": 56,
-                "h": 46
-            }
-        },
-        "HHMBTNI\\NPC\\CLAIRE\\SPRITE\\0009.png": {
-            "frame": {
-                "x": 368,
-                "y": 52,
-                "w": 56,
-                "h": 46
-            },
-            "rotated": false,
-            "trimed": false,
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 56,
-                "h": 46
-            },
-            "sourceSize": {
-                "w": 56,
-                "h": 46
-            }
-        },
-        "HHMBTNI\\NPC\\CLAIRE\\SPRITE\\0011.png": {
-            "frame": {
-                "x": 412,
-                "y": 6,
-                "w": 56,
-                "h": 42
-            },
-            "rotated": false,
-            "trimed": false,
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 56,
-                "h": 42
-            },
-            "sourceSize": {
-                "w": 56,
-                "h": 42
             }
         },
         "HHMBTNI\\NPC\\SAPI\\SPRITE\\0005.png": {
             "frame": {
-                "x": 420,
-                "y": 98,
+                "x": 436,
+                "y": 50,
                 "w": 56,
                 "h": 48
             },
@@ -782,8 +462,8 @@
         },
         "HHMBTNI\\NPC\\SAPI\\SPRITE\\0007.png": {
             "frame": {
-                "x": 424,
-                "y": 48,
+                "x": 452,
+                "y": 98,
                 "w": 56,
                 "h": 49
             },
@@ -802,8 +482,8 @@
         },
         "HHMBTNI\\NPC\\SAPI\\SPRITE\\0008.png": {
             "frame": {
-                "x": 472,
-                "y": 146,
+                "x": 492,
+                "y": 8,
                 "w": 56,
                 "h": 50
             },
@@ -822,8 +502,8 @@
         },
         "HHMBTNI\\NPC\\SAPI\\SPRITE\\0009.png": {
             "frame": {
-                "x": 476,
-                "y": 97,
+                "x": 452,
+                "y": 147,
                 "w": 56,
                 "h": 47
             },
@@ -842,8 +522,8 @@
         },
         "HHMBTNI\\NPC\\SAPI\\SPRITE\\0010.png": {
             "frame": {
-                "x": 472,
-                "y": 196,
+                "x": 452,
+                "y": 194,
                 "w": 56,
                 "h": 45
             },
@@ -860,10 +540,130 @@
                 "h": 45
             }
         },
+        "HHMBTNI\\NPC\\CLAIRE\\SPRITE\\0003.png": {
+            "frame": {
+                "x": 340,
+                "y": 152,
+                "w": 56,
+                "h": 46
+            },
+            "rotated": false,
+            "trimed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 56,
+                "h": 46
+            },
+            "sourceSize": {
+                "w": 56,
+                "h": 46
+            }
+        },
+        "HHMBTNI\\NPC\\CLAIRE\\SPRITE\\0004.png": {
+            "frame": {
+                "x": 388,
+                "y": 100,
+                "w": 56,
+                "h": 43
+            },
+            "rotated": false,
+            "trimed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 56,
+                "h": 43
+            },
+            "sourceSize": {
+                "w": 56,
+                "h": 43
+            }
+        },
+        "HHMBTNI\\NPC\\CLAIRE\\SPRITE\\0006.png": {
+            "frame": {
+                "x": 340,
+                "y": 198,
+                "w": 56,
+                "h": 44
+            },
+            "rotated": false,
+            "trimed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 56,
+                "h": 44
+            },
+            "sourceSize": {
+                "w": 56,
+                "h": 44
+            }
+        },
+        "HHMBTNI\\NPC\\CLAIRE\\SPRITE\\0007.png": {
+            "frame": {
+                "x": 396,
+                "y": 198,
+                "w": 56,
+                "h": 46
+            },
+            "rotated": false,
+            "trimed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 56,
+                "h": 46
+            },
+            "sourceSize": {
+                "w": 56,
+                "h": 46
+            }
+        },
+        "HHMBTNI\\NPC\\CLAIRE\\SPRITE\\0009.png": {
+            "frame": {
+                "x": 396,
+                "y": 143,
+                "w": 56,
+                "h": 46
+            },
+            "rotated": false,
+            "trimed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 56,
+                "h": 46
+            },
+            "sourceSize": {
+                "w": 56,
+                "h": 46
+            }
+        },
+        "HHMBTNI\\NPC\\CLAIRE\\SPRITE\\0011.png": {
+            "frame": {
+                "x": 436,
+                "y": 8,
+                "w": 56,
+                "h": 42
+            },
+            "rotated": false,
+            "trimed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 56,
+                "h": 42
+            },
+            "sourceSize": {
+                "w": 56,
+                "h": 42
+            }
+        },
         "HHMBTNI\\NPC\\JOY\\SPRITE\\0000.png": {
             "frame": {
-                "x": 528,
-                "y": 196,
+                "x": 508,
+                "y": 194,
                 "w": 48,
                 "h": 46
             },
@@ -882,8 +682,8 @@
         },
         "HHMBTNI\\NPC\\JOY\\SPRITE\\0002.png": {
             "frame": {
-                "x": 528,
-                "y": 144,
+                "x": 184,
+                "y": 8,
                 "w": 48,
                 "h": 44
             },
@@ -902,8 +702,8 @@
         },
         "HHMBTNI\\NPC\\JOY\\SPRITE\\0003.png": {
             "frame": {
-                "x": 480,
-                "y": 6,
+                "x": 508,
+                "y": 58,
                 "w": 48,
                 "h": 45
             },
@@ -922,8 +722,8 @@
         },
         "HHMBTNI\\NPC\\JOY\\SPRITE\\0004.png": {
             "frame": {
-                "x": 480,
-                "y": 51,
+                "x": 548,
+                "y": 8,
                 "w": 48,
                 "h": 45
             },
@@ -942,8 +742,8 @@
         },
         "HHMBTNI\\NPC\\JOY\\SPRITE\\0005.png": {
             "frame": {
-                "x": 528,
-                "y": 51,
+                "x": 508,
+                "y": 103,
                 "w": 48,
                 "h": 45
             },
@@ -962,8 +762,8 @@
         },
         "HHMBTNI\\NPC\\JOY\\SPRITE\\0009.png": {
             "frame": {
-                "x": 528,
-                "y": 6,
+                "x": 508,
+                "y": 148,
                 "w": 48,
                 "h": 43
             },
@@ -982,8 +782,8 @@
         },
         "HHMBTNI\\NPC\\JOY\\SPRITE\\0010.png": {
             "frame": {
-                "x": 576,
-                "y": 6,
+                "x": 556,
+                "y": 148,
                 "w": 48,
                 "h": 42
             },
@@ -1002,8 +802,8 @@
         },
         "HHMBTNI\\NPC\\DOMBA\\SPRITE\\0002.png": {
             "frame": {
-                "x": 532,
-                "y": 96,
+                "x": 556,
+                "y": 190,
                 "w": 40,
                 "h": 48
             },
@@ -1022,8 +822,8 @@
         },
         "HHMBTNI\\NPC\\DOMBA\\SPRITE\\0008.png": {
             "frame": {
-                "x": 572,
-                "y": 96,
+                "x": 596,
+                "y": 190,
                 "w": 40,
                 "h": 48
             },
@@ -1042,8 +842,8 @@
         },
         "HHMBTNI\\NPC\\DOMBA\\SPRITE\\0009.png": {
             "frame": {
-                "x": 576,
-                "y": 48,
+                "x": 556,
+                "y": 53,
                 "w": 40,
                 "h": 48
             },
@@ -1062,8 +862,8 @@
         },
         "HHMBTNI\\NPC\\DOMBA\\SPRITE\\0010.png": {
             "frame": {
-                "x": 576,
-                "y": 144,
+                "x": 596,
+                "y": 53,
                 "w": 40,
                 "h": 48
             },
@@ -1082,8 +882,8 @@
         },
         "HHMBTNI\\NPC\\DOMBA\\SPRITE\\0011.png": {
             "frame": {
-                "x": 612,
-                "y": 96,
+                "x": 604,
+                "y": 101,
                 "w": 40,
                 "h": 48
             },
@@ -1100,10 +900,210 @@
                 "h": 48
             }
         },
+        "HHMBTNI\\NPC\\MANNA\\SPRITE\\0000.png": {
+            "frame": {
+                "x": 636,
+                "y": 8,
+                "w": 28,
+                "h": 47
+            },
+            "rotated": false,
+            "trimed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 28,
+                "h": 47
+            },
+            "sourceSize": {
+                "w": 28,
+                "h": 47
+            }
+        },
+        "HHMBTNI\\NPC\\MANNA\\SPRITE\\0004.png": {
+            "frame": {
+                "x": 636,
+                "y": 149,
+                "w": 32,
+                "h": 47
+            },
+            "rotated": false,
+            "trimed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 47
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 47
+            }
+        },
+        "HHMBTNI\\NPC\\MANNA\\SPRITE\\0002.png": {
+            "frame": {
+                "x": 664,
+                "y": 54,
+                "w": 28,
+                "h": 46
+            },
+            "rotated": false,
+            "trimed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 28,
+                "h": 46
+            },
+            "sourceSize": {
+                "w": 28,
+                "h": 46
+            }
+        },
+        "HHMBTNI\\NPC\\MANNA\\SPRITE\\0003.png": {
+            "frame": {
+                "x": 672,
+                "y": 100,
+                "w": 32,
+                "h": 46
+            },
+            "rotated": false,
+            "trimed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 46
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 46
+            }
+        },
+        "HHMBTNI\\NPC\\MANNA\\SPRITE\\0005.png": {
+            "frame": {
+                "x": 692,
+                "y": 54,
+                "w": 28,
+                "h": 46
+            },
+            "rotated": false,
+            "trimed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 28,
+                "h": 46
+            },
+            "sourceSize": {
+                "w": 28,
+                "h": 46
+            }
+        },
+        "HHMBTNI\\NPC\\MANNA\\SPRITE\\0006.png": {
+            "frame": {
+                "x": 696,
+                "y": 8,
+                "w": 28,
+                "h": 46
+            },
+            "rotated": false,
+            "trimed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 28,
+                "h": 46
+            },
+            "sourceSize": {
+                "w": 28,
+                "h": 46
+            }
+        },
+        "HHMBTNI\\NPC\\MANNA\\SPRITE\\0007.png": {
+            "frame": {
+                "x": 696,
+                "y": 146,
+                "w": 28,
+                "h": 46
+            },
+            "rotated": false,
+            "trimed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 28,
+                "h": 46
+            },
+            "sourceSize": {
+                "w": 28,
+                "h": 46
+            }
+        },
+        "HHMBTNI\\NPC\\MANNA\\SPRITE\\0008.png": {
+            "frame": {
+                "x": 704,
+                "y": 100,
+                "w": 28,
+                "h": 46
+            },
+            "rotated": false,
+            "trimed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 28,
+                "h": 46
+            },
+            "sourceSize": {
+                "w": 28,
+                "h": 46
+            }
+        },
+        "HHMBTNI\\NPC\\MANNA\\SPRITE\\0009.png": {
+            "frame": {
+                "x": 720,
+                "y": 54,
+                "w": 32,
+                "h": 46
+            },
+            "rotated": false,
+            "trimed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 46
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 46
+            }
+        },
+        "HHMBTNI\\NPC\\MANNA\\SPRITE\\0010.png": {
+            "frame": {
+                "x": 724,
+                "y": 8,
+                "w": 32,
+                "h": 46
+            },
+            "rotated": false,
+            "trimed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 46
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 46
+            }
+        },
         "HHMBTNI\\NPC\\DOMBA\\SPRITE\\0000.png": {
             "frame": {
-                "x": 368,
-                "y": 98,
+                "x": 596,
+                "y": 8,
                 "w": 40,
                 "h": 40
             },
@@ -1122,8 +1122,8 @@
         },
         "HHMBTNI\\NPC\\DOMBA\\SPRITE\\0003.png": {
             "frame": {
-                "x": 68,
-                "y": 6,
+                "x": 128,
+                "y": 116,
                 "w": 40,
                 "h": 40
             },
@@ -1142,8 +1142,8 @@
         },
         "HHMBTNI\\NPC\\DOMBA\\SPRITE\\0004.png": {
             "frame": {
-                "x": 616,
-                "y": 48,
+                "x": 68,
+                "y": 8,
                 "w": 40,
                 "h": 40
             },
@@ -1162,8 +1162,8 @@
         },
         "HHMBTNI\\NPC\\DOMBA\\SPRITE\\0005.png": {
             "frame": {
-                "x": 624,
-                "y": 6,
+                "x": 724,
+                "y": 146,
                 "w": 40,
                 "h": 40
             },
@@ -1182,8 +1182,8 @@
         },
         "HHMBTNI\\NPC\\DOMBA\\SPRITE\\0006.png": {
             "frame": {
-                "x": 576,
-                "y": 192,
+                "x": 732,
+                "y": 100,
                 "w": 40,
                 "h": 40
             },
@@ -1202,8 +1202,8 @@
         },
         "HHMBTNI\\NPC\\DOMBA\\SPRITE\\0007.png": {
             "frame": {
-                "x": 616,
-                "y": 192,
+                "x": 752,
+                "y": 54,
                 "w": 40,
                 "h": 40
             },
@@ -1222,8 +1222,8 @@
         },
         "HHMBTNI\\NPC\\DOMBA\\SPRITE\\0012.png": {
             "frame": {
-                "x": 616,
-                "y": 144,
+                "x": 756,
+                "y": 8,
                 "w": 40,
                 "h": 40
             },
@@ -1242,8 +1242,8 @@
         },
         "HHMBTNI\\ITEM\\0000\\SPRITE\\0000.png": {
             "frame": {
-                "x": 0,
-                "y": 223,
+                "x": 604,
+                "y": 149,
                 "w": 32,
                 "h": 32
             },
