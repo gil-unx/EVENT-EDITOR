@@ -206,7 +206,7 @@ class Event:
             newEv.writeUint8(i + 1)
             newEv.writeUint8(8)
         for i in range(len(slotNpc)):
-            newEv.writeUint8(i + 1)
+            newEv.writeUint8(i+ 1)
             newEv.writeUint8(32)
         newEv.writeUint16(0x8000)
         newEv.writeUint16(0x4000)
@@ -264,7 +264,6 @@ class Event:
         filesOffset.append(files.tell())
         files.write(struct.pack("<HH", 0x100d, totalSpr) + palettes.getdata()+tiles.getdata())
         filesOffset.append(files.tell())
-
         i = 1
         while True:
             num = sheet.cell(row=i, column=1).value
@@ -381,24 +380,31 @@ def Main():
                 disableDailyNpc = str(sheet.cell(row=4, column=10).value)
                 targetSaveState = int(sheet.cell(row=4, column=11).value)
                 if idx ==1:
-                
+                    
                     if disableDailyNpc == "YES":
-                        dec = gzip.decompress(open("sstates/SLUS_011.15.{0:03d}".format(targetSaveState-1),"rb").read())
-                        dat = io.BytesIO(dec)
-                        for dailyPos in disNpc:
-                            dat.seek(dailyPos,0)
-                            dat.write(b"\x00\x00\x00\x00")
-                        dat.seek(0,0)
-                        out =  open("sstates/SLUS_011.15.{0:03d}".format(targetSaveState-1),"wb").write(gzip.compress(dat.read()))
+                        try:
+                            
+                            dec = gzip.decompress(open("sstates/SLUS_011.15.{0:03d}".format(targetSaveState-1),"rb").read())
+                            dat = io.BytesIO(dec)
+                            for dailyPos in disNpc:
+                                dat.seek(dailyPos,0)
+                                dat.write(b"\x00\x00\x00\x00")
+                            dat.seek(0,0)
+                            out =  open("sstates/SLUS_011.15.{0:03d}".format(targetSaveState-1),"wb").write(gzip.compress(dat.read()))
+                        except:
+                            continue
                     else:
-                        dec = gzip.decompress(open("sstates/SLUS_011.15.{0:03d}".format(targetSaveState-1),"rb").read())
-                        dat = io.BytesIO(dec)
-                        for dailyPos in disNpc:
-                            dat.seek(dailyPos,0)
-                            dat.write(b"\xAA\xF5\x02\x0C")
-                        dat.seek(0,0)
-                        out =  open("sstates/SLUS_011.15.{0:03d}".format(targetSaveState-1),"wb").write(gzip.compress(dat.read()))
-                        
+                        try:
+                            
+                            dec = gzip.decompress(open("sstates/SLUS_011.15.{0:03d}".format(targetSaveState-1),"rb").read())
+                            dat = io.BytesIO(dec)
+                            for dailyPos in disNpc:
+                                dat.seek(dailyPos,0)
+                                dat.write(b"\xAA\xF5\x02\x0C")
+                            dat.seek(0,0)
+                            out =  open("sstates/SLUS_011.15.{0:03d}".format(targetSaveState-1),"wb").write(gzip.compress(dat.read()))
+                        except:
+                            continue
                 
             else:
                 continue
