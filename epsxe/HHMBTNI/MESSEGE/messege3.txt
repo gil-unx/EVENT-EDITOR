@@ -1496,27 +1496,27 @@ Penebang Kayu selamat.
 [0261]
 [{0FF3}]Buku gambar penduduk  
 - Volume 1[{PRESS}][{CLEARBOX}]
-[{0FF3}][{0FF6}][{0FF5}][{0F81}]Orang2 yang tinggal di Poultry
+[{0FF3}][{0FF6}][{0FF5}][{LILIA_SENANG}]Orang2 yang tinggal di Poultry
 Farm…[{PRESS}]
-[{0FF3}][{0F81}][{0FF7}][{0FF4}][{0FF5}][{0EE0}]Lillia[{PRESS}]
-[{0FF3}][{0EE0}][{0FF7}][{0FF4}][{0FF5}][{0EE4}]Rick[{PRESS}]
-[{0FF3}][{0EE4}][{0FF7}][{0FF4}]Popuri[{PRESS}][{CLEARBOX}]
-[{0FF3}][{0FF6}][{0FF5}][{0F90}]Peternakan sebelah……[{PRESS}]
-[{0FF3}][{0F90}][{0FF7}][{0FF4}][{0FF5}][{0F88}]Barley [{PRESS}]
-[{0FF3}][{0F88}][{0FF7}][{0FF4}]May[{PRESS}][{CLEARBOX}]
-[{0FF3}][{0FF6}][{0FF5}][{0FDC}]Pandai Besi....[{PRESS}]
-[{0FF3}][{0FDC}][{0FF7}][{0FF4}][{0FF5}][{0FD0}]Saibara [{PRESS}]
-[{0FF3}][{0FD0}][{0FF7}][{0FF4}]Gray[{PRESS}][{CLEARBOX}]
-[{0FF3}][{0FF6}][{0FF5}][{0F68}]The Aja Winery…[{PRESS}]
-[{0FF3}][{0F68}][{0FF7}][{0FF4}][{0FF5}][{0F67}]Duke[{PRESS}]
-[{0FF3}][{0F67}][{0FF7}][{0FF4}]Manna[{PRESS}][{CLEARBOX}]
-[{0FF3}][{0FF6}][{0FF5}][{0FA1}]Prpustakaan…[{PRESS}]
-[{0FF3}][{0FA1}][{0FF7}][{0FF4}][{0FF5}][{0F9E}]Basil[{PRESS}]
-[{0FF3}][{0F9E}][{0FF7}][{0FF4}][{0FF5}][{0EEB}]Anna[{PRESS}]
-[{0FF3}][{0EEB}][{0FF7}][{0FF4}]Mary[{PRESS}][{CLEARBOX}]
+[{0FF3}][{LILIA_SENANG}][{0FF7}][{0FF4}][{0FF5}][{RICK_NIKAH}]Lillia[{PRESS}]
+[{0FF3}][{RICK_NIKAH}][{0FF7}][{0FF4}][{0FF5}][{POPURI_FEST_BIASA}]Rick[{PRESS}]
+[{0FF3}][{POPURI_FEST_BIASA}][{0FF7}][{0FF4}]Popuri[{PRESS}][{CLEARBOX}]
+[{0FF3}][{0FF6}][{0FF5}][{BARLEY_SENANG}]Peternakan sebelah……[{PRESS}]
+[{0FF3}][{BARLEY_SENANG}][{0FF7}][{0FF4}][{0FF5}][{MAY_MIKIR}]Barley [{PRESS}]
+[{0FF3}][{MAY_MIKIR}][{0FF7}][{0FF4}]May[{PRESS}][{CLEARBOX}]
+[{0FF3}][{0FF6}][{0FF5}][{SAIBARA_BIASA}]Pandai Besi....[{PRESS}]
+[{0FF3}][{SAIBARA_BIASA}][{0FF7}][{0FF4}][{0FF5}][{GRAY_HALU}]Saibara [{PRESS}]
+[{0FF3}][{GRAY_HALU}][{0FF7}][{0FF4}]Gray[{PRESS}][{CLEARBOX}]
+[{0FF3}][{0FF6}][{0FF5}][{DUKE_KAGET}]The Aja Winery…[{PRESS}]
+[{0FF3}][{DUKE_KAGET}][{0FF7}][{0FF4}][{0FF5}][{MANNA_BIASA}]Duke[{PRESS}]
+[{0FF3}][{MANNA_BIASA}][{0FF7}][{0FF4}]Manna[{PRESS}][{CLEARBOX}]
+[{0FF3}][{0FF6}][{0FF5}][{BASIL_MARAH}]Prpustakaan…[{PRESS}]
+[{0FF3}][{BASIL_MARAH}][{0FF7}][{0FF4}][{0FF5}][{ANNA_MARAH}]Basil[{PRESS}]
+[{0FF3}][{ANNA_MARAH}][{0FF7}][{0FF4}][{0FF5}][{MARRY_FEST_BIASA}]Anna[{PRESS}]
+[{0FF3}][{MARRY_FEST_BIASA}][{0FF7}][{0FF4}]Mary[{PRESS}][{CLEARBOX}]
 [{0FF3}][{0FF6}][{0FF5}][{0F58}]Rumah Penebang Pohon..[{PRESS}]
-[{0FF3}][{0F58}][{0FF7}][{0FF4}][{0FF5}][{0F35}]Gotz[{PRESS}]
-[{0FF3}][{0F35}][{0FF7}][{0FF4}]Louis[{PRESS}]
+[{0FF3}][{0F58}][{0FF7}][{0FF4}][{0FF5}][{LOUISE_SENANG}]Gotz[{PRESS}]
+[{0FF3}][{LOUISE_SENANG}][{0FF7}][{0FF4}]Louis[{PRESS}]
 [{0FF6}][{0FF3}]☆Mereka berdua itu
 jatuh cinta?[{PRESS}][{CLEARBOX}]
 [{0FF6}][{0FF3}]
@@ -4311,7 +4311,8 @@ real fun.
 ………………The End
 ---------------------------------------------
 [0438]
-[{0FD9}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kau punya sesuatu di tanganmu
+[{SAIBARA_SEDIH}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kau punya sesuatu di tanganmu
 itu… Aku akan simpan sampai
 kau datang lagi kemari yah.
 ---------------------------------------------
@@ -5998,7 +5999,8 @@ Chicken Lil{'s} ↘
 ↙ [{400D}] Farm
 ---------------------------------------------
 [0519]
-[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]OK. Akanku kirim ke per
+[{JEFF_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+OK. Akanku kirim ke per
 ternakanmu.
 ---------------------------------------------
 [0520]
@@ -7834,7 +7836,8 @@ Kalau kau mau barangnya,
 pesan sekarang!   
 ---------------------------------------------
 [0609]
-[{0EF7}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Terima kasih banyak. 
+[{WON_SENANG}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Terima kasih banyak. 
 Kantongmu kosong?      
 Kemana yahh?    
 Ini kok aneh. Tapi jk pulang, 
@@ -11971,7 +11974,7 @@ Dummy
 Dummy
 ---------------------------------------------
 [0919]
-[{0F87}][{0FF7}][{0FF4}]Tuliskan namamu...
+[{THOMAS_BIASA}][{0FF7}][{0FF4}]Tuliskan namamu...
 ---------------------------------------------
 [0920]
 [{0FF3}]Tombol arah ke atas  :
@@ -12074,21 +12077,21 @@ Tombol arah yang Bawah:
 Hidup di Kebun  
 ---------------------------------------------
 [0930]
-[{0F87}][{0FF7}][{0FF4}]HARVESTMOON Back To Nature
+[{THOMAS_BIASA}][{0FF7}][{0FF4}]HARVESTMOON Back To Nature
 Bahasa Indonesia[{PRESS}][{CLEARBOX}]
-[{0F87}][{0FF7}][{0FF4}]Dipersembahkan oleh PALAPA.
+[{THOMAS_BIASA}][{0FF7}][{0FF4}]Dipersembahkan oleh PALAPA.
 Aku akan tanya
 beberapa pertanyaan...
 ---------------------------------------------
 [0931]
-[{0F87}][{0FF7}][{0FF4}]Apa nama anjing peliharaan 
+[{THOMAS_BIASA}][{0FF7}][{0FF4}]Apa nama anjing peliharaan 
 di kebunmu?!
 ---------------------------------------------
 [0932]
-[{0F87}][{0FF7}][{0FF4}]Tuliskanlah apa nama kebunmu?
+[{THOMAS_BIASA}][{0FF7}][{0FF4}]Tuliskanlah apa nama kebunmu?
 ---------------------------------------------
 [0933]
-[{0F87}][{0FF7}][{0FF4}]Kapan Ulang Tahunmu?  
+[{THOMAS_BIASA}][{0FF7}][{0FF4}]Kapan Ulang Tahunmu?  
 ---------------------------------------------
 [0934]
 [{0FF3}]Apa nama ini OK?
@@ -12375,36 +12378,36 @@ Dummy
 Dummy
 ---------------------------------------------
 [0993]
-[{0F76}][{0FF7}][{0FF4}]"Rahasia Popuri"
-[{0FF5}][{0F75}]  [{0F75}][{0FF7}][{0FF4}]  [{0FF5}][{0F74}]  [{0F74}][{0FF7}][{0FF4}] [{0FF5}][{0F73}]
-[{0F73}][{0FF7}][{0FF4}]  [{0FF5}][{0F72}]  [{0F72}][{0FF7}][{0FF4}]  [{0FF5}][{0F71}]  [{0F71}][{0FF7}][{0FF4}]  [{0FF5}][{0F70}]
-[{0F70}][{0FF7}][{0FF4}]  [{0FF5}][{0F6F}]  [{0F6F}][{0FF7}][{0FF4}]  [{0FF5}][{0F6E}]  [{0F6E}][{0FF7}][{0FF4}]  [{0FF5}][{0EE5}]
-[{0EE5}][{0FF7}][{0FF4}]  [{0FF5}][{0EE4}]  [{0EE4}][{0FF7}][{0FF4}]  [{0FF5}][{0EE3}]  [{0EE3}][{0FF7}][{0FF4}]  [{PRESS}][{CLEARBOX}]
+[{POPURI_BIASA}][{0FF7}][{0FF4}]"Rahasia Popuri"
+[{0FF5}][{POPURI_SENANG}]  [{POPURI_SENANG}][{0FF7}][{0FF4}]  [{0FF5}][{POPURI_MARAH}]  [{POPURI_MARAH}][{0FF7}][{0FF4}] [{0FF5}][{POPURI_SEDIH}]
+[{POPURI_SEDIH}][{0FF7}][{0FF4}]  [{0FF5}][{POPURI_MIKIR}]  [{POPURI_MIKIR}][{0FF7}][{0FF4}]  [{0FF5}][{POPURI_CINTA}]  [{POPURI_CINTA}][{0FF7}][{0FF4}]  [{0FF5}][{POPURI_TSUNDERE}]
+[{POPURI_TSUNDERE}][{0FF7}][{0FF4}]  [{0FF5}][{POPURI_NANGIS}]  [{POPURI_NANGIS}][{0FF7}][{0FF4}]  [{0FF5}][{POPURI_HABISNANGIS}]  [{POPURI_HABISNANGIS}][{0FF7}][{0FF4}]  [{0FF5}][{POPURI_NIKAH}]
+[{POPURI_NIKAH}][{0FF7}][{0FF4}]  [{0FF5}][{POPURI_FEST_BIASA}]  [{POPURI_FEST_BIASA}][{0FF7}][{0FF4}]  [{0FF5}][{POPURI_FEST_MARAH}]  [{POPURI_FEST_MARAH}][{0FF7}][{0FF4}]  [{PRESS}][{CLEARBOX}]
 ---------------------------------------------
 [0994]
 [{0FF3}]"Buku gambar penduduk  
 - Vol. 1 of 3"[{PRESS}][{CLEARBOX}]
-[{0FF3}][{0FF6}][{0FF5}][{0F81}]Orang2 yang tinggal di
+[{0FF3}][{0FF6}][{0FF5}][{LILIA_SENANG}]Orang2 yang tinggal di
 Poultry Farm…[{PRESS}]
-[{0FF3}][{0F81}][{0FF7}][{0FF4}][{0FF5}][{0EE0}]Lillia[{PRESS}]
-[{0FF3}][{0EE0}][{0FF7}][{0FF4}][{0FF5}][{0EE4}]Rick[{PRESS}]
-[{0FF3}][{0EE4}][{0FF7}][{0FF4}]Popuri[{PRESS}][{CLEARBOX}]
-[{0FF3}][{0FF6}][{0FF5}][{0F90}]Peternakan sebelah …[{PRESS}]
-[{0FF3}][{0F90}][{0FF7}][{0FF4}][{0FF5}][{0F88}]Barley[{PRESS}]
-[{0FF3}][{0F88}][{0FF7}][{0FF4}]May[{PRESS}][{CLEARBOX}]
-[{0FF3}][{0FF6}][{0FF5}][{0FDC}]Pandai Besi....[{PRESS}]
-[{0FF3}][{0FDC}][{0FF7}][{0FF4}][{0FF5}][{0FD0}]Saibara[{PRESS}]
-[{0FF3}][{0FD0}][{0FF7}][{0FF4}]Gray[{PRESS}][{CLEARBOX}]
-[{0FF3}][{0FF6}][{0FF5}][{0F68}]Kbn. Anggur…[{PRESS}]
-[{0FF3}][{0F68}][{0FF7}][{0FF4}][{0FF5}][{0F67}]Duke[{PRESS}]
-[{0FF3}][{0F67}][{0FF7}][{0FF4}]Manna[{PRESS}][{CLEARBOX}]
-[{0FF3}][{0FF6}][{0FF5}][{0FA1}]Prpustakaan…[{PRESS}]
-[{0FF3}][{0FA1}][{0FF7}][{0FF4}][{0FF5}]i1 Basil[{PRESS}]
-[{0FF3}][{0F9E}][{0FF7}][{0FF4}][{0FF5}][{0EEB}]Anna[{PRESS}]
-[{0FF3}][{0EEB}][{0FF7}][{0FF4}]Mary[{PRESS}][{CLEARBOX}]
+[{0FF3}][{LILIA_SENANG}][{0FF7}][{0FF4}][{0FF5}][{RICK_NIKAH}]Lillia[{PRESS}]
+[{0FF3}][{RICK_NIKAH}][{0FF7}][{0FF4}][{0FF5}][{POPURI_FEST_BIASA}]Rick[{PRESS}]
+[{0FF3}][{POPURI_FEST_BIASA}][{0FF7}][{0FF4}]Popuri[{PRESS}][{CLEARBOX}]
+[{0FF3}][{0FF6}][{0FF5}][{BARLEY_SENANG}]Peternakan sebelah …[{PRESS}]
+[{0FF3}][{BARLEY_SENANG}][{0FF7}][{0FF4}][{0FF5}][{MAY_MIKIR}]Barley[{PRESS}]
+[{0FF3}][{MAY_MIKIR}][{0FF7}][{0FF4}]May[{PRESS}][{CLEARBOX}]
+[{0FF3}][{0FF6}][{0FF5}][{SAIBARA_BIASA}]Pandai Besi....[{PRESS}]
+[{0FF3}][{SAIBARA_BIASA}][{0FF7}][{0FF4}][{0FF5}][{GRAY_HALU}]Saibara[{PRESS}]
+[{0FF3}][{GRAY_HALU}][{0FF7}][{0FF4}]Gray[{PRESS}][{CLEARBOX}]
+[{0FF3}][{0FF6}][{0FF5}][{DUKE_KAGET}]Kbn. Anggur…[{PRESS}]
+[{0FF3}][{DUKE_KAGET}][{0FF7}][{0FF4}][{0FF5}][{MANNA_BIASA}]Duke[{PRESS}]
+[{0FF3}][{MANNA_BIASA}][{0FF7}][{0FF4}]Manna[{PRESS}][{CLEARBOX}]
+[{0FF3}][{0FF6}][{0FF5}][{BASIL_MARAH}]Prpustakaan…[{PRESS}]
+[{0FF3}][{BASIL_MARAH}][{0FF7}][{0FF4}][{0FF5}]i1 Basil[{PRESS}]
+[{0FF3}][{ANNA_MARAH}][{0FF7}][{0FF4}][{0FF5}][{MARRY_FEST_BIASA}]Anna[{PRESS}]
+[{0FF3}][{MARRY_FEST_BIASA}][{0FF7}][{0FF4}]Mary[{PRESS}][{CLEARBOX}]
 [{0FF3}][{0FF6}][{0FF5}][{0F58}]Rumah Penebang Pohon..[{PRESS}]
-[{0FF3}][{0F58}][{0FF7}][{0FF4}][{0FF5}][{0F35}]Gotz[{PRESS}]
-[{0FF3}][{0F35}][{0FF7}][{0FF4}]Louis[{PRESS}]
+[{0FF3}][{0F58}][{0FF7}][{0FF4}][{0FF5}][{LOUISE_SENANG}]Gotz[{PRESS}]
+[{0FF3}][{LOUISE_SENANG}][{0FF7}][{0FF4}]Louis[{PRESS}]
 [{0FF6}][{0FF3}]☆Keduanya itu apa jatuh
 cinta?![{PRESS}][{CLEARBOX}]
 [{0FF6}][{0FF3}]
@@ -12413,84 +12416,84 @@ cinta?![{PRESS}][{CLEARBOX}]
 [0995]
 [{0FF3}]"Buku Gambar Penduduk  
 - Vol. 2 dr 3"[{PRESS}][{CLEARBOX}]
-[{0FF3}][{0FF6}][{0FF5}][{0F85}]Rumah Walikota...[{PRESS}]
-[{0FF3}][{0F85}][{0FF7}][{0FF4}][{0FF5}][{0F46}]Thomas
+[{0FF3}][{0FF6}][{0FF5}][{THOMAS_MARAH}]Rumah Walikota...[{PRESS}]
+[{0FF3}][{THOMAS_MARAH}][{0FF7}][{0FF4}][{0FF5}][{HARRIS_BIASA}]Thomas
 (Walikota dari desa ini...)[{PRESS}]
-[{0FF3}][{0F46}][{0FF7}][{0FF4}][{0FF5}][{0F3F}]Harris[{PRESS}]
+[{0FF3}][{HARRIS_BIASA}][{0FF7}][{0FF4}][{0FF5}][{0F3F}]Harris[{PRESS}]
 [{0FF3}][{0F3F}][{0FF7}][{0FF4}]Kano (Cuma nongkrong saja?)[{PRESS}][{CLEARBOX}]
-[{0FF3}][{0FF6}][{0FF5}][{0F61}]Rumah di samping rumah
+[{0FF3}][{0FF6}][{0FF5}][{ELLEN_SENANG}]Rumah di samping rumah
 Walikota....[{PRESS}]
-[{0FF3}][{0F61}][{0FF7}][{0FF4}][{0FF5}][{0EE7}]Ellen[{PRESS}]
-[{0FF3}][{0EE7}][{0FF7}][{0FF4}][{0FF5}][{0F21}]Elli[{PRESS}]
-[{0FF3}][{0F21}][{0FF7}][{0FF4}]Stu[{PRESS}][{CLEARBOX}]
-[{0FF3}][{0FF6}][{0FF5}][{0FEA}]The Supermarket…[{PRESS}]
-[{0FF3}][{0FEA}][{0FF7}][{0FF4}][{0FF5}][{0FE6}]Jeff[{PRESS}]
-[{0FF3}][{0FE6}][{0FF7}][{0FF4}][{0FF5}][{0EF1}]Sasha[{PRESS}]
-[{0FF3}][{0EF1}][{0FF7}][{0FF4}]Karen[{PRESS}][{CLEARBOX}]
+[{0FF3}][{ELLEN_SENANG}][{0FF7}][{0FF4}][{0FF5}][{ELLI_FEST_BIASA}]Ellen[{PRESS}]
+[{0FF3}][{ELLI_FEST_BIASA}][{0FF7}][{0FF4}][{0FF5}][{STU_HABISNANGIS}]Elli[{PRESS}]
+[{0FF3}][{STU_HABISNANGIS}][{0FF7}][{0FF4}]Stu[{PRESS}][{CLEARBOX}]
+[{0FF3}][{0FF6}][{0FF5}][{JEFF_AKTING}]The Supermarket…[{PRESS}]
+[{0FF3}][{JEFF_AKTING}][{0FF7}][{0FF4}][{0FF5}][{SASHA_SEDIH}]Jeff[{PRESS}]
+[{0FF3}][{SASHA_SEDIH}][{0FF7}][{0FF4}][{0FF5}][{KAREN_FEST_BIASA}]Sasha[{PRESS}]
+[{0FF3}][{KAREN_FEST_BIASA}][{0FF7}][{0FF4}]Karen[{PRESS}][{CLEARBOX}]
 [{0FF3}][{0FF6}][{0FF5}][{0FBB}]The Clinic…[{PRESS}]
-[{0FF3}][{0FBB}][{0FF7}][{0FF4}][{0FF5}][{0EE8}]The Doctor[{PRESS}]
-[{0FF3}][{0EE8}][{0FF7}][{0FF4}]☆ Kukira Elli tinggal dengan
+[{0FF3}][{0FBB}][{0FF7}][{0FF4}][{0FF5}][{ELLI_NIKAH}]The Doctor[{PRESS}]
+[{0FF3}][{ELLI_NIKAH}][{0FF7}][{0FF4}]☆ Kukira Elli tinggal dengan
 orang itu, tapi itu bukan
 masalah yang sebenarnya....[{PRESS}][{CLEARBOX}]
-[{0FF3}][{0FF6}][{0FF5}][{0FAE}]The Church…[{PRESS}]
-[{0FF3}][{0FAE}][{0FF7}][{0FF4}]Pastor Carter[{PRESS}]
+[{0FF3}][{0FF6}][{0FF5}][{CARTER_SEDIH}]The Church…[{PRESS}]
+[{0FF3}][{CARTER_SEDIH}][{0FF7}][{0FF4}]Pastor Carter[{PRESS}]
 [{0FF3}][{0FF6}]☆ Mungkin orang itu tidur di
 tempat pengakuan setiap malam…[{PRESS}][{CLEARBOX}]
 [{0FF3}][{0FF6}]Rumah kecil di belakang
 Gereja..[{PRESS}]
 [{0FF3}][{0FF6}]Tujuh kurcaci berwarna
-Kurcaci Panen  [{0FF5}][{0F4B}][{PRESS}][{CLEARBOX}]
-[{0F4B}][{0FF7}][{0FF4}]    [{0FF5}][{0F16}][{PRESS}][{CLEARBOX}]
-[{0F16}][{0FF7}][{0FF4}]    [{0FF5}][{0F11}][{PRESS}][{CLEARBOX}]
-[{0F11}][{0FF7}][{0FF4}]    [{0FF5}][{0F0C}][{PRESS}][{CLEARBOX}]
-[{0F0C}][{0FF7}][{0FF4}]    [{0FF5}][{0F07}][{PRESS}][{CLEARBOX}]
-[{0F07}][{0FF7}][{0FF4}]    [{0FF5}][{0F02}][{PRESS}][{CLEARBOX}]
-[{0F02}][{0FF7}][{0FF4}]    [{0FF5}][{0EFD}][{PRESS}][{CLEARBOX}]
-[{0EFD}][{0FF7}][{0FF4}][{PRESS}][{CLEARBOX}]
+Kurcaci Panen  [{0FF5}][{KURCACIMERAH_YES}][{PRESS}][{CLEARBOX}]
+[{KURCACIMERAH_YES}][{0FF7}][{0FF4}]    [{0FF5}][{KURCACIBIRU_YES}][{PRESS}][{CLEARBOX}]
+[{KURCACIBIRU_YES}][{0FF7}][{0FF4}]    [{0FF5}][{KURCACIKUNING_YES}][{PRESS}][{CLEARBOX}]
+[{KURCACIKUNING_YES}][{0FF7}][{0FF4}]    [{0FF5}][{KURCACIUNGU_YES}][{PRESS}][{CLEARBOX}]
+[{KURCACIUNGU_YES}][{0FF7}][{0FF4}]    [{0FF5}][{KURCACIBIRUMUDA_YES}][{PRESS}][{CLEARBOX}]
+[{KURCACIBIRUMUDA_YES}][{0FF7}][{0FF4}]    [{0FF5}][{KURCACIOREN_YES}][{PRESS}][{CLEARBOX}]
+[{KURCACIOREN_YES}][{0FF7}][{0FF4}]    [{0FF5}][{KURCACIHIJAU_YES}][{PRESS}][{CLEARBOX}]
+[{KURCACIHIJAU_YES}][{0FF7}][{0FF4}][{PRESS}][{CLEARBOX}]
 [{0FF6}][{0FF3}]
     Bersambung nih!
 ---------------------------------------------
 [0996]
 [{0FF3}]"Buku Gambar Penduduk  
 - Vol. 3 of 3"[{PRESS}][{CLEARBOX}]
-[{0FF3}][{0FF6}][{0FF5}][{0FCC}]The Inn…[{PRESS}]
-[{0FF3}][{0FCC}][{0FF7}][{0FF4}][{0FF5}][{0EEE}]Doug[{PRESS}]
-[{0FF3}][{0EEE}][{0FF7}][{0FF4}]Ann[{PRESS}][{CLEARBOX}]
-[{0FF3}][{0FF6}][{0FF5}][{0FA6}]☆ Orang2 yg tinggal di 
+[{0FF3}][{0FF6}][{0FF5}][{DOUG_SEDIH}]The Inn…[{PRESS}]
+[{0FF3}][{DOUG_SEDIH}][{0FF7}][{0FF4}][{0FF5}][{ANN_FEST_BIASA}]Doug[{PRESS}]
+[{0FF3}][{ANN_FEST_BIASA}][{0FF7}][{0FF4}]Ann[{PRESS}][{CLEARBOX}]
+[{0FF3}][{0FF6}][{0FF5}][{CLIFF_HALU}]☆ Orang2 yg tinggal di 
 Inn…[{PRESS}]
-[{0FF3}][{0FA6}][{0FF7}][{0FF4}][{0FF5}][{0EDE}]Cliff[{PRESS}]
-[{0FF3}][{0EDE}][{0FF7}][{0FF4}][{0FF5}][{0EF8}]Kai (Di sini cuma Summer aja)[{PRESS}]
-[{0FF3}][{0EF8}][{0FF7}][{0FF4}]Won[{PRESS}][{CLEARBOX}]
-[{0FF3}][{0FF6}][{0FF5}][{0F4C}]Kabin Manajer di Pondok
+[{0FF3}][{CLIFF_HALU}][{0FF7}][{0FF4}][{0FF5}][{KAI_NIKAH_KAGUM}]Cliff[{PRESS}]
+[{0FF3}][{KAI_NIKAH_KAGUM}][{0FF7}][{0FF4}][{0FF5}][{WON_BIASA}]Kai (Di sini cuma Summer aja)[{PRESS}]
+[{0FF3}][{WON_BIASA}][{0FF7}][{0FF4}]Won[{PRESS}][{CLEARBOX}]
+[{0FF3}][{0FF6}][{0FF5}][{ZACK_MIKIR}]Kabin Manajer di Pondok
 Pantai..[{PRESS}]
-[{0FF3}][{0F4C}][{0FF7}][{0FF4}][{0FF5}][{0F2E}]Zack[{PRESS}]
-[{0FF3}][{0F2E}][{0FF7}][{0FF4}]Greg[{PRESS}]
+[{0FF3}][{ZACK_MIKIR}][{0FF7}][{0FF4}][{0FF5}][{GREG_SEDIH}]Zack[{PRESS}]
+[{0FF3}][{GREG_SEDIH}][{0FF7}][{0FF4}]Greg[{PRESS}]
 [{0FF3}][{0FF6}][{0FF3}]☆Mereka berdua itu
 jatuh cinta?[{PRESS}][{CLEARBOX}]
-[{0FF3}][{0FF6}][{0FF5}][{0F2B}]Roh jahat di atas gunung....[{PRESS}]
-[{0FF3}][{0F2B}][{0FF7}][{0FF4}][{0FF5}][{0EF3}]Sang Dewi Air Mancur[{PRESS}]
-[{0FF3}][{0EF3}][{0FF7}][{0FF4}]Lake Kappa[{PRESS}][{CLEARBOX}]
-[{0FF3}][{0FF6}][{0FF5}][{0F37}]Lain2..[{PRESS}]
-[{0FF3}][{0F37}][{0FF7}][{0FF4}][{0FF5}][{0F20}]Makhluk misterius    Pencicip[{PRESS}]
-[{0FF3}][{0F20}][{0FF7}][{0FF4}]???[{PRESS}]
+[{0FF3}][{0FF6}][{0FF5}][{DEWI_SENANG}]Roh jahat di atas gunung....[{PRESS}]
+[{0FF3}][{DEWI_SENANG}][{0FF7}][{0FF4}][{0FF5}][{KAPPA}]Sang Dewi Air Mancur[{PRESS}]
+[{0FF3}][{KAPPA}][{0FF7}][{0FF4}]Lake Kappa[{PRESS}][{CLEARBOX}]
+[{0FF3}][{0FF6}][{0FF5}][{GOURMET_PANIK}]Lain2..[{PRESS}]
+[{0FF3}][{GOURMET_PANIK}][{0FF7}][{0FF4}][{0FF5}][{BAYI_BIASA}]Makhluk misterius    Pencicip[{PRESS}]
+[{0FF3}][{BAYI_BIASA}][{0FF7}][{0FF4}]???[{PRESS}]
 [{0FF6}][{0FF3}]
     TAMAT!!!
 ---------------------------------------------
 [0997]
 [{0FF1}][{0FF6}] Hidup di Kebun  
-[{0FF5}][{0F3C}]
-[{0F3C}][{0FF7}][{0FF4}]"Petani Fran! Petani Fran!"[{0FF5}][{0F2C}]
-[{0F2C}][{0FF7}][{0FF4}]"Iya Jimmy?"[{0FF5}][{0F37}]
-[{0F37}][{0FF7}][{0FF4}]"Kutanam beberapa bibit tapi
+[{0FF5}][{GOURMET_BIASA}]
+[{GOURMET_BIASA}][{0FF7}][{0FF4}]"Petani Fran! Petani Fran!"[{0FF5}][{DEWI_BIASA}]
+[{DEWI_BIASA}][{0FF7}][{0FF4}]"Iya Jimmy?"[{0FF5}][{GOURMET_PANIK}]
+[{GOURMET_PANIK}][{0FF7}][{0FF4}]"Kutanam beberapa bibit tapi
 hasilnya tidak ada bedanya
 dengan sebelumnya.
-Kenapa yah?"[{0FF5}][{0F28}]
-[{0F28}][{0FF7}][{0FF4}]"Apa kau bajak tanahnya sebelum
-kau tanami bibit...?"[{0FF5}][{0F3A}]
-[{0F3A}][{0FF7}][{0FF4}]"Hah? Maksudmu aku tak bisa
+Kenapa yah?"[{0FF5}][{DEWI_MARAH}]
+[{DEWI_MARAH}][{0FF7}][{0FF4}]"Apa kau bajak tanahnya sebelum
+kau tanami bibit...?"[{0FF5}][{GOURMET_MARAH}]
+[{GOURMET_MARAH}][{0FF7}][{0FF4}]"Hah? Maksudmu aku tak bisa
 langsung tebarkan
-bibitnya...?"[{0FF5}][{0F2B}]
-[{0F2B}][{0FF7}][{0FF4}]"Oh, tentu saja tdk!
+bibitnya...?"[{0FF5}][{DEWI_SENANG}]
+[{DEWI_SENANG}][{0FF7}][{0FF4}]"Oh, tentu saja tdk!
 Bibit hanya akan tumbuh bila
 tanahnya kau bajak dulu dengan
 cangkulmu. Dan kau tak
@@ -12509,18 +12512,18 @@ tanganmu. [{0FF5}][{0F38}]
 [0998]
 Tiga orang yg tinggal di
 Poultry Farm…
-[{PRESS}][{0FF5}][{0F81}]   Lillia  [{0F81}][{0FF7}][{0FF4}]
-[{0FF6}][{0FF5}][{0F79}]   Rick    [{0F79}][{0FF7}][{0FF4}]
-[{0FF6}][{0FF5}][{0F6F}]   Popuri  [{0F76}][{0FF7}][{0FF4}][{0FF6}]
+[{PRESS}][{0FF5}][{LILIA_SENANG}]   Lillia  [{LILIA_SENANG}][{0FF7}][{0FF4}]
+[{0FF6}][{0FF5}][{RICK_MIKIR}]   Rick    [{RICK_MIKIR}][{0FF7}][{0FF4}]
+[{0FF6}][{0FF5}][{POPURI_NANGIS}]   Popuri  [{POPURI_BIASA}][{0FF7}][{0FF4}][{0FF6}]
 ---------------------------------------------
 [0999]
 Tiga orang yg tinggal di
 Poultry Farm…
-[{PRESS}][{0FF5}][{0F82}]Lillia [{0F82}][{0FF7}][{0FF4}][{0FF5}][{0F81}] [{0F81}][{0FF7}][{0FF4}][{0FF5}][{0F80}] [{0F80}][{0FF7}][{0FF4}][{0FF5}][{0F7F}] [{0F7E}][{0FF7}][{0FF4}] [{0FF6}][{0FF5}][{0F7D}]
-Rick [{0F7D}][{0FF7}][{0FF4}][{0FF5}][{0F7C}] [{0F7C}][{0FF7}][{0FF4}][{0FF5}][{0F7B}] [{0F7B}][{0FF7}][{0FF4}][{0FF5}][{0F7A}] [{0F7A}][{0FF7}][{0FF4}][{0FF5}][{0F79}] [{0F79}][{0FF7}][{0FF4}][{0FF5}][{0F78}]
-[{0F78}][{0FF7}][{0FF4}][{0FF5}][{0F77}] [{0F77}][{0FF7}][{0FF4}] [{0FF6}][{0FF5}][{0F76}]
-Popuri [{0F76}][{0FF7}][{0FF4}][{0FF5}][{0F75}] [{0F75}][{0FF7}][{0FF4}][{0FF5}][{0F74}] [{0F74}][{0FF7}][{0FF4}][{0FF5}][{0F73}] [{0F73}][{0FF7}][{0FF4}][{0FF5}][{0F72}] [{0F72}][{0FF7}][{0FF4}][{0FF5}][{0F71}]
-[{0F71}][{0FF7}][{0FF4}][{0FF5}][{0F70}] [{0F70}][{0FF7}][{0FF4}][{0FF5}][{0F6F}] [{0F6F}][{0FF7}][{0FF4}][{0FF5}][{0F6E}] [{0F6E}][{0FF7}][{0FF4}][{0FF6}]
+[{PRESS}][{0FF5}][{LILIA_BIASA}]Lillia [{LILIA_BIASA}][{0FF7}][{0FF4}][{0FF5}][{LILIA_SENANG}] [{LILIA_SENANG}][{0FF7}][{0FF4}][{0FF5}][{LILIA_MARAH}] [{LILIA_MARAH}][{0FF7}][{0FF4}][{0FF5}][{LILIA_SEDIH}] [{LILIA_MIKIR}][{0FF7}][{0FF4}] [{0FF6}][{0FF5}][{RICK_BIASA}]
+Rick [{RICK_BIASA}][{0FF7}][{0FF4}][{0FF5}][{RICK_SENANG}] [{RICK_SENANG}][{0FF7}][{0FF4}][{0FF5}][{RICK_MARAH}] [{RICK_MARAH}][{0FF7}][{0FF4}][{0FF5}][{RICK_SEDIH}] [{RICK_SEDIH}][{0FF7}][{0FF4}][{0FF5}][{RICK_MIKIR}] [{RICK_MIKIR}][{0FF7}][{0FF4}][{0FF5}][{RICK_KAGET}]
+[{RICK_KAGET}][{0FF7}][{0FF4}][{0FF5}][{RICK_KESAL}] [{RICK_KESAL}][{0FF7}][{0FF4}] [{0FF6}][{0FF5}][{POPURI_BIASA}]
+Popuri [{POPURI_BIASA}][{0FF7}][{0FF4}][{0FF5}][{POPURI_SENANG}] [{POPURI_SENANG}][{0FF7}][{0FF4}][{0FF5}][{POPURI_MARAH}] [{POPURI_MARAH}][{0FF7}][{0FF4}][{0FF5}][{POPURI_SEDIH}] [{POPURI_SEDIH}][{0FF7}][{0FF4}][{0FF5}][{POPURI_MIKIR}] [{POPURI_MIKIR}][{0FF7}][{0FF4}][{0FF5}][{POPURI_CINTA}]
+[{POPURI_CINTA}][{0FF7}][{0FF4}][{0FF5}][{POPURI_TSUNDERE}] [{POPURI_TSUNDERE}][{0FF7}][{0FF4}][{0FF5}][{POPURI_NANGIS}] [{POPURI_NANGIS}][{0FF7}][{0FF4}][{0FF5}][{POPURI_HABISNANGIS}] [{POPURI_HABISNANGIS}][{0FF7}][{0FF4}][{0FF6}]
 ---------------------------------------------
 [1000]
 [{0FF3}]Fungsi ini belum bisa

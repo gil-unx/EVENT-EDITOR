@@ -402,11 +402,13 @@ hari rabu daripada hari senin.
                 Mary{'s} Library
 ---------------------------------------------
 [0068]
-[{0F82}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Oh, hello [{MC_NAME}].
+[{LILIA_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Oh, hello [{MC_NAME}].
 Apa kau perlu sesuatu?
 ---------------------------------------------
 [0069]
-[{0F81}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Badanku tak cukup kuat dan
+[{LILIA_SENANG}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Badanku tak cukup kuat dan
 aku tak banyak bergerak, jadi
 tolonglah kemari antara tengah
 hari dan jam 4PM. [{PRESS}][{CLEARBOX}]
@@ -420,34 +422,40 @@ minggu juga
 ○ tombol: Batal membeli  
 ---------------------------------------------
 [0071]
-[{0F82}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Makanan ayam 10G sebungkus. [{PRESS}][{CLEARBOX}]
+[{LILIA_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Makanan ayam 10G sebungkus. [{PRESS}][{CLEARBOX}]
 Kau harus beri satu setiap
 ayam setiap hari jadi harus beli
 banyak sekarang jika punya
 uang...
 ---------------------------------------------
 [0072]
-[{0F7F}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Gunakan itu jika ternakmu sakit.
+[{LILIA_SEDIH}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Gunakan itu jika ternakmu sakit.
 Kau perlu rawat mereka
 secepatnya atau kau nanti kena
 masalah besar. 
 ---------------------------------------------
 [0073]
-[{0F82}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kami akan beli lagi ayam yg
+[{LILIA_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kami akan beli lagi ayam yg
 kau besarkan. Dan kami akan bayar
 mahal jika ayamnya juara di 
 Festival Ayam....
 ---------------------------------------------
 [0074]
-[{0F81}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Ayam yg kami jual sudah
+[{LILIA_SENANG}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Ayam yg kami jual sudah
 dewasa, jadi segera bertelur setelah
 kau pelihara...
 ---------------------------------------------
 [0075]
-[{0F82}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Berapa banyak yg mau dibeli?
+[{LILIA_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Berapa banyak yg mau dibeli?
 ---------------------------------------------
 [0076]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Tempat Makanannya sudah dipenuhi
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Tempat Makanannya sudah dipenuhi
 makanan ayam…
 ---------------------------------------------
 [0077]
@@ -457,50 +465,62 @@ makanan ayam…
 ○ tombol: Tak jadi beli  
 ---------------------------------------------
 [0078]
-[{0F7E}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Heh…kau tak akan membeli
+[{LILIA_MIKIR}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Heh…kau tak akan membeli
 apapun yah?
 ---------------------------------------------
 [0079]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Tidak cukup uang…
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Tidak cukup uang…
 ---------------------------------------------
 [0080]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Tempat Makanan tak bisa
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Tempat Makanan tak bisa
 menampung.
 ---------------------------------------------
 [0081]
-[{0F81}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Makasih, datang lagi..
+[{LILIA_SENANG}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Makasih, datang lagi..
 ---------------------------------------------
 [0082]
-[{0F81}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Makasih, datang lagi.
+[{LILIA_SENANG}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Makasih, datang lagi.
 Kan kusuruh Rick bawa barangnya
 ke Tempat Makanan di kebunmu ya.
 ---------------------------------------------
 [0083]
-[{0F82}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Mau beli yang lainnya gak?
+[{LILIA_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Mau beli yang lainnya gak?
 ---------------------------------------------
 [0084]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Kau punya banyak barang,
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kau punya banyak barang,
 tak ada tempat....
 ---------------------------------------------
 [0085]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Kandang Ayammu sudah
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kandang Ayammu sudah
 kepenuhan.
 ---------------------------------------------
 [0086]
-[{0F81}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Jika kau mau beternak
+[{LILIA_SENANG}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Jika kau mau beternak
 ayam, pastikan ayamnya
 kau beri nama...
 ---------------------------------------------
 [0087]
-[{0F81}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kan kusuruh Rick
+[{LILIA_SENANG}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kan kusuruh Rick
 bawakan ayam yang kau beli
 ke kandangnya ya.
 ---------------------------------------------
 [0088]
-[{0F82}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Ayam mana yang mau kau jual..?
+[{LILIA_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Ayam mana yang mau kau jual..?
 ---------------------------------------------
 [0089]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Kau tak satupun punya ayam…
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kau tak satupun punya ayam…
 ---------------------------------------------
 [0090]
 [{0FF3}]D tombol:GerakKursor
@@ -508,17 +528,21 @@ ke kandangnya ya.
 ○ tombol:Tak menjual
 ---------------------------------------------
 [0091]
-[{0F7E}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Hah? Kau tak menjual..?
+[{LILIA_MIKIR}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Hah? Kau tak menjual..?
 ---------------------------------------------
 [0092]
-[{0F7F}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Maaf, kami tak beli anak ayam.
+[{LILIA_SEDIH}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Maaf, kami tak beli anak ayam.
 Cuma yg dewasa. 
 ---------------------------------------------
 [0093]
-[{0F82}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Apa kau menjual yg ini..?
+[{LILIA_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Apa kau menjual yg ini..?
 ---------------------------------------------
 [0094]
-[{0F81}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kan kusuruh Rick ambilkan
+[{LILIA_SENANG}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kan kusuruh Rick ambilkan
 ayam yang kau jual dari
 kandang ayammu itu. 
 ---------------------------------------------
@@ -528,56 +552,66 @@ kandang ayammu itu.
 ○ button: Cancel
 ---------------------------------------------
 [0096]
-[{0F82}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kan kubeli ayam ini 500G.
+[{LILIA_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kan kubeli ayam ini 500G.
 Mau menjualnya..?
 ---------------------------------------------
 [0097]
-[{0F82}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kan kubeli ayam ini 2000G.
+[{LILIA_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kan kubeli ayam ini 2000G.
 Mau menjualnya..?
 ---------------------------------------------
 [0098]
-[{0F91}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Wah, bukankah ini pemuda dr
+[{BARLEY_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Wah, bukankah ini pemuda dr
 kebun [{400D}] itu…
 Apa ada yang kau butuhkan...?
 ---------------------------------------------
 [0099]
-[{0F91}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Pakan adl makanan sapi dan
+[{BARLEY_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Pakan adl makanan sapi dan
 domba. Biasanya lebih baik
 menanam rumput sendiri untuk
 ternakmu. 
 ---------------------------------------------
 [0100]
-[{0F8D}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Obat↙obatan adl untuk ternakmu
+[{BARLEY_MIKIR}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Obat↙obatan adl untuk ternakmu
 yang sakit.
 Aku hanya jual sedikit saja supaya
 kau tak salah dalam memakainya. 
 ---------------------------------------------
 [0101]
-[{0F91}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kau bisa pakai agar sapi
+[{BARLEY_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kau bisa pakai agar sapi
 bisa hamil.
 Sapinya akan melahirkan anak
 dlm sebulan. 
 ---------------------------------------------
 [0102]
-[{0F91}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kau bisa pakai itu agar
+[{BARLEY_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kau bisa pakai itu agar
 dombamu hamil.
 Domba akan melahirkan anak
 dalam sebulan. 
 ---------------------------------------------
 [0103]
-[{0F91}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Sapi yg kami jual masihlah
+[{BARLEY_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Sapi yg kami jual masihlah
 muda.
 Bila saatnya mereka akan besar
 dan hasilkan susu.
 ---------------------------------------------
 [0104]
-[{0F91}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Domba yg kami jual sudah dewasa.
+[{BARLEY_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Domba yg kami jual sudah dewasa.
 Kau bisa pangkas wolnya dan
 menjualnya atau dibuat jadi
 benang.
 ---------------------------------------------
 [0105]
-[{0F91}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kami akan beli sapi darimu
+[{BARLEY_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kami akan beli sapi darimu
 bila mereka telah dewasa.
 Harganya semakin tinggi utk sapi
 yg telah dibesarkan dengan[{PRESS}][{CLEARBOX}]
@@ -585,7 +619,8 @@ cinta atau jadi juara dalam
 Festival Sapi....
 ---------------------------------------------
 [0106]
-[{0F91}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kami akan beli dombamu setalah
+[{BARLEY_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kami akan beli dombamu setalah
 mereka menjadi dewasa.
 Semakin tinggi harga utk
 domba yg telah dibesarkan dgn [{PRESS}][{CLEARBOX}]
@@ -593,115 +628,145 @@ cinta atau menjadi juara
 di dalam Festival Domba....
 ---------------------------------------------
 [0107]
-[{0F91}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Jika kau perlu beli yg lainnnya,
+[{BARLEY_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Jika kau perlu beli yg lainnnya,
 Silahkan datang lagi. 
 ---------------------------------------------
 [0108]
-[{0F91}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Berapa banyak yg mau dibeli?
+[{BARLEY_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Berapa banyak yg mau dibeli?
 ---------------------------------------------
 [0109]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Tempatnya sudah dipenuhi dgn
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Tempatnya sudah dipenuhi dgn
 pakan..
 ---------------------------------------------
 [0110]
-[{0F91}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Apa ini OK?
+[{BARLEY_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Apa ini OK?
 ---------------------------------------------
 [0111]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Tempatnya tak akan bisa
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Tempatnya tak akan bisa
 menampung...
 ---------------------------------------------
 [0112]
-[{0F91}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Makasih.
+[{BARLEY_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Makasih.
 Akan kusimpan pakan ini
 di Tempat Makanan. 
 ---------------------------------------------
 [0113]
-[{0F91}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Apa kau mau beli yang lain
+[{BARLEY_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Apa kau mau beli yang lain
 lagi?!
 ---------------------------------------------
 [0114]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Tempatnya penuh...
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Tempatnya penuh...
 ---------------------------------------------
 [0115]
-[{0F91}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Jadi apa kau akan berikan
+[{BARLEY_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Jadi apa kau akan berikan
 nama..?
 ---------------------------------------------
 [0116]
-[{0F91}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Makasih.
+[{BARLEY_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Makasih.
 Akan kusimpan di dalam
 tempatnya...
 ---------------------------------------------
 [0117]
-[{0F8D}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Sapi mana yang mau kau jual..?
+[{BARLEY_MIKIR}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Sapi mana yang mau kau jual..?
 ---------------------------------------------
 [0118]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Kau tak punya sapi yg dewasa.
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kau tak punya sapi yg dewasa.
 ---------------------------------------------
 [0119]
-[{0F8D}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Domba yg mana yang akan
+[{BARLEY_MIKIR}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Domba yg mana yang akan
 dijual?!
 ---------------------------------------------
 [0120]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Kau tak punya domba yg dewasa…
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kau tak punya domba yg dewasa…
 ---------------------------------------------
 [0121]
-[{0F8E}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Jadi tak ada yang dijual,
+[{BARLEY_SEDIH}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Jadi tak ada yang dijual,
 benar…?
 ---------------------------------------------
 [0122]
-[{0F8E}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kami tak beli sapi yg masih
+[{BARLEY_SEDIH}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kami tak beli sapi yg masih
 belum dewasa.
 ---------------------------------------------
 [0123]
-[{0F8E}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kami tak beli domba yg masih
+[{BARLEY_SEDIH}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kami tak beli domba yg masih
 belum dewasa.
 ---------------------------------------------
 [0124]
-[{0F91}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Bagaimana 2000G untuk yg ini?
+[{BARLEY_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Bagaimana 2000G untuk yg ini?
 ---------------------------------------------
 [0125]
-[{0F91}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Bagaimana 3000G untuk yg ini?
+[{BARLEY_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Bagaimana 3000G untuk yg ini?
 ---------------------------------------------
 [0126]
-[{0F91}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Bagaimana 3500G untuk yg ini?
+[{BARLEY_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Bagaimana 3500G untuk yg ini?
 ---------------------------------------------
 [0127]
-[{0F91}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Bagaimana 4500G untuk yg ini?
+[{BARLEY_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Bagaimana 4500G untuk yg ini?
 ---------------------------------------------
 [0128]
-[{0F91}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Bagaimana 5000G untuk yg ini?
+[{BARLEY_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Bagaimana 5000G untuk yg ini?
 ---------------------------------------------
 [0129]
-[{0F91}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Bagaimana 6000G untuk yg ini?
+[{BARLEY_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Bagaimana 6000G untuk yg ini?
 ---------------------------------------------
 [0130]
-[{0F91}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Bagaimana 8000G untuk yg ini?
+[{BARLEY_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Bagaimana 8000G untuk yg ini?
 ---------------------------------------------
 [0131]
-[{0F91}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]OK…Kan kubawa dari kandangnya.
+[{BARLEY_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+OK…Kan kubawa dari kandangnya.
 ---------------------------------------------
 [0132]
-[{0F91}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Makasih...
+[{BARLEY_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Makasih...
 ---------------------------------------------
 [0133]
-[{0FDC}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Bukankah kau [{MC_NAME}] dari kebun
+[{SAIBARA_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Bukankah kau [{MC_NAME}] dari kebun
  [{400D}] itu.
 Apa yg bisa kubantu sekarang?
 ---------------------------------------------
 [0134]
-[{0FDC}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Aku selalu bisa diajak bicara…
+[{SAIBARA_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Aku selalu bisa diajak bicara…
 selama aku ini sedang
 tidak bekerja.
 ---------------------------------------------
 [0135]
-[{0FDC}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Jika kau mau Naikkan
+[{SAIBARA_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Jika kau mau Naikkan
 Level alat, bawa dan pakai alatnya
 dan datanglah padaku sambil
 membawa logam pencampur yang[{PRESS}][{CLEARBOX}]
 perlu utk naikkan level.
 ---------------------------------------------
 [0136]
-[{0FDC}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Aku tak hanya buat alat,
+[{SAIBARA_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Aku tak hanya buat alat,
 tahu ga? Aku juga
 membuat perhiasan seperti kalung,
 gelang dan anting...[{PRESS}][{CLEARBOX}]
@@ -709,52 +774,61 @@ Kenapa bisa...?
 Itu bukan urusanmu!!!!
 ---------------------------------------------
 [0137]
-[{0FDC}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Jika kau simpan telur di
+[{SAIBARA_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Jika kau simpan telur di
 sana maka jadi Mayonaise.
 Tapi kau perlu logam
 pencampur juga
 ---------------------------------------------
 [0138]
-[{0FDC}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Jika kau simpan susu di sana
+[{SAIBARA_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Jika kau simpan susu di sana
 akan menjadi keju.
 Tapi kau butuh logam pencampur
 juga...
 ---------------------------------------------
 [0139]
-[{0FDC}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Jika kau simpan wol di sana
+[{SAIBARA_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Jika kau simpan wol di sana
 akan jadi benang.
 Tapi perlu logam pencampur
 juga...
 ---------------------------------------------
 [0140]
-[{0FDC}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Sikat, Pemerah susu dan
+[{SAIBARA_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Sikat, Pemerah susu dan
 Clipper. Semua itu perlu
 jika kau tingkatkan persediaan.
 Salah satu bisa...
 ---------------------------------------------
 [0141]
-[{0FDC}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Semua itu bukannya alat
+[{SAIBARA_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Semua itu bukannya alat
 keren, tapi cukup berguna juga.
 Yang lebih baik dr ini
 menjadikanmu malas
 ---------------------------------------------
 [0142]
-[{0FD9}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kau tak punya logam,
+[{SAIBARA_SEDIH}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kau tak punya logam,
 benar? Jika kau ingin perkuat
 alatmu, kau perlu logam yang
 tepat untuk dicampurkan.
 ---------------------------------------------
 [0143]
-[{0FDC}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Logam apa yg dipakai untuk
+[{SAIBARA_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Logam apa yg dipakai untuk
 itu?!
 ---------------------------------------------
 [0144]
-[{0FD9}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kau tak membawa alat2mu.
+[{SAIBARA_SEDIH}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kau tak membawa alat2mu.
 Bawa alat yang ingin kau
 perkuat ya.
 ---------------------------------------------
 [0145]
-[{0FDC}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Apa ada yang lainnya..?
+[{SAIBARA_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Apa ada yang lainnya..?
 ---------------------------------------------
 [0146]
 [{0FF3}]Tbl Arah: GerakKursor
@@ -763,199 +837,246 @@ perkuat ya.
 ○ tbl: Selesai
 ---------------------------------------------
 [0147]
-[{0FDC}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Sekali pria putuskan
+[{SAIBARA_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Sekali pria putuskan
 sesuatu seharusnya pendiriannya
 tetap!!
 ---------------------------------------------
 [0148]
-[{0FD9}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Ini bukan logam untuk
+[{SAIBARA_SEDIH}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Ini bukan logam untuk
 memperkuat alatmu. 
 ---------------------------------------------
 [0149]
-[{0FDC}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]OK, jadi alat mana yg mau
+[{SAIBARA_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+OK, jadi alat mana yg mau
 dikuatkan?
 ---------------------------------------------
 [0150]
-[{0FD9}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Hanya ada lima alat yang bisa
+[{SAIBARA_SEDIH}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Hanya ada lima alat yang bisa
 diperkuat yaitu..: Sabit,
 Cangkul, Kapak, Palu dan Alat
 Siram...
 ---------------------------------------------
 [0151]
-[{0FD9}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Hmmm… Itu akan membuat alatmu
+[{SAIBARA_SEDIH}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Hmmm… Itu akan membuat alatmu
 jelek.
 ---------------------------------------------
 [0152]
-[{0FD9}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Alat itu sudah diperkuat
+[{SAIBARA_SEDIH}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Alat itu sudah diperkuat
 menggunakan logam yang sama....
 ---------------------------------------------
 [0153]
-[{0FD9}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Ini belum saatnya memperkuat
+[{SAIBARA_SEDIH}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Ini belum saatnya memperkuat
 alat itu.
 Jika kau rubah sekarang
 nanti tak bisa dipakai dgn baik. 
 ---------------------------------------------
 [0154]
-[{0FDC}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Semua biayanya adl 1000G.
+[{SAIBARA_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Semua biayanya adl 1000G.
 Apa itu OK?
 ---------------------------------------------
 [0155]
-[{0FDC}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Semua biayanya adl 2000G.
+[{SAIBARA_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Semua biayanya adl 2000G.
 Apa itu OK?
 ---------------------------------------------
 [0156]
-[{0FDC}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Semua biayanya adl 3000G.
+[{SAIBARA_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Semua biayanya adl 3000G.
 Apa itu OK?
 ---------------------------------------------
 [0157]
-[{0FDC}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Semua biayanya adl 5000G.
+[{SAIBARA_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Semua biayanya adl 5000G.
 Apa itu OK?
 ---------------------------------------------
 [0158]
-[{0FDC}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Pekerjaanya butuh 3 hari.
+[{SAIBARA_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Pekerjaanya butuh 3 hari.
 Apa itu OK?
 ---------------------------------------------
 [0159]
-[{0FDC}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Ahem… Aku ingin kau pergi
+[{SAIBARA_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Ahem… Aku ingin kau pergi
 sekarang… aku akan bekerja. 
 ---------------------------------------------
 [0160]
-[{0FDB}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Hey, alat yang kau pesan
+[{SAIBARA_SENANG}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Hey, alat yang kau pesan
 sudah diselesaikan. 
 ---------------------------------------------
 [0161]
-[{0FDB}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Jadi, apa pendapatmu?!
+[{SAIBARA_SENANG}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Jadi, apa pendapatmu?!
 ---------------------------------------------
 [0162]
-[{0FD9}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Ranselmu sudah penuh...
+[{SAIBARA_SEDIH}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Ranselmu sudah penuh...
 Akan kusimpan sampai
 nanti kau kembali lagi, OK..?
 ---------------------------------------------
 [0163]
-[{0FD9}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Utk buat ini kau perlu logam
+[{SAIBARA_SEDIH}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Utk buat ini kau perlu logam
 yg bernama Orichalcum dan 1000G…
 Tak punya yg dibutuhkan?!
 Sayang..
 ---------------------------------------------
 [0164]
-[{0FD9}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Utk membuat ini kau butuh
+[{SAIBARA_SEDIH}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Utk membuat ini kau butuh
 logam bernama Adamantite dan
 2000G… Tak punya yang dperlukan?
 Sayang...
 ---------------------------------------------
 [0165]
-[{0FDC}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Selesainya dalam 5 hari.
+[{SAIBARA_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Selesainya dalam 5 hari.
 Apa itu OK?!
 ---------------------------------------------
 [0166]
-[{0FDB}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Perhiasan yang kau pesan
+[{SAIBARA_SENANG}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Perhiasan yang kau pesan
 telah selesai...
 ---------------------------------------------
 [0167]
-[{0FDB}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}][{0FD8}][{ICON_ARROW}]Pembuat Mayonnaise yg
+[{SAIBARA_SENANG}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+[{SAIBARA_MIKIR}][{ICON_ARROW}]
+Pembuat Mayonnaise yg
 kau pesan telah selesai. [{PRESS}][{CLEARBOX}]
-[{0FDC}][{0FF7}]Gray akan kirimkan padamu.
+[{SAIBARA_BIASA}][{0FF7}]Gray akan kirimkan padamu.
 Langsung dicoba!!
 ---------------------------------------------
 [0168]
-[{0FDB}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}][{0FD8}][{ICON_ARROW}]Pembuat Keju yang kau pesan
+[{SAIBARA_SENANG}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+[{SAIBARA_MIKIR}][{ICON_ARROW}]
+Pembuat Keju yang kau pesan
 telah selesai. [{PRESS}][{CLEARBOX}]
-[{0FDC}][{0FF7}]Gray akan kirimkan padamu.
+[{SAIBARA_BIASA}][{0FF7}]Gray akan kirimkan padamu.
 Cobalah langsung!
 ---------------------------------------------
 [0169]
-[{0FDB}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}][{0FD8}][{ICON_ARROW}]Pembuat Benang yg kau pesan
+[{SAIBARA_SENANG}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+[{SAIBARA_MIKIR}][{ICON_ARROW}]
+Pembuat Benang yg kau pesan
 udah selesai.[{PRESS}][{CLEARBOX}]
-[{0FDC}][{0FF7}]Gray akan kirimkan padamu.
+[{SAIBARA_BIASA}][{0FF7}]Gray akan kirimkan padamu.
 Cobalah langsung!
 ---------------------------------------------
 [0170]
-[{0FDC}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Itu untuk menyikat kuda,
+[{SAIBARA_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Itu untuk menyikat kuda,
 sapi dan domba.
 Kau harus sikat mereka sekali
 sehari.
 ---------------------------------------------
 [0171]
-[{0FDC}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Sapi dewasa hasilkan susu.
+[{SAIBARA_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Sapi dewasa hasilkan susu.
 Jika punya sapi, harus
 punya satu....
 ---------------------------------------------
 [0172]
-[{0FDC}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Domba dewasa bisa dicukur
+[{SAIBARA_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Domba dewasa bisa dicukur
 wolnya. Jika kau
 punya domba, kau seharusnya
 punya satu.
 ---------------------------------------------
 [0173]
-[{0FDC}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Tak ada lagi yg bisa dijual..
+[{SAIBARA_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Tak ada lagi yg bisa dijual..
 ---------------------------------------------
 [0174]
-[{0FDC}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Makasih atas pembeliannya...
+[{SAIBARA_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Makasih atas pembeliannya...
 ---------------------------------------------
 [0175]
-[{0FDC}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Ada sesuatu yg mau dibeli?
+[{SAIBARA_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Ada sesuatu yg mau dibeli?
 ---------------------------------------------
 [0176]
-[{0F66}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Woah, jika bukan [{MC_NAME}].
+[{MANNA_SENANG}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Woah, jika bukan [{MC_NAME}].
 Apa kau mau belanja?
 Ada sesuatu yang mau kau beli
 dari kami ini?
 ---------------------------------------------
 [0177]
-[{0F66}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Jika ada sesuatu yg mau kau
+[{MANNA_SENANG}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Jika ada sesuatu yg mau kau
 beli, tanya saja, OK?
 ---------------------------------------------
 [0178]
-[{0F67}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Anggurnya dari buah anggur
+[{MANNA_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Anggurnya dari buah anggur
 di kebun kami.
 Akan kuberi kau beberapa yang
 lumayan...
 ---------------------------------------------
 [0179]
-[{0F67}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Jus ini dari anggur yg tumbuh
+[{MANNA_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Jus ini dari anggur yg tumbuh
 di kebun kami.
 Orang2 yg minum anggur membeli
 ini....
 ---------------------------------------------
 [0180]
-[{0F66}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Makasih, datang lagi!!
+[{MANNA_SENANG}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Makasih, datang lagi!!
 ---------------------------------------------
 [0181]
-[{0F66}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Apa ada yang lainnya yang
+[{MANNA_SENANG}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Apa ada yang lainnya yang
 mau kau beli?!
 ---------------------------------------------
 [0182]
-[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Silahkan.
+[{JEFF_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Silahkan.
 Bungkus kadonya harganya
 100G. Apa itu OK?
 ---------------------------------------------
 [0183]
-[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Jika itu hadiah, maka
+[{JEFF_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Jika itu hadiah, maka
 kau harus membungkusnya kan?
 ---------------------------------------------
 [0184]
-[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Itu adalah Sudut Pembungkus.
+[{JEFF_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Itu adalah Sudut Pembungkus.
 Jika ada yg mau dibungkus,
 simpan saja di sana yah.
 ---------------------------------------------
 [0185]
-[{0FEB}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Maaf, tak bisa dibungkus
+[{JEFF_MIKIR}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Maaf, tak bisa dibungkus
 ---------------------------------------------
 [0186]
-[{0FEC}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Hah? Kau yakin ga?
+[{JEFF_SEDIH}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Hah? Kau yakin ga?
 ---------------------------------------------
 [0187]
-[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Terimakasih banyak. 
+[{JEFF_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Terimakasih banyak. 
 ---------------------------------------------
 [0188]
-[{0FEC}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Itu sudah dibungkus...
+[{JEFF_SEDIH}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Itu sudah dibungkus...
 ---------------------------------------------
 [0189]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Tak ada apa2 yg bisa
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Tak ada apa2 yg bisa
 dibungkus…
 ---------------------------------------------
 [0190]
-[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Itu adalah bibit buah dan sayur.
+[{JEFF_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Itu adalah bibit buah dan sayur.
 Bibit yg kami punya sekarang
 adl utk musim Spring tapi
 jika kau punya Hothouse maka  [{PRESS}][{CLEARBOX}]
@@ -966,21 +1087,26 @@ dan sayuran yang kau panen. [{PRESS}][{CLEARBOX}]
 Apa kau mau membeli bibitnya?
 ---------------------------------------------
 [0191]
-[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Nah, kami selalu punya
+[{JEFF_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Nah, kami selalu punya
 bibit untuk dijual.
 ---------------------------------------------
 [0192]
-[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Berapa banyak yg mau dibeli?
+[{JEFF_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Berapa banyak yg mau dibeli?
 ---------------------------------------------
 [0193]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Kau hanya bisa punya 99
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kau hanya bisa punya 99
 kantung bibit yang sama.  
 ---------------------------------------------
 [0194]
-[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Ada yang lain yang kau mau?!
+[{JEFF_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Ada yang lain yang kau mau?!
 ---------------------------------------------
 [0195]
-[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Bibit Lobak kau tanam di saat
+[{JEFF_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Bibit Lobak kau tanam di saat
 Spring.
 Harganya 120G sekantung.
 Itu murah dan tumbuhnya  [{PRESS}][{CLEARBOX}]
@@ -988,7 +1114,8 @@ cepat, dan kau bisa jual
 Lobak seharga 60G satu.
 ---------------------------------------------
 [0196]
-[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Bibit kentang kau tanam saat
+[{JEFF_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Bibit kentang kau tanam saat
 Spring.
 Harganya 150G sekantung.
 Dipanen saat bunga putih
@@ -997,7 +1124,8 @@ Kau bisa menjual kentang 80G
 satunya...
 ---------------------------------------------
 [0197]
-[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Bibit Ketimun kau tanam saat
+[{JEFF_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Bibit Ketimun kau tanam saat
 Spring,
 Kau bisa jual ketimun per satuan
 60G...[{PRESS}][{CLEARBOX}]
@@ -1007,7 +1135,8 @@ dipanen, jadi Ketimun harganya
 sesuai...
 ---------------------------------------------
 [0198]
-[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Bibit Stroberi 150G per kantung,
+[{JEFF_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Bibit Stroberi 150G per kantung,
 jadi cukup murah, plus kau
 bisa sering panen dari
 tanaman yang sama.....[{PRESS}][{CLEARBOX}]
@@ -1016,7 +1145,8 @@ satunya, tapi Stroberi juga
 bagus untuk kesehatan....
 ---------------------------------------------
 [0199]
-[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Bibit Tomat kau tanam saat
+[{JEFF_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Bibit Tomat kau tanam saat
 Summer.
 Kau bisa jual Tomat seharga 60G
 satu. [{PRESS}][{CLEARBOX}]
@@ -1026,7 +1156,8 @@ dipanen, jadi harganya cukup
 sesuai...
 ---------------------------------------------
 [0200]
-[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Bibit Jagung kau tanam saat
+[{JEFF_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Bibit Jagung kau tanam saat
 Summer. Harganya mahal, 300G
 sekantung, dan lama sekali
 tumbuh jadi besar.[{PRESS}][{CLEARBOX}]
@@ -1036,7 +1167,8 @@ kau bisa jual 100G
 persatuannya.
 ---------------------------------------------
 [0201]
-[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Bibit Bawang kau tanam saat
+[{JEFF_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Bibit Bawang kau tanam saat
 Summer.
 Sekantung 150G.
 Bawang harganya cukup menjanjikan  [{PRESS}][{CLEARBOX}]
@@ -1046,7 +1178,8 @@ Kau bisa jual bawang 80G
 per satuannya. 
 ---------------------------------------------
 [0202]
-[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Bibit Labu bisa kau tanam saat
+[{JEFF_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Bibit Labu bisa kau tanam saat
 Summer.
 Harganya cukup mahal yaitu
 500G sekantung dan lama sekali
@@ -1056,7 +1189,8 @@ kau bisa jual seharga 250G
 persatuannya.
 ---------------------------------------------
 [0203]
-[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Bibit Terung ditanam disaat
+[{JEFF_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Bibit Terung ditanam disaat
 Fall.
 Terung dijual dgn harga 80G
 satunya, dan kau juga dpt panen[{PRESS}][{CLEARBOX}]
@@ -1065,7 +1199,8 @@ jadi cukup sesuai.
 Sekantung bibit harganya 120G.
 ---------------------------------------------
 [0204]
-[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Bibit wortel ditanam di saat
+[{JEFF_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Bibit wortel ditanam di saat
 Fall.
 Kau bisa jual wortel utk 120G
 satunya dan wortel baik untuk  [{PRESS}][{CLEARBOX}]
@@ -1073,7 +1208,8 @@ badanmu.
 Sekantung 300G....
 ---------------------------------------------
 [0205]
-[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Bibit Kentang Manis tumbuh
+[{JEFF_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Bibit Kentang Manis tumbuh
 di saat fall.
 Sekantung cuma 300G.
 dan tumbuh cepat, kau akan [{PRESS}][{CLEARBOX}]
@@ -1081,7 +1217,8 @@ panen besar, dan kau bisa jual
 seharga 120G satunya. 
 ---------------------------------------------
 [0206]
-[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Bibit Bayam bisa tumbuh saat
+[{JEFF_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Bibit Bayam bisa tumbuh saat
 Fall.
 Kau bisa jual Bayam seharga
 80G persatuannya...[{PRESS}][{CLEARBOX}]
@@ -1090,7 +1227,8 @@ cukup murah plus tumbuhnya
 cepat...
 ---------------------------------------------
 [0207]
-[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kau bisa tanam rumput
+[{JEFF_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kau bisa tanam rumput
 kapanpun kecuali Winter.
 Harganya 500G sekantung.
 Kau tak usah susah2 [{PRESS}][{CLEARBOX}]
@@ -1099,79 +1237,94 @@ rumputnya tumbuh tinggi, bisa
 dipotong menjadi Pakan.
 ---------------------------------------------
 [0208]
-[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Makanan Ikan ada di sana.
+[{JEFF_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Makanan Ikan ada di sana.
 Masukkan saja ke Kolam Ikan
 sehari sekali.
 Berapa banyak yg mau kau beli?
 ---------------------------------------------
 [0209]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Box Pakan sudah penuh dgn
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Box Pakan sudah penuh dgn
 Makanan Ikan....
 ---------------------------------------------
 [0210]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Kau tak bisa simpan semuanya
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kau tak bisa simpan semuanya
 di Box itu
 ---------------------------------------------
 [0211]
-[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Terima kasih banyak.
+[{JEFF_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Terima kasih banyak.
 Akan kubawa Makanan Ikan ke
 Box Pakan di dalam kebunmu itu. 
 ---------------------------------------------
 [0212]
-[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Itu adl Ransel.
+[{JEFF_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Itu adl Ransel.
 Itu bisa bawa 2x lebih banyak
 dari ranselmu itu. Harganya adl
 3000G. Mau membelinya?
 ---------------------------------------------
 [0213]
-[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Bin itu bisa menampung banyak
+[{JEFF_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Bin itu bisa menampung banyak
 hasil produkmu.
 Harganya 5000G.
 Mau membelinya?!
 ---------------------------------------------
 [0214]
-[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]OK, akan kukirimkan
+[{JEFF_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+OK, akan kukirimkan
 Bin itu ke kebunmu itu nanti...
 ---------------------------------------------
 [0215]
-[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Itu sudut Masakan kami.
+[{JEFF_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Itu sudut Masakan kami.
 Tersedia apapun untuk bahan-bahan
 masak.
 Mau membeli sesuatu...?
 ---------------------------------------------
 [0216]
-[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Semua yg kau perlu untuk
+[{JEFF_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Semua yg kau perlu untuk
 masak ada di Sudut Masakan,
 jadi jika kau butuh sesuatu,
 coba lihat di sudut sana.
 ---------------------------------------------
 [0217]
-[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Minyak adl salah satu dasar
+[{JEFF_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Minyak adl salah satu dasar
 untuk menggoreng dan menumis.
 Harganya cuma 50G.
 Kau mau membeli..?
 ---------------------------------------------
 [0218]
-[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Tepung utk membuat kue
+[{JEFF_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Tepung utk membuat kue
 yg manis. Harganya 50G.
 Mau membelinya?!
 ---------------------------------------------
 [0219]
-[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Bubuk Kari penting jika kau
+[{JEFF_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Bubuk Kari penting jika kau
 mau membuat Masakan bumbu Kari.
 Cuma 50G. Kau mau membeli..?
 ---------------------------------------------
 [0220]
-[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Itu adl Blue Feather.
+[{JEFF_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Itu adl Blue Feather.
 Pria gunakan itu untuk
 melamar kekasihnya utk menikah.
 Harganya 1000G. Mau membelinya?!
 ---------------------------------------------
 [0221]
-[{0FC1}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Jadi kenapa kita disini..?
+[{DOKTER_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Jadi kenapa kita disini..?
 ---------------------------------------------
 [0222]
-[{0FC1}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kau tahu badanmu lebih baik
+[{DOKTER_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kau tahu badanmu lebih baik
 daripada yg lain tapi lebih baik
 tetap diperiksa. Sehingga
 jika ada malasah, kita bisa  [{PRESS}][{CLEARBOX}]
@@ -1179,11 +1332,13 @@ cepat obati.
 Jadi periksa badanmu teratur.
 ---------------------------------------------
 [0223]
-[{0FC1}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Pemeriksaan akan beritahu
+[{DOKTER_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Pemeriksaan akan beritahu
 apa badanmu sakit atau lelah...
 ---------------------------------------------
 [0224]
-[{0FC1}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Jika pemeriksaan beritahu badanmu
+[{DOKTER_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Jika pemeriksaan beritahu badanmu
 itu sakit atau lelah maka
 kau bisa beli obat yang
 akan membantumu sembuh.[{PRESS}][{CLEARBOX}]
@@ -1193,28 +1348,32 @@ selama kau makan dan tidur
 teratur...
 ---------------------------------------------
 [0225]
-[{0FC1}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Bodigizer adl obat kuat jika
+[{DOKTER_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Bodigizer adl obat kuat jika
 badanmu terasa sakit.
 Harganya adl 500G sebotol.
 Minumlah jika kerja membuat [{PRESS}][{CLEARBOX}]
 kau kehabisan napasmu.
 ---------------------------------------------
 [0226]
-[{0FC1}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Bodigizer XL harganya 1000G.
+[{DOKTER_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Bodigizer XL harganya 1000G.
 Lebih kuat dari BOdigizer
 yang biasa, jadi minumlah jika
 pekerjaanmu memaksamu duduk   [{PRESS}][{CLEARBOX}]
 atau pusing2.....
 ---------------------------------------------
 [0227]
-[{0FC1}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Turbojolt adl obat kuat saat
+[{DOKTER_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Turbojolt adl obat kuat saat
 kau sangat letih.
 Harganya cuma 1000G sebotol.
 Minumlah jikau kau terlihat sgt[{PRESS}][{CLEARBOX}]
 pucat sekali di cermin.
 ---------------------------------------------
 [0228]
-[{0FC1}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Turbojolt XL cuma 2000G.
+[{DOKTER_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Turbojolt XL cuma 2000G.
 Obat yang lebih kuat dari
 Turbojolt biasa, jadi minumlah hanya
 jika kondisimu amat parah [{PRESS}][{CLEARBOX}]
@@ -1222,34 +1381,41 @@ dan kau tak mau dan tak bisa
 periksakan ke rumahsakit.
 ---------------------------------------------
 [0229]
-[{0FC1}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Biaya periksanya adalah 10G. 
+[{DOKTER_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Biaya periksanya adalah 10G. 
 ---------------------------------------------
 [0230]
-[{0FC1}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Obat apa yang mau kau beli..?
+[{DOKTER_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Obat apa yang mau kau beli..?
 ---------------------------------------------
 [0231]
-[{0FC1}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]OK, kita mulai periksa.
+[{DOKTER_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+OK, kita mulai periksa.
 Buka mulutmu dan bilang
 aahhhh……
 ---------------------------------------------
 [0232]
-[{0FC1}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Ga? Apa kau yakin?
+[{DOKTER_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Ga? Apa kau yakin?
 Baik, jika kau pikir tak apa2
 kurasa tak perlu dilakukan.
 Jaga sajalah kesehatanmu itu. 
 ---------------------------------------------
 [0233]
-[{0FBE}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]…Hmmm………
+[{DOKTER_SEDIH}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+…Hmmm………
 ………Uh-huh…uh-huh…
 ……Apakah...?………
 …Ah, begitu…………
 ---------------------------------------------
 [0234]
-[{0FC1}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]OK! Sudah selesai!
+[{DOKTER_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+OK! Sudah selesai!
 Kuberitahu apa yg kutemukan...
 ---------------------------------------------
 [0235]
-[{0FC1}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Sepertinya kau telah
+[{DOKTER_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Sepertinya kau telah
 menjaga dengan baik dirimu itu…
 Aku tak menemukan apapun yang
 salah.[{PRESS}][{CLEARBOX}]
@@ -1257,7 +1423,8 @@ Apa kau benar2 kerja di kebun
 itu..?
 ---------------------------------------------
 [0236]
-[{0FC1}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Sepertinya kau sedikit lelah…
+[{DOKTER_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Sepertinya kau sedikit lelah…
 Sebotol Turbojolt pasti akan
 mengatasinya…tak perlu
 kawatir lagi. [{PRESS}][{CLEARBOX}]
@@ -1266,14 +1433,16 @@ awal malam ini dan makan
 teratur...
 ---------------------------------------------
 [0237]
-[{0FC1}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Sepertinya kau amat lelah ya.
+[{DOKTER_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Sepertinya kau amat lelah ya.
 Apa kau hidup teratur?
 Aku ingin kau istirahat beberapa
 saat saja.[{PRESS}][{CLEARBOX}]
 Mau membeli Turbojolt..?
 ---------------------------------------------
 [0238]
-[{0FBE}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}][{MC_NAME}]…jika kau tak mau
+[{DOKTER_SEDIH}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+[{MC_NAME}]…jika kau tak mau
 periksakan badanmu ke dokter
 kusarankan kau minum Turbojolt
 XL secepatnya.[{PRESS}][{CLEARBOX}]
@@ -1282,7 +1451,8 @@ obat itu maka kau jangan
 kerja dulu dan banyak istirahat. 
 ---------------------------------------------
 [0239]
-[{0FC1}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Sepertinya badanmu sedikit
+[{DOKTER_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Sepertinya badanmu sedikit
 lemah. Sebotol Bodigizer pasti
 akan menguatkan badanmu lagi
 tapi tak ada yg perlu di[{PRESS}][{CLEARBOX}]
@@ -1291,28 +1461,32 @@ adalah tidur awal dan
 makan teratur yah.
 ---------------------------------------------
 [0240]
-[{0FC1}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Badanmu sepertinya sedikit
+[{DOKTER_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Badanmu sepertinya sedikit
 lemah dan lelahl Sebotol obat
 kuat akan membuatmu sehat
 lagi tapi yang terbaik adalah [{PRESS}][{CLEARBOX}]
 istirahatkan badanmu itu.
 ---------------------------------------------
 [0241]
-[{0FBE}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Badanmu sedikit lemah, tapi
+[{DOKTER_SEDIH}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Badanmu sedikit lemah, tapi
 hal yang paling dikawatirkan
 adl kau lelah sekali… Minum
 sebotol Turbojolt XL jika   [{PRESS}][{CLEARBOX}]
 bisa ya.
 ---------------------------------------------
 [0242]
-[{0FBE}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Badanmu sedikit lemah, tapi
+[{DOKTER_SEDIH}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Badanmu sedikit lemah, tapi
 masalah besarnya rasa lelahmu…
 Kau harus minum sebotol
 Turbojolt XL atau istirahat dari[{PRESS}][{CLEARBOX}]
 pekerjaan rutinmu.
 ---------------------------------------------
 [0243]
-[{0FC1}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Badanmu itu lemah.
+[{DOKTER_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Badanmu itu lemah.
 Kau harus makan teratur dan banyak
 istirahat.
 Kau sebaiknya beli sebotol[{PRESS}][{CLEARBOX}]
@@ -1320,7 +1494,8 @@ Bodigizer dan diminum kalau
 bisa. 
 ---------------------------------------------
 [0244]
-[{0FBE}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kau sedikit letih tapi
+[{DOKTER_SEDIH}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kau sedikit letih tapi
 semakin besar masalah semakin kau
 jadi lemah.
 Kau sebaiknya beli sebotol
@@ -1328,19 +1503,22 @@ Bodigizer dan diminum kalau
 bisa ya.
 ---------------------------------------------
 [0245]
-[{0FC1}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kau letih dan badanmu
+[{DOKTER_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kau letih dan badanmu
 cukup lemah.
 Kau harus beli obat kuat dan
 meminumnya dgn segera. 
 ---------------------------------------------
 [0246]
-[{0FC1}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kau cukup lemah dan
+[{DOKTER_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kau cukup lemah dan
 sangat lelah sekali… Kau harus
 beli obat kuatnya…termasuk
 Turbojolt XL untuk badanmu itu. 
 ---------------------------------------------
 [0247]
-[{0FBE}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kau benar-benar lemah.
+[{DOKTER_SEDIH}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kau benar-benar lemah.
 Kau tak bisa kerja dgn
 kondisi ini.
 Minumlah sebotol BodigizerXL[{PRESS}][{CLEARBOX}]
@@ -1348,7 +1526,8 @@ dan jika kau tak bisa kau harus
 cepat2 tidur.  
 ---------------------------------------------
 [0248]
-[{0FBE}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kau sedikit lelah, tapi yg
+[{DOKTER_SEDIH}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kau sedikit lelah, tapi yg
 mengkawatirkanku kau amat
 lemah sekali.
 Minumlah sebotol Bodigizer XL, dan[{PRESS}][{CLEARBOX}]
@@ -1356,7 +1535,8 @@ jika tak bisa sebaiknya kau
 langsung tidur yah.
 ---------------------------------------------
 [0249]
-[{0FBE}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kau cukup lelah, dan yg buruk
+[{DOKTER_SEDIH}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kau cukup lelah, dan yg buruk
 badanmu samasekali sangat
 lemah.
 Kau harus beli kedua obatnya…
@@ -1364,56 +1544,65 @@ termasuk Bodigizer XL untuk
 badan lemahmu.
 ---------------------------------------------
 [0250]
-[{0FBD}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Yang kukatakan untuk kebaikanmu, [{MC_NAME}].
+[{DOKTER_MIKIR}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Yang kukatakan untuk kebaikanmu, [{MC_NAME}].
 Aku ingin kau minum Bodigizer XL
 dan Turbojolt XL saat[{PRESS}][{CLEARBOX}]
 ini dan kemudian kau harus
 terus tidur...
 ---------------------------------------------
 [0251]
-[{0FC1}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Jaga dirimu baik2 yah.
+[{DOKTER_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Jaga dirimu baik2 yah.
 ---------------------------------------------
 [0252]
-[{0FC1}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Apa kau mau beli obat yang
+[{DOKTER_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Apa kau mau beli obat yang
 lainnya...?
 ---------------------------------------------
 [0253]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Katakan yg telah dilakukan.[{PRESS}][{0FF8}]
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Katakan yg telah dilakukan.[{PRESS}][{0FF8}]
 [{0FF6}] [{4000}]
  [{4001}]
  [{4002}]
  Tak ada
 ---------------------------------------------
 [0254]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Katakan apa yg kau lakukan.[{PRESS}][{0FF8}]
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Katakan apa yg kau lakukan.[{PRESS}][{0FF8}]
 [{0FF6}] Ketiduran
  Buang makanan 
  Jahat sama hewan 
  Tak ada
 ---------------------------------------------
 [0255]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Katakan apa yg kau lakukan.[{PRESS}][{0FF8}]
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Katakan apa yg kau lakukan.[{PRESS}][{0FF8}]
 [{0FF6}] Hewan tak terurus
  Bertingkah buruk pd orang
  Kadang2 mabuk  
  Tak ada
 ---------------------------------------------
 [0256]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Katakan apa yg kau lakukan.[{PRESS}][{0FF8}]
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Katakan apa yg kau lakukan.[{PRESS}][{0FF8}]
 [{0FF6}] Ketiduran
  Kadang2 mabuk  
  Mengotori jalan 
  Tak ada
 ---------------------------------------------
 [0257]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Katakan apa yg kau lakukan.[{PRESS}][{0FF8}]
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Katakan apa yg kau lakukan.[{PRESS}][{0FF8}]
 [{0FF6}] Bertingkah buruk pd orang
  Buang makanan 
  Ketiduran
  Tak ada
 ---------------------------------------------
 [0258]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Berlalu tanpa bilang bahwa
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Berlalu tanpa bilang bahwa
 kau seharusnya buang sampah
 pada tempatnya.
 Tapi bagus juga utk memungut sampah [{PRESS}][{CLEARBOX}]
@@ -1422,7 +1611,8 @@ Itu tak apa-apa.
 Sang Dewi sdh memaafkanmu.
 ---------------------------------------------
 [0259]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Kau tau ada yg bilang: "Apa
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kau tau ada yg bilang: "Apa
 yg kau lakukan kembali pdmu"?[{PRESS}][{CLEARBOX}]
 Banyak orang mengira bahwa
 "Orang itu tak baik padaku jadi
@@ -1437,7 +1627,8 @@ pada mereka. Itu tak apa-apa.
 Sang Dewi memaafkanmu....
 ---------------------------------------------
 [0260]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Hewan yang kau rawat
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Hewan yang kau rawat
 memberimu susu dan wolnya,
 jadi kau harus hargai
 itu dan memberinya penghargaan  [{PRESS}][{CLEARBOX}]
@@ -1446,7 +1637,8 @@ Itu tak apa-apa.
 Sang Dewi memaafkanmu...
 ---------------------------------------------
 [0261]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Kau punya banyak waktu pikirkan
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kau punya banyak waktu pikirkan
 tentang hewan yg dibiarkan
 mati.  [{PRESS}][{CLEARBOX}]
 Itu cukup, selama kau tak
@@ -1455,7 +1647,8 @@ lagi.
 Sang Dewi sdh maafkan kau.
 ---------------------------------------------
 [0262]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Orang2 hatinya sgt lemah
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Orang2 hatinya sgt lemah
 jadi saat diperlakukan buruk
 mereka mungkin cari yg lebih
 lemah utk pelampiasan.  [{PRESS}][{CLEARBOX}]
@@ -1469,14 +1662,16 @@ Itu tak apa2.
 Sang Dewi sdh memaafkanmu.
 ---------------------------------------------
 [0263]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Tak seperti hati, badan selalu
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Tak seperti hati, badan selalu
 jujur padamu.
 Ketiduran bukan hal buruk.
 Itu bukan masalah besar.[{PRESS}][{CLEARBOX}]
 Sang Dewi memaafkanmu....
 ---------------------------------------------
 [0264]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Alkohol itu sangat buruk,
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Alkohol itu sangat buruk,
 apalagi bila banyak diminum, itu
 seperti racun...[{PRESS}][{CLEARBOX}]
 Saat kau tak sadar akan aksimu,
@@ -1485,7 +1680,8 @@ hatimu. Jangan diulang ya.
 Sang Dewi memaafkanmu....
 ---------------------------------------------
 [0265]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Jadi kau jatuhkan hasil panen
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Jadi kau jatuhkan hasil panen
 yg kau tanam itu.
 Banyak menghamburkannya di
 tanah....[{PRESS}][{CLEARBOX}]
@@ -1496,169 +1692,202 @@ Sudahlah itu tak apa2.[{PRESS}][{CLEARBOX}]
 Sang Dewi sdh memafkanmu.
 ---------------------------------------------
 [0266]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Banyak orang terus melakukan
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Banyak orang terus melakukan
 kesalahan yg sama berulang2.
 Jika kau tak punya
 pengakuan aku jadi iri…
 ---------------------------------------------
 [0267]
-[{0FCF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Apa yg kau punya...?
+[{DOUG_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Apa yg kau punya...?
 Kami tak terima tunggakan yah.
 ---------------------------------------------
 [0268]
-[{0FCF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Apa yang mau kau minum...?
+[{DOUG_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Apa yang mau kau minum...?
 Kami tak terima tunggakan yah.
 ---------------------------------------------
 [0269]
-[{0FCF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Hari Istimewa cuma 500G.
+[{DOUG_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Hari Istimewa cuma 500G.
 Itu makanan sehat, dan akan
 langsung kenyang bila lapar....
 ---------------------------------------------
 [0270]
-[{0FCF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Harga Salad 300G.
+[{DOUG_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Harga Salad 300G.
 Cukup mengenyangkan, dan kau
 akan cepat lelah jika kau tak
 makan sayuranmu....
 ---------------------------------------------
 [0271]
-[{0FCF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kue Pie Apel cuma 300G.
+[{DOUG_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kue Pie Apel cuma 300G.
 Dgn makan itu tenagamu
 pulih...
 ---------------------------------------------
 [0272]
-[{0FCF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kue Bolu Keju cuma 250G.
+[{DOUG_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kue Bolu Keju cuma 250G.
 Bila tak terlalu lapar makanlah
 kue ini. 
 ---------------------------------------------
 [0273]
-[{0FCF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kue Kering cuma 200G.
+[{DOUG_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kue Kering cuma 200G.
 Makanan kecil setelah
 yg besar.
 ---------------------------------------------
 [0274]
-[{0FCE}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Sari Anggur cuma 500G.
+[{DOUG_SENANG}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Sari Anggur cuma 500G.
 Apa yg lebih baik diminum
 jika ingin rasa lelah hilang dlm
 kerja!
 ---------------------------------------------
 [0275]
-[{0FCF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Jus Nanas harganya 300G.
+[{DOUG_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Jus Nanas harganya 300G.
 Jus buah sangat baik saat kau
 merasa amat kelelahan.
 ---------------------------------------------
 [0276]
-[{0FCF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Susu cuma 200G segelas.
+[{DOUG_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Susu cuma 200G segelas.
 Apa kau beternak sapi
 di kebun? Katanya susu baik
 utk semua orang.
 ---------------------------------------------
 [0277]
-[{0FCF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Air putih gratis.
+[{DOUG_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Air putih gratis.
 Tapi kenapa harus jauh2 kemari
 cuma untuk minum...?
 ---------------------------------------------
 [0278]
-[{0FCF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Tidak ada..?
+[{DOUG_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Tidak ada..?
 Baik, jika kau mau pesan
 sesuatu, panggil saja OK.
 ---------------------------------------------
 [0279]
-[{0FCF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Ada yang lain?
+[{DOUG_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Ada yang lain?
 ---------------------------------------------
 [0280]
-[{0FCF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]OK. Tunggu akan kuambilkan
+[{DOUG_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+OK. Tunggu akan kuambilkan
 untukmu...
 ---------------------------------------------
 [0281]
-[{0FCB}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Ini dia.....!
+[{DOUG_MIKIR}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Ini dia.....!
 ---------------------------------------------
 [0282]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Sedia Telepon...
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Sedia Telepon...
 ---------------------------------------------
 [0283]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Biaya telepon 10G..
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Biaya telepon 10G..
 ---------------------------------------------
 [0284]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]"Makasih.
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+"Makasih.
 Ini adalah TV Belanja"
 ---------------------------------------------
 [0285]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]"Barang kami lainnya Pisau Dapur
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+"Barang kami lainnya Pisau Dapur
 cuma 3000G.
 apa kau ingin memiliki barang
 ini?"
 ---------------------------------------------
 [0286]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]"Barang kami lainnya Wajan
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+"Barang kami lainnya Wajan
 seharga 2500G.
 Apa kau ingin memiliki
 ini gak?"
 ---------------------------------------------
 [0287]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]"Barang kami lainnya Panci cuma
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+"Barang kami lainnya Panci cuma
 2000G.
 Apa kau mau miliki barang
 ini?"
 ---------------------------------------------
 [0288]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]"Barang kami lainnya Mixer
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+"Barang kami lainnya Mixer
 cuma 2500G.
 Apa kau mau miliki barang
 ini..?"
 ---------------------------------------------
 [0289]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]"Barang kami lainnya Whisk
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+"Barang kami lainnya Whisk
 cuma 1000G.
 Apa kau mau miliki barang
 ini..?"
 ---------------------------------------------
 [0290]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]"Barang lainnya adalah
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+"Barang lainnya adalah
 Rolling Pin utk 1500G.
 Apa kau mau miliki barang
 ini?!"
 ---------------------------------------------
 [0291]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]"Barang kami lainnya Oven
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+"Barang kami lainnya Oven
 cuma 5000G.
 Apa kau ingin miliki barang
 ini?"
 ---------------------------------------------
 [0292]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]"Barang lainnya adalah
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+"Barang lainnya adalah
 Set Bumbu2 cuma 5000G.
 Apa kau ingin miliki barang
 ini?!"
 ---------------------------------------------
 [0293]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]"Barang kami lainnya Power
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+"Barang kami lainnya Power
 Fruit cuma 5000G.
 Apa kau ingin menambah
 stamina?!"
 ---------------------------------------------
 [0294]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]"Makasih atas pemesanannya.
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+"Makasih atas pemesanannya.
 Kau akan terima pesananmu
 dalam 3 hari." 
 ---------------------------------------------
 [0295]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]"Terimakasih banyak.
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+"Terimakasih banyak.
 Kami nantikan pesanan anda
 yang berikutnya nanti."
 ---------------------------------------------
 [0296]
-[{0F52}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Oh…hi.
+[{KAI_KAGUM}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Oh…hi.
 Mau makan sesuatu gak?
 ---------------------------------------------
 [0297]
-[{0F52}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Jagung bakar itu? Cuma 250G.
+[{KAI_KAGUM}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Jagung bakar itu? Cuma 250G.
 Kau tahu itu sulit dimakan
 dan kau tak bisa makan semuanya,
 tapi orang2 tetap membeli
 itu..
 ---------------------------------------------
 [0298]
-[{0F52}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Spaghetti itu? Cuma 300G.
+[{KAI_KAGUM}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Spaghetti itu? Cuma 300G.
 
 Pasta itu bagus.
 Bisa cepat beri tenaga.
@@ -1668,20 +1897,23 @@ Kau juga harus makan pasta sebelum
 bekerja!
 ---------------------------------------------
 [0299]
-[{0F52}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Oh, Pizza itu? Cuma 200G.
+[{KAI_KAGUM}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Oh, Pizza itu? Cuma 200G.
 Itu makanan favoritku. Apalagi
 kalau saus dan sambalnya enak.
 Ini nanas yang kami pakai...
 ---------------------------------------------
 [0300]
-[{0F53}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Es Krim Cone cuma 300G.
+[{KAI_MIKIR}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Es Krim Cone cuma 300G.
 Jangan cepat memakannya nanti
 kau pusing....[{PRESS}][{CLEARBOX}]
 Apa tadi...?!
 Kau suka perasaan itu?
 ---------------------------------------------
 [0301]
-[{0F52}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kau mau segelas air putih?
+[{KAI_KAGUM}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kau mau segelas air putih?
 …Air putih gratis di desa ini,
 kan? Itu artinya aku
 tak bisa minta bayaran…. Aku [{PRESS}][{CLEARBOX}]
@@ -1689,23 +1921,29 @@ tak butuh basa-basi lain
 lagi...
 ---------------------------------------------
 [0302]
-[{0F51}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Baiklah… Jika kau mau makan
+[{KAI_SENANG}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Baiklah… Jika kau mau makan
 sesuatu, panggil saja. 
 ---------------------------------------------
 [0303]
-[{0F51}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Ada yang lain?
+[{KAI_SENANG}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Ada yang lain?
 ---------------------------------------------
 [0304]
-[{0F52}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]OK, tunggu yah…
+[{KAI_KAGUM}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+OK, tunggu yah…
 ---------------------------------------------
 [0305]
-[{0F57}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Ini silahkan… Coba ya.
+[{KAI_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Ini silahkan… Coba ya.
 ---------------------------------------------
 [0306]
-[{0F5D}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Hey, ada apa?!
+[{GOTZ_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Hey, ada apa?!
 ---------------------------------------------
 [0307]
-[{0F5D}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kayu cuma 50G satunya.
+[{GOTZ_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kayu cuma 50G satunya.
 Dibuat dari batang dan dahan
 dari gunung yg
 telah dibelah. [{PRESS}][{CLEARBOX}]
@@ -1714,31 +1952,36 @@ membangun, pagar atau dijadikan
 kayu bakar...
 ---------------------------------------------
 [0308]
-[{0F5D}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Jika kau besarkan kandang
+[{GOTZ_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Jika kau besarkan kandang
 Ayam maka 5 ayam bisa tertampung.
 Dan kau punya 2 incubator....
 ---------------------------------------------
 [0309]
-[{0F5D}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Untk membangun rumah bisa
+[{GOTZ_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Untk membangun rumah bisa
 ditambah dapur.
 Akan kuisi lemari es jika setujui
 kesepakan.
 ---------------------------------------------
 [0310]
-[{0F5D}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Jika kau luaskan kandang maka
+[{GOTZ_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Jika kau luaskan kandang maka
 10 sapi dan domba bisa masuk.
 Dan kau punya 2 tempat
 hewan lahir. 
 ---------------------------------------------
 [0311]
-[{0F5D}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Utk membangun rumah kita bisa
+[{GOTZ_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Utk membangun rumah kita bisa
 bangun ruang lain dengan
 fireplace.
 Jika kau menikah kau perlu [{PRESS}][{CLEARBOX}]
 ruangan yg lebih besar. 
 ---------------------------------------------
 [0312]
-[{0F5D}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Jika punya Hothouse kau bisa
+[{GOTZ_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Jika punya Hothouse kau bisa
 tanam bibit dan bunga sepanjang
 tahun. [{PRESS}][{CLEARBOX}]
 Tentunya terbuat dari
@@ -1746,65 +1989,80 @@ plastik jadi kau bisa menebak
 jika ada badai yang datang.
 ---------------------------------------------
 [0313]
-[{0F5D}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Datang kapan saja jika
+[{GOTZ_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Datang kapan saja jika
 ada perlu. 
 ---------------------------------------------
 [0314]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Tempat Kayumu sudah dipenuhi
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Tempat Kayumu sudah dipenuhi
 dengan Kayu.
 ---------------------------------------------
 [0315]
-[{0F5D}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Butuh berapa banyak?!
+[{GOTZ_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Butuh berapa banyak?!
 ---------------------------------------------
 [0316]
-[{0F5D}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Untuk bangun Kandang Ayam
+[{GOTZ_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Untuk bangun Kandang Ayam
 kau perlu 5000G dan 420
 potong kayu.
 Apa itu tak apa2..?
 ---------------------------------------------
 [0317]
-[{0F5D}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Utk bangun rumahmu kau perlu
+[{GOTZ_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Utk bangun rumahmu kau perlu
 4700G dan 370 potong kayu.
 Apa itu tak masalah..?
 ---------------------------------------------
 [0318]
-[{0F5D}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Utk bangun Kandang Hewan kau
+[{GOTZ_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Utk bangun Kandang Hewan kau
 perlu 6800G dan 500 potong
 kayu. Itu tak apa2..?
 ---------------------------------------------
 [0319]
-[{0F5D}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Utk bangun rumah kau perlu
+[{GOTZ_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Utk bangun rumah kau perlu
 10000G dan 750 potong kayu.
 Apa itu tak masalah....?
 ---------------------------------------------
 [0320]
-[{0F5D}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Utk buat Hothouse kau perlu
+[{GOTZ_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Utk buat Hothouse kau perlu
 30000G dan 580 potong kayu.
 Apa itu tak apa-apa?
 ---------------------------------------------
 [0321]
-[{0F5D}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kau yakin...?
+[{GOTZ_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kau yakin...?
 ---------------------------------------------
 [0322]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Kau tak bisa tampung semua
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kau tak bisa tampung semua
 di tempatnya.
 ---------------------------------------------
 [0323]
-[{0F5D}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Bagus, kayunya akan kukirimkan
+[{GOTZ_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Bagus, kayunya akan kukirimkan
 ke tempatnya....
 ---------------------------------------------
 [0324]
-[{0F5D}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]OK, kita kerjakan besok hari.
+[{GOTZ_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+OK, kita kerjakan besok hari.
 ---------------------------------------------
 [0325]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Kau tak punya cukup kayu....
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kau tak punya cukup kayu....
 ---------------------------------------------
 [0326]
-[{0F5D}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kau hanya bisa buat
+[{GOTZ_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kau hanya bisa buat
 satu Hothouse, tahu...
 ---------------------------------------------
 [0327]
-[{0F4B}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Apa kau datang minta bantuanm
+[{KURCACIMERAH_YES}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Apa kau datang minta bantuanm
 budum? Kuharap pekerjaan yang
 dilibatkan memasak, tapi
 tak apa…[{PRESS}][{CLEARBOX}]
@@ -1816,14 +2074,17 @@ lain, budum. [{PRESS}][{0FF8}]
  Tak minta bantuan
 ---------------------------------------------
 [0328]
-[{0F4B}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Akan kubantu kerjaanmu dari
+[{KURCACIMERAH_YES}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Akan kubantu kerjaanmu dari
 jam 6 pagi besok, budum..
 ---------------------------------------------
 [0329]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Tak ada yg diminta bantuan...
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Tak ada yg diminta bantuan...
 ---------------------------------------------
 [0330]
-[{0F4B}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Berapa hari yang harus
+[{KURCACIMERAH_YES}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Berapa hari yang harus
 dikerjakan budum?[{PRESS}][{0FF8}]
 [{0FF6}] Besok seharian  
  3 hari dimulai besok    
@@ -1831,12 +2092,14 @@ dikerjakan budum?[{PRESS}][{0FF8}]
  Oh, tak usah...
 ---------------------------------------------
 [0331]
-[{0F4B}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Tak apa jika tak kerja?
+[{KURCACIMERAH_YES}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Tak apa jika tak kerja?
 Kalau gitu aku akan masak
 makanan budum!
 ---------------------------------------------
 [0332]
-[{0F16}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Apa kau mau meminta bantuan,
+[{KURCACIBIRU_YES}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Apa kau mau meminta bantuan,
 budum?
 Aku suka bekerja, budum!
 Aku lakukan apa saja dgn  [{PRESS}][{CLEARBOX}]
@@ -1847,11 +2110,13 @@ baik! Minta apa aja budum!![{PRESS}][{0FF8}]
  Tak minta bantuan
 ---------------------------------------------
 [0333]
-[{0F16}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Akan kubantu kerjaanmu dari
+[{KURCACIBIRU_YES}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Akan kubantu kerjaanmu dari
 jam 6 pagi besok, budum  ♡
 ---------------------------------------------
 [0334]
-[{0F16}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Berapa lama mengerjakan
+[{KURCACIBIRU_YES}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Berapa lama mengerjakan
 hal itu, budum?![{PRESS}][{0FF8}]
 [{0FF6}] Besok seharian  
  3 hari dimulai dr besok 
@@ -1859,12 +2124,14 @@ hal itu, budum?![{PRESS}][{0FF8}]
  Oh, tak usah...
 ---------------------------------------------
 [0335]
-[{0F13}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]…Oh, Gitu..
+[{KURCACIBIRU_NO}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+…Oh, Gitu..
 Tapi lain kali aku aku ingin
 dimintai bantuan ya, budum.
 ---------------------------------------------
 [0336]
-[{0F0E}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]…Apa kau datang minta
+[{KURCACIKUNING_NO}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+…Apa kau datang minta
 bantuan, budum?
 Sebenarnya aku lebih suka tidur
 daripada bekerja…budum.[{PRESS}][{0FF8}]
@@ -1874,12 +2141,14 @@ daripada bekerja…budum.[{PRESS}][{0FF8}]
  Tak minta bantuan  
 ---------------------------------------------
 [0337]
-[{0F0E}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Aku mungkin kan datang dari
+[{KURCACIKUNING_NO}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Aku mungkin kan datang dari
 jam 6 pagi besok utk bantu
 pekerjaan kebunmu, budum. 
 ---------------------------------------------
 [0338]
-[{0F0E}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Berapa lama harus dikerjakannya, budum?
+[{KURCACIKUNING_NO}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Berapa lama harus dikerjakannya, budum?
 Aku tak ingin terlalu lama
 sibuk, budum.[{PRESS}][{0FF8}]
 [{0FF6}] Besok seharian  
@@ -1888,12 +2157,14 @@ sibuk, budum.[{PRESS}][{0FF8}]
  Oh, tak usah...
 ---------------------------------------------
 [0339]
-[{0F11}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Sayang sekali…
+[{KURCACIKUNING_YES}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Sayang sekali…
 Aku sedang mood untuk bekerja
 sekarang, budum.
 ---------------------------------------------
 [0340]
-[{0F0C}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Hello [{MC_NAME}], apa kau mau
+[{KURCACIUNGU_YES}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Hello [{MC_NAME}], apa kau mau
 meminta bantuan, budum?
 Heheh heh…aku sudah mengira.
 Bersamaku kerjaanmu selesai[{PRESS}][{CLEARBOX}]
@@ -1904,11 +2175,13 @@ dgn cepat, budum.[{PRESS}][{0FF8}]
  Tak minta bantuan  
 ---------------------------------------------
 [0341]
-[{0F0C}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Aku akan bantu pekerjaanmu
+[{KURCACIUNGU_YES}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Aku akan bantu pekerjaanmu
 besok dari jam 6 pagi, budum!!!
 ---------------------------------------------
 [0342]
-[{0F0C}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Berapa lama kerjaannya
+[{KURCACIUNGU_YES}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Berapa lama kerjaannya
 dibantu, budum?  [{PRESS}][{0FF8}]
 [{0FF6}] Besok seharian  
  3 hari dimulai dr besok 
@@ -1916,11 +2189,13 @@ dibantu, budum?  [{PRESS}][{0FF8}]
  Oh, tak usah...
 ---------------------------------------------
 [0343]
-[{0F09}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Tsk! Kau tak minta aku
+[{KURCACIUNGU_NO}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Tsk! Kau tak minta aku
 membantu bekerja, budum! Tsk!!
 ---------------------------------------------
 [0344]
-[{0F04}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Ha… Apa kau mau minta bantuan
+[{KURCACIBIRUMUDA_NO}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Ha… Apa kau mau minta bantuan
 yah, budum?
 Saat kerja warna air indahku
 menjadi kotor nih, budum…[{PRESS}][{CLEARBOX}]
@@ -1931,11 +2206,13 @@ Apa yg dibantu..?[{PRESS}][{0FF8}]
  Tak minta bantuan  
 ---------------------------------------------
 [0345]
-[{0F04}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Akan kubantu kerjaanmu mulai
+[{KURCACIBIRUMUDA_NO}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Akan kubantu kerjaanmu mulai
 besok jam 6 pagi, budum.
 ---------------------------------------------
 [0346]
-[{0F04}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Humph…berapa lama butuh
+[{KURCACIBIRUMUDA_NO}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Humph…berapa lama butuh
 bantuannya, budum..?[{PRESS}][{0FF8}]
 [{0FF6}] Besok seharian  
  3 hari dimulai dr besok 
@@ -1943,11 +2220,13 @@ bantuannya, budum..?[{PRESS}][{0FF8}]
  Oh, tak usah...
 ---------------------------------------------
 [0347]
-[{0F04}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Meski aku tak bantu tetap
+[{KURCACIBIRUMUDA_NO}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Meski aku tak bantu tetap
 saja bajuku akan dicuci, budum...
 ---------------------------------------------
 [0348]
-[{0F02}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Oh, kerja!
+[{KURCACIOREN_YES}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Oh, kerja!
 Ya, iya budum!
 Kulakukan! Apa yang ingin
 dibantu budum?[{PRESS}][{0FF8}]
@@ -1957,11 +2236,13 @@ dibantu budum?[{PRESS}][{0FF8}]
  Tak minta bantuan  
 ---------------------------------------------
 [0349]
-[{0F02}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Aku akan bantu pekerjaan
+[{KURCACIOREN_YES}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Aku akan bantu pekerjaan
 dari besok jam 6 pagi budum!
 ---------------------------------------------
 [0350]
-[{0F02}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Berapa lama kubantu pekerjaannya
+[{KURCACIOREN_YES}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Berapa lama kubantu pekerjaannya
 tersebut, budum..?[{PRESS}][{0FF8}]
 [{0FF6}] Bespk seharian  
  3 hari dimulai dr besok 
@@ -1969,10 +2250,12 @@ tersebut, budum..?[{PRESS}][{0FF8}]
  Oh, tak usah...
 ---------------------------------------------
 [0351]
-[{0EFF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Ga?! Oh, sial…budum!
+[{KURCACIOREN_NO}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Ga?! Oh, sial…budum!
 ---------------------------------------------
 [0352]
-[{0EFA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]!!…Kau kejutkan aku budum!
+[{KURCACIHIJAU_NO}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+!!…Kau kejutkan aku budum!
 Apa yang kau mau dariku,
 budum?
 Apa…kerja?![{PRESS}][{0FF8}]
@@ -1982,11 +2265,13 @@ Apa…kerja?![{PRESS}][{0FF8}]
  Tak minta bantuan  
 ---------------------------------------------
 [0353]
-[{0EFA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Akan kubantu pekerjaanya dari
+[{KURCACIHIJAU_NO}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Akan kubantu pekerjaanya dari
 besok jam 6 pagi budum…
 ---------------------------------------------
 [0354]
-[{0EFA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Utk tugas ini…berapa lama
+[{KURCACIHIJAU_NO}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Utk tugas ini…berapa lama
 perlu bantuan itu, budum?[{PRESS}][{0FF8}]
 [{0FF6}] Besok seharian  
  3 hari dimulai dr besok 
@@ -1994,11 +2279,13 @@ perlu bantuan itu, budum?[{PRESS}][{0FF8}]
  Oh, tak usah...
 ---------------------------------------------
 [0355]
-[{0EFD}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]OK, mengerti.
+[{KURCACIHIJAU_YES}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+OK, mengerti.
 Tak usah bantu kerjaan budum…!
 ---------------------------------------------
 [0356]
-[{0EF7}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Silahkan silahkan!
+[{WON_SENANG}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Silahkan silahkan!
 Apa kau datang beli
 sesuatu..?[{PRESS}][{CLEARBOX}]
 Di sini tersedia bibit yang
@@ -2006,7 +2293,8 @@ tak kau temukan di
 Supermarket....
 ---------------------------------------------
 [0357]
-[{0EF8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Bibit Kubis harganya 500G
+[{WON_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Bibit Kubis harganya 500G
 sekantung.
 Tanam itu saat Spring
 dan tanaman itu cukup lama tumbuh,[{PRESS}][{CLEARBOX}]
@@ -2015,7 +2303,8 @@ dengan harga yang mahal!
 250G satunya!!!
 ---------------------------------------------
 [0358]
-[{0EF8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Bibit Nanas harganya 1000G.
+[{WON_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Bibit Nanas harganya 1000G.
 Ditanam pada Summer dan
 tumbuhnya sangat lama sekali,
 butuh kesabarn.
@@ -2025,66 +2314,79 @@ bisa jual seharga 500G
 satunya… Ini yg kusarankan!!
 ---------------------------------------------
 [0359]
-[{0EF8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Bibit Cabai Hijau harganya
+[{WON_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Bibit Cabai Hijau harganya
 150G. KDitanam di musim Fall
 dan kau bisa jual seharga 40G
 satunya. 
 ---------------------------------------------
 [0360]
-[{0EF8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Bibit Moon Drop harganya 300G.
+[{WON_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Bibit Moon Drop harganya 300G.
 Tanam saja saat Spring dan
 kau akan punya bunga2 kuning
 saat Summer. 
 ---------------------------------------------
 [0361]
-[{0EF8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Bibit Pink Cat harganya 200G.
+[{WON_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Bibit Pink Cat harganya 200G.
 Tanam saat Summer untuk dapatkan
 bunga pink yg lucu...
 ---------------------------------------------
 [0362]
-[{0EF8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Bibit Magic Red harganya 600G.
+[{WON_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Bibit Magic Red harganya 600G.
 Bunganya luar biasa. Tak
 sering mekarnya, tapi kau bisa
 jual untuk kebutuhan obat...
 ---------------------------------------------
 [0363]
-[{0EF8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Bibit Toy Flower harganya
+[{WON_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Bibit Toy Flower harganya
 500G. Bunganya terus mekar dan
 terus mekar lagi.
 Itu bunga yang sangat kuat sekali. 
 ---------------------------------------------
 [0364]
-[{0EF8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Bibit Orangecup harganya
+[{WON_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Bibit Orangecup harganya
 1000G. Bunga sangat menarik.
 Dan kau bisa memetik buah-buah
 manisnya....
 ---------------------------------------------
 [0365]
-[{0EF7}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Aku selalu di sini jadi
+[{WON_SENANG}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Aku selalu di sini jadi
 kembalilah kapanpun. 
 ---------------------------------------------
 [0366]
-[{0EF8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Berapa banyak yg mau dibeli?
+[{WON_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Berapa banyak yg mau dibeli?
 ---------------------------------------------
 [0367]
-[{0EF4}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kau tak akan membeli
+[{WON_MARAH}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kau tak akan membeli
 sesuatu...?!
 ---------------------------------------------
 [0368]
-[{0EF7}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Makasih yah.
+[{WON_SENANG}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Makasih yah.
 Datang lagi nanti.
 ---------------------------------------------
 [0369]
-[{0EF7}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Apa kau mau membeli yang
+[{WON_SENANG}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Apa kau mau membeli yang
 lainnya?
 ---------------------------------------------
 [0370]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Ada sebuah buku ditulis
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Ada sebuah buku ditulis
 oleh Basil tentang gua
 di dekat kolam...
 ---------------------------------------------
 [0371]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]"Gua dekat Kolam Mata Air - 1"[{PRESS}][{CLEARBOX}]
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+"Gua dekat Kolam Mata Air - 1"[{PRESS}][{CLEARBOX}]
 Ada gua di desa di mana aku
 tinggal, dekat kolam mata air.
 Katanya kau bisa menemukan logam
@@ -2094,7 +2396,8 @@ Logam Emas yg paling sulit
 dicari. Harus dalam digali. 
 ---------------------------------------------
 [0372]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]"Gua dekat Kolam Mata Air - 2"[{PRESS}][{CLEARBOX}]
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+"Gua dekat Kolam Mata Air - 2"[{PRESS}][{CLEARBOX}]
 Sepertinya ada gua yang lainnya
 di desa tempat tinggalku,
 berbeda dari gua yang kutulis
@@ -2110,13 +2413,15 @@ yang katanya bisa juga utk[{PRESS}][{CLEARBOX}]
 dibuat jadi alat2. 
 ---------------------------------------------
 [0373]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Ini sudut untuk buku yang
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Ini sudut untuk buku yang
 ditulis oleh Basil tentang
 gua di suatu tempat di
 desa ini....
 ---------------------------------------------
 [0374]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]"Gua yang bisa diakses
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+"Gua yang bisa diakses
 saat Winter  - 1"[{PRESS}][{CLEARBOX}]
 Di desa tempat kutinggal
 ada dua gua yg besar.
@@ -2132,7 +2437,8 @@ kurasa itu di sekitar gunung
 yang ada di desaku itu...
 ---------------------------------------------
 [0375]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]"Gua yang bisa Diakses saat
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+"Gua yang bisa Diakses saat
 Winter  - 2"[{PRESS}][{CLEARBOX}]
 Ada Gua yang cuma bisa diakses
 pada saat musim Winter saja.
@@ -2151,12 +2457,14 @@ buat hal menarik dari logam
 tersebut.  
 ---------------------------------------------
 [0376]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Ini sudut untuk buku yg
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Ini sudut untuk buku yg
 ditulis oleh Basil tentang
 Mother Hill.  
 ---------------------------------------------
 [0377]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]"Mendaki di Gunung   - 1"[{PRESS}][{CLEARBOX}]
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+"Mendaki di Gunung   - 1"[{PRESS}][{CLEARBOX}]
 Aku mendaki gunung
 seminggu sekali dgn keluargaku
 utk cari tanaman.[{PRESS}][{CLEARBOX}]
@@ -2170,7 +2478,8 @@ anak kecil bilang itu adalah  [{PRESS}][{CLEARBOX}]
 cara baik merebus telur.
 ---------------------------------------------
 [0378]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]"Mendaki di Gunung   - 2"[{PRESS}][{CLEARBOX}]
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+"Mendaki di Gunung   - 2"[{PRESS}][{CLEARBOX}]
 Gunung itu sangat indah, tapi
 itu bukan semua.
 Beberapa penduduk mati oleh salju
@@ -2181,10 +2490,12 @@ gunung sebanyak
 aku mencintainya.
 ---------------------------------------------
 [0379]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Buku perikanan.  
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Buku perikanan.  
 ---------------------------------------------
 [0380]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]"Tentang Ikan   - 1 -
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+"Tentang Ikan   - 1 -
 Perawatan"  [{PRESS}][{CLEARBOX}]
 Banyak orang yang menggunakan
 kolam ikan utk merawat ikan.
@@ -2193,7 +2504,8 @@ makan akan semakin [{PRESS}][{CLEARBOX}]
 berkembang.  
 ---------------------------------------------
 [0381]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]"Tentang Ikan   - 2 - Alat
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+"Tentang Ikan   - 2 - Alat
 Pancing"[{PRESS}][{CLEARBOX}]
 Alta pancing digunakan
 oleh profesional berbeda
@@ -2205,7 +2517,8 @@ itu, jadi hanya dijual pada
 yang profesional.   
 ---------------------------------------------
 [0382]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]"Tentang Ikan   - 3 - Sampah" [{PRESS}][{CLEARBOX}]
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+"Tentang Ikan   - 3 - Sampah" [{PRESS}][{CLEARBOX}]
 Danau dan laut semakin
 berpolusi dengan sampah,
 dan oleh karena itu, populasi
@@ -2219,13 +2532,15 @@ sampah itu kembali ke
 asalnya.  
 ---------------------------------------------
 [0383]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Ini adalah buku karya
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Ini adalah buku karya
 Basil tentang tanaman yang
 ada di desa.
 Yang satu ini tentang bunga2. 
 ---------------------------------------------
 [0384]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]"Bunga   - 1 - 
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+"Bunga   - 1 - 
 Bunga di Gunung" [{PRESS}][{CLEARBOX}]
 Gunung yg selalu kudaki punya
 banyak bunga yang berbeda
@@ -2247,7 +2562,8 @@ berwarna merah, itu
 adl misteri.
 ---------------------------------------------
 [0385]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]"Bunga   - 2 -
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+"Bunga   - 2 -
 Bunga Kebahagiaan"      [{PRESS}][{CLEARBOX}]
 Saat Winter, ketika gunung
 dipenuhi oleh salju,
@@ -2263,14 +2579,16 @@ negara yang bersalju, meski
 itu adalah bunga yang sama.   
 ---------------------------------------------
 [0386]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Ini buku-buku karya Basil
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Ini buku-buku karya Basil
  tentang tanaman yang ada
 di Desa ini. Yang satu ini adl
 Panen di Gunung"   [{PRESS}][{CLEARBOX}]
 volume 1 dan 2. 
 ---------------------------------------------
 [0387]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]"Panen di Gunung  - 1"[{PRESS}][{CLEARBOX}]
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+"Panen di Gunung  - 1"[{PRESS}][{CLEARBOX}]
 kau bisa panen anggur,
 jamur, rumput dan banyak tanaman
 lainnya di gunung tempat
@@ -2284,7 +2602,8 @@ karena yang beracun sangat mudah
 dibedakan.  
 ---------------------------------------------
 [0388]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]"Panen di Gunung  - Musim2" [{PRESS}][{CLEARBOX}]
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+"Panen di Gunung  - Musim2" [{PRESS}][{CLEARBOX}]
 Saat Fall, setelah Hari
 Lihat Bulan, kau kadang bisa temukan
 jamur yang langka di puncak
@@ -2294,7 +2613,8 @@ dipanggang dengan api
 unggun.   
 ---------------------------------------------
 [0389]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]INi adalah buku3 karya
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+INi adalah buku3 karya
 Basil tentang tanaman di Desa
 ini, Yang satu ini adalah
 "Panen di Gunung" volume ke-1  [{PRESS}][{CLEARBOX}]
@@ -2303,7 +2623,8 @@ Oh… ada juga yg dinamakan
 Musim2…
 ---------------------------------------------
 [0390]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]"Panen di Gunung  - 3"[{PRESS}][{CLEARBOX}]
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+"Panen di Gunung  - 3"[{PRESS}][{CLEARBOX}]
 Saat Winter hampir tak ada tanaman
 tumbuh di atas gunung
 di dekat desa tempatku tinggal itu.[{PRESS}][{CLEARBOX}]
@@ -2313,7 +2634,8 @@ sampai Fall agar saat Winter
 ada. 
 ---------------------------------------------
 [0391]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]"Panen di Gunung  - Musim2 "[{PRESS}][{CLEARBOX}]
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+"Panen di Gunung  - Musim2 "[{PRESS}][{CLEARBOX}]
 Saat Spring, kau bisa kumpulkan
 Rebung di hutan bambu
 di dekat kolam mata air di atas
@@ -2324,7 +2646,8 @@ jadi siapa saja bisa memanen
 di sana. 
 ---------------------------------------------
 [0392]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Ini buku2 yang ditulis oleh
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Ini buku2 yang ditulis oleh
 Basil… Sepertinya bukunya ditulisnya
 telah cukup amat lama.[{PRESS}][{CLEARBOX}]
 Judulnya "7 Bersaudara di Hutan
@@ -2332,7 +2655,8 @@ terdiri dr "Volume 1
 sampai 7....
 ---------------------------------------------
 [0393]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]"7 Bersaudara yang hidup
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+"7 Bersaudara yang hidup
 di dalam Hutan - 1"[{PRESS}][{CLEARBOX}]
 Pada jaman dulu, ada 7 bersaudara
 yang hidupnya terpisah
@@ -2348,7 +2672,8 @@ jadi mereka kira mereka akan [{PRESS}][{CLEARBOX}]
 selalu hidup terpisah.  
 ---------------------------------------------
 [0394]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]"7 bersaudara hidup di
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+"7 bersaudara hidup di
 Hutan  - 2"[{PRESS}][{CLEARBOX}]
 Suatu hari Chef yg warna favoritnya
 merah dan suka memasak,
@@ -2366,7 +2691,8 @@ terus aku jadi lebih dan
 sangat lapar."   
 ---------------------------------------------
 [0395]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]"7 Bersaudara Hidup di
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+"7 Bersaudara Hidup di
 Hutan  - 3"[{PRESS}][{CLEARBOX}]
 Kau bisa dengar suara, Hoo
 Hoooo, saat malam.
@@ -2390,7 +2716,8 @@ pakai senjatanya
 musuh besar.
 ---------------------------------------------
 [0396]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]"7 Bersaudara hidup di
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+"7 Bersaudara hidup di
 Hutan  - 4"[{PRESS}][{CLEARBOX}]
 Aqua yg gaya suka sekali
 biru langit.   [{PRESS}][{CLEARBOX}]
@@ -2415,7 +2742,8 @@ dgn cerita itu...?"
 "Whisper...whisper…whisper…
 ---------------------------------------------
 [0397]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]"7 Bersaudar Hidup di
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+"7 Bersaudar Hidup di
 Hutan   - 5"[{PRESS}][{CLEARBOX}]
 "Ha ha ha, jadi itu ya," kata
 Staid. "Baik, kita hidup
@@ -2454,7 +2782,8 @@ rumah lebih besar…"
 sementara…" 
 ---------------------------------------------
 [0398]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]"7 Bersaudata hidup di
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+"7 Bersaudata hidup di
 Hutan  - 6"[{PRESS}][{CLEARBOX}]
 OK Chef & Hoggy,
 Staid & Aqua, and Timid & Bold
@@ -2473,7 +2802,8 @@ di sana." "Kita masuk."
 "Oh…."
 ---------------------------------------------
 [0399]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]"7 Bersaudara di dalam
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+"7 Bersaudara di dalam
 Hutan  - 7"[{PRESS}][{CLEARBOX}]
 "Hello saudaraku, lama tak
 jumpa." Di sana ada saudara
@@ -2496,7 +2826,8 @@ berjalan ke arah rumah tempat
 mereka.  
 ---------------------------------------------
 [0400]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Ini adalah buku yang Basil
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Ini adalah buku yang Basil
 tulis tentang hewan dan
 serangga yang ada di gunung.
 Ini adalah "Makhluk yang ada[{PRESS}][{CLEARBOX}]
@@ -2504,7 +2835,8 @@ di Gunung"
 volume ke-1 sampai 3.  
 ---------------------------------------------
 [0401]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]"Makhluk yg ada di Gunung 
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+"Makhluk yg ada di Gunung 
 - 1 - Hewan2 di Gunung"[{PRESS}][{CLEARBOX}]
 Banyak hewan hidup di 
 gunung di dekat desaku.
@@ -2516,7 +2848,8 @@ dengan orang-orang dari
 desa kami.  
 ---------------------------------------------
 [0402]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]"Makhluk yg ada di Gunung 
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+"Makhluk yg ada di Gunung 
 - 2 - Serangga Gunung" [{PRESS}][{CLEARBOX}]
 Banyak jenis serangga hidup di
 gunung di dekat desaku juga.
@@ -2527,7 +2860,8 @@ Kumbang Atlas dan Kumbang Rusa
 bisa ditemukan di sini.  
 ---------------------------------------------
 [0403]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]"Makhluk yg ada di Gunung 
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+"Makhluk yg ada di Gunung 
 - 3 - Masalah bagi
 para penduduk"[{PRESS}][{CLEARBOX}]
 Seperti yg kutis sebelumnya
@@ -2543,11 +2877,13 @@ makanan yang menjadi masalah
 bagi petani.   
 ---------------------------------------------
 [0404]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Ada buku Karya Tangan.
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Ada buku Karya Tangan.
 Sepertinya itu novel karya Mary… 
 ---------------------------------------------
 [0405]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]"Itu saat Marlow Chrisford
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+"Itu saat Marlow Chrisford
 memecahkan seluruh misteri
 itu."
 …sepertinya itu novel misteri… [{PRESS}][{CLEARBOX}]
@@ -2563,7 +2899,8 @@ bukanlah karakter utama
 yang ada...
 ---------------------------------------------
 [0406]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Epilogue[{PRESS}][{CLEARBOX}]
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Epilogue[{PRESS}][{CLEARBOX}]
 …Shinichi berjalan dengan murung
 di jalanan London.
 "hey Shinichi.
@@ -2578,14 +2915,16 @@ Kita masih punya banayk waktu."
 baru saja dimulai...
 ---------------------------------------------
 [0407]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]"Pemuda itu berdiri kebingungan,
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+"Pemuda itu berdiri kebingungan,
 melihat tanah untuk pertama
 kalinya.
 Jadi ini dimana aku [{PRESS}][{CLEARBOX}]
 akan bertani yah…"…………Tani?……
 ---------------------------------------------
 [0408]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]"Sekarang kebun dipenuhi
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+"Sekarang kebun dipenuhi
 ayam, sapi dan bahkan domba.
 Pemuda itu mengingat kembali
 pertama kalinya datang ke tanah itu[{PRESS}][{CLEARBOX}]
@@ -2593,7 +2932,8 @@ dan sadar dia bisa
 lakukan apapun yang dipikirkannya."
 ---------------------------------------------
 [0409]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]"Pemuda itu ingin tetap tinggal,
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+"Pemuda itu ingin tetap tinggal,
 dia selalu bilang.
 "Kenapa hal seperti ini selalu
 terjadi?"[{PRESS}][{CLEARBOX}]
@@ -2611,7 +2951,8 @@ hotel!!"
 … Tunggu, ini terdengar akrab....
 ---------------------------------------------
 [0410]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]"Kau lakukan dengan baik."
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+"Kau lakukan dengan baik."
 "Oh kakek ya….!"
 "Telah kuajarkan semua yang
 aku tahu. Kembalilah ke ayahmu
@@ -2651,7 +2992,8 @@ Sama dengan saat ambil ikan.
 taruh di atas box.
 ---------------------------------------------
 [0417]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Kandang ayam penuh…
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kandang ayam penuh…
 Jika kau tetaskan telur, taka ada
 tempat utk menaruh
 pakannya. 
@@ -2917,48 +3259,57 @@ Maaf atas ketidaknyamanan ini.
 [{0FF6}]Itu dikunci...
 ---------------------------------------------
 [0462]
-[{0F72}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]Lantai 2 hanya ada tempat
+[{POPURI_MIKIR}][{0FF7}][{0FF4}][{0FF5}][{0E2A}]Lantai 2 hanya ada tempat
 tidur.    
 ---------------------------------------------
 [0463]
-[{0F7B}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Hey, hentikan beraksi dperti
+[{RICK_MARAH}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Hey, hentikan beraksi dperti
 di rumahmu.
 ---------------------------------------------
 [0464]
-[{0F7E}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Jangan kesana, [{MC_NAME}].
+[{LILIA_MIKIR}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Jangan kesana, [{MC_NAME}].
 Itu hanya kamar tidur.  
 ---------------------------------------------
 [0465]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}](Wuff-wuff-wuff…)[{PRESS}][{CLEARBOX}]
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+(Wuff-wuff-wuff…)[{PRESS}][{CLEARBOX}]
 Kau buat Hana marah…
 ---------------------------------------------
 [0466]
-[{0FDC}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Itu kamarku di sana.
+[{SAIBARA_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Itu kamarku di sana.
 Aku tak mau ada orang di sana
 kecuali teman dekat. 
 ---------------------------------------------
 [0467]
-[{0FCD}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Hey, apa yang sedang kau
+[{DOUG_MARAH}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Hey, apa yang sedang kau
 lakukan!
 Diam saja di meja itu.   
 ---------------------------------------------
 [0468]
-[{0F66}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Oh, demi tuhan agung..
+[{MANNA_SENANG}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Oh, demi tuhan agung..
 [{MC_NAME}].
 Kau tak akan temukan
 apapun yang menarik di sana.  
 ---------------------------------------------
 [0469]
-[{0F9E}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Seharusnya kau tidak
+[{ANNA_MARAH}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Seharusnya kau tidak
 mengintipi rumah orang seperti
 kau sekarang... [{MC_NAME}].
 ---------------------------------------------
 [0470]
-[{0FBC}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Hey, apa yang kau lakukan di
+[{DOKTER_MARAH}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Hey, apa yang kau lakukan di
 lantai 2 !!!
 ---------------------------------------------
 [0471]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}][{400C}] selesai di
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+[{400C}] selesai di
 Yodel Ranch itu…
 ---------------------------------------------
 [0472]
@@ -2967,20 +3318,23 @@ mata air mineral   ↘
 ↙ Dasar dari Bukit Ibu    
 ---------------------------------------------
 [0473]
-[{0FC1}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Badanmu benar-benar lemah,
+[{DOKTER_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Badanmu benar-benar lemah,
 tapi kau tidak merasa
 lelah, jadi minumlah sebotol
 Bodigizer XL dan istirahat penuh. 
 ---------------------------------------------
 [0474]
-[{0FC1}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Sepertinya kau sedikit lelah
+[{DOKTER_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Sepertinya kau sedikit lelah
 tapi buruknya badanmu
 benar2 lemah dan agak sakit. [{PRESS}][{CLEARBOX}]
 Jika kau mau obat, belilah
 sebotol Bodigizer XL ya.
 ---------------------------------------------
 [0475]
-[{0FC1}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Badanmu benar-benar lemah
+[{DOKTER_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Badanmu benar-benar lemah
 dan kau juga sangatlah
 kelelahan.
 Jangan paksakan diri hari ini. [{PRESS}][{CLEARBOX}]
@@ -2988,27 +3342,31 @@ Minum obat dan tidurlah lebih
 awal.
 ---------------------------------------------
 [0476]
-[{0FC1}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Hmmmm…ini amat serius…
+[{DOKTER_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Hmmmm…ini amat serius…
 Badanmu benar-benar lemah
 dan kau ini amat sangat
 kecapaian.[{PRESS}][{CLEARBOX}]
 Segera pergi tidur, ya..?
 ---------------------------------------------
 [0477]
-[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kau bisa pakai"Bola Nasi" untuk
+[{JEFF_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kau bisa pakai"Bola Nasi" untuk
 masakanmu atau kau bisa
 langsung makan.
 Harganya 100G sebuah.  [{PRESS}][{CLEARBOX}]
 Mau membelinya..?
 ---------------------------------------------
 [0478]
-[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kau bisa pakai "Roti" utk
+[{JEFF_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kau bisa pakai "Roti" utk
 masakanmu atau kau bisa langsung
 makan. Harganya 100G
 satunya. Mau membelinya..?
 ---------------------------------------------
 [0479]
-[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kau cuma lempar saja "Makan Ikan"
+[{JEFF_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kau cuma lempar saja "Makan Ikan"
 ke dalam kolam ikan
 setiap hari. Tak masalah berapa
 banyak ikan yg kau pelihara.
@@ -3020,11 +3378,13 @@ banyak ikan yg kau pelihara.
  Tak ada, cuma lewat  
 ---------------------------------------------
 [0481]
-[{0FDC}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Utk buat ini kau perlu
+[{SAIBARA_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Utk buat ini kau perlu
 Orichalcum dan 1000G.   
 ---------------------------------------------
 [0482]
-[{0FDC}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Utk buat ini kau perlu
+[{SAIBARA_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Utk buat ini kau perlu
 Adamantite dan 2000G.    
 ---------------------------------------------
 [0483]
@@ -3073,7 +3433,8 @@ Buku2 ini adalah
 volume 1 sampai 5...
 ---------------------------------------------
 [0491]
-[{0FF6}][{0FF5}][{0F91}][{ICON_ARROW}]"Festival2 di desa - 1 -
+[{0FF6}][{0FF5}][{BARLEY_BIASA}][{ICON_ARROW}]
+"Festival2 di desa - 1 -
 Balapan Kuda Lokal"  [{PRESS}][{CLEARBOX}]
 Desa ini mengadakan balap
 kuda lokal tgl 18 bulan
@@ -3088,7 +3449,8 @@ balapan itu. setelah tanya
 petani terdekat apa ada hal
 istimewa yang dilakukan agar  [{PRESS}][{CLEARBOX}]
 menang…[{PRESS}][{CLEARBOX}]
-[{0F91}][{0FF7}][{0FF4}][{ICON_ARROW}]"Aku tak lakukan yg spesial,
+[{BARLEY_BIASA}][{0FF7}][{0FF4}][{ICON_ARROW}]
+"Aku tak lakukan yg spesial,
 cuma sikat badannya dan sering
 bicara pdnya."[{PRESS}][{CLEARBOX}]
 "Sebenarnya, latihan
@@ -3131,7 +3493,8 @@ menahan nafas dengan waktu
 yang lama. 
 ---------------------------------------------
 [0493]
-[{0FF6}][{0FF5}][{0F7C}][{ICON_ARROW}]"festival2 di Desa - 3 -
+[{0FF6}][{0FF5}][{RICK_SENANG}][{ICON_ARROW}]
+"festival2 di Desa - 3 -
 Festival Adu ayam"   [{PRESS}][{CLEARBOX}]
 desa ini mengadakan Festival
 Ayam pd tanggal 7 bukan
@@ -3146,7 +3509,8 @@ agar keluar arena.
 Aku bicara dgn pembawa acara
 sumo ayam, yang di itu   [{PRESS}][{CLEARBOX}]
 peternak ayam....[{PRESS}][{CLEARBOX}]
-[{0F7C}][{0FF7}][{0FF4}][{ICON_ARROW}]"Orang tak latih unggas
+[{RICK_SENANG}][{0FF7}][{0FF4}][{ICON_ARROW}]
+"Orang tak latih unggas
 istimewa untuk kontes, tapi
 mereka lebih memilih ayam
 yang mereka rasa adalah  [{PRESS}][{CLEARBOX}]
@@ -3193,7 +3557,8 @@ seberapa baik kau bisa hindari
 tomat.  
 ---------------------------------------------
 [0495]
-[{0FF6}][{0FF5}][{0F4F}][{ICON_ARROW}]"Festival2 di Desa - 5 -
+[{0FF6}][{0FF5}][{ZACK_SENANG}][{ICON_ARROW}]
+"Festival2 di Desa - 5 -
 Balap Anjing"[{PRESS}][{CLEARBOX}]
 Desa ini mengadakan balap
 Anjing tgl 10 bulan winter.
@@ -3219,7 +3584,8 @@ dan lupa tentang balapannya
 itu. Kutanyakan pd hostnya
 apa dia punya petunjuk agar
 balapannya menang..[{PRESS}][{CLEARBOX}]
-[{0F4F}][{0FF7}][{0FF4}][{ICON_ARROW}]"Mudah saja. Pemiliknya tinggal
+[{ZACK_SENANG}][{0FF7}][{0FF4}][{ICON_ARROW}]
+"Mudah saja. Pemiliknya tinggal
 lari secepat kecepatan
 anjing."[{PRESS}][{CLEARBOX}]
 [{0FF6}]Itulah jawabannya.
@@ -3227,7 +3593,8 @@ Kurasa itu semua yg bisa
 ditulis.  
 ---------------------------------------------
 [0496]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]…Itu sudah benar2
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+…Itu sudah benar2
 keterlaluan sekali.[{PRESS}][{CLEARBOX}]
 Jika kau sampah dan kau
 ditempatkan dalam tong sampah
@@ -3250,7 +3617,8 @@ Sampai Sang Dewi memberimu
 sebuah ampunan...
 ---------------------------------------------
 [0497]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Kenapa orang lakukan hal
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kenapa orang lakukan hal
 yang orang lain tak sukai..?
 Apa karena mereka suka
 melihat orang lain menderita..?[{PRESS}][{CLEARBOX}]
@@ -3266,7 +3634,8 @@ Sampai Sang Dewi memberi
 sebuah ampunannya..
 ---------------------------------------------
 [0498]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Kau pelihara hewan lain
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kau pelihara hewan lain
 dgn maksud hidupi dirimu, tapi
 itu pernyataan tak alami,
 dan salah mengatakan bahwa kau  [{PRESS}][{CLEARBOX}]
@@ -3285,7 +3654,8 @@ Sampai Sang Dewi memberimu
 pengampunannya…
 ---------------------------------------------
 [0499]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Baik bagi hewan liar makan
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Baik bagi hewan liar makan
 hewan liar yang lainnya
 juga,
 Itu caranya alam ini berjalan.   [{PRESS}][{CLEARBOX}]
@@ -3302,7 +3672,8 @@ sampai Sang Dewi memberimu
 pengampunannya..
 ---------------------------------------------
 [0500]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Sakiti yang lain adalah amat
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Sakiti yang lain adalah amat
 tolol. Tingkah seperti ini cuma
 akan kembali sakiti dirinya
 sendiri. [{PRESS}][{CLEARBOX}]
@@ -3321,7 +3692,8 @@ sampai Sang Dewi memberimu
 pengampunan...
 ---------------------------------------------
 [0501]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Sang dewi lahirkan semua hewan
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Sang dewi lahirkan semua hewan
 bersamaan.
 Tak sama waktu hidupnya, tapi
 aliran waktunya sama.[{PRESS}][{CLEARBOX}]
@@ -3339,34 +3711,44 @@ mengampuni dirimu.
 [{0FF3}]Bersiap untuk Bisnis  
 ---------------------------------------------
 [0503]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Ooch
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Ooch
 ---------------------------------------------
 [0504]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Youch!
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Youch!
 ---------------------------------------------
 [0505]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Ouch
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Ouch
 ---------------------------------------------
 [0506]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}][{400F}]!
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+[{400F}]!
 ---------------------------------------------
 [0507]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Ooch
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Ooch
 ---------------------------------------------
 [0508]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}][{400F}]!
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+[{400F}]!
 ---------------------------------------------
 [0509]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Ouch
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Ouch
 ---------------------------------------------
 [0510]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Youch!
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Youch!
 ---------------------------------------------
 [0511]
-[{0FAF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Jangan keluar... [{MC_NAME}].
+[{CARTER_MARAH}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Jangan keluar... [{MC_NAME}].
 ---------------------------------------------
 [0512]
-[{0F57}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Nih…air...
+[{KAI_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Nih…air...
 Kalau ada yang lainnya,
 panggil.
 ---------------------------------------------
@@ -3459,7 +3841,8 @@ mata air panas...
 [{0FF6}]Ouch!………Terbakar...
 ---------------------------------------------
 [0535]
-[{0FE8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kami beli penggorengan dari
+[{SASHA_SENANG}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kami beli penggorengan dari
 acara belanja di Tv itu.[{PRESS}][{CLEARBOX}]
 Mereka kirimkam dalam 3 hari.
 Penggorengan yang bagus,
@@ -3476,7 +3859,8 @@ perempuannya…
 Telah siap bila kembali...
 ---------------------------------------------
 [0538]
-[{0F87}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Itu hanya jam tua yang harus
+[{THOMAS_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Itu hanya jam tua yang harus
 kau atur setiap harinya. 
 ---------------------------------------------
 [0539]
@@ -3526,7 +3910,8 @@ dia… Kau amat hebat…
 [{0FF6}]Semuanya ditutup 
 ---------------------------------------------
 [0547]
-[{0FC8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Hey, apa yang kau lakukan!
+[{ANN_MARAH}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Hey, apa yang kau lakukan!
 Aku sibuk jadi pergilah
 sana, OK?
 ---------------------------------------------
@@ -3825,7 +4210,8 @@ tempat utk simpan semua ini
 [{0FF6}]Pohon Apel   
 ---------------------------------------------
 [0584]
-[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Itu adl ransel.
+[{JEFF_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Itu adl ransel.
 Itu bisa tampung dua kali lipat
 ransel milikmu. Harganya
 5000G. Mau membelinya?!
@@ -3843,7 +4229,8 @@ Suara anggur sedang dibuat...
 [{0FF6}]Banyak perhiasan kecil desa.
 ---------------------------------------------
 [0588]
-[{0F62}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Daun-daun itu bisa dijadikan
+[{ELLEN_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Daun-daun itu bisa dijadikan
 obat. Itu bagus untuk luka kecil
 dan terbakar dan juga
 mual sakit perut.[{PRESS}][{CLEARBOX}]
@@ -3851,24 +4238,28 @@ Kuminta Sasha utk bawa pulang
 utk Jeff. 
 ---------------------------------------------
 [0589]
-[{0F62}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Ada kebakaran kecil di
+[{ELLEN_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Ada kebakaran kecil di
 sana. Stu mengatasinya untukku
 saat aku akan memasak.
 Dia berdiri di kursi di sana....
 ---------------------------------------------
 [0590]
-[{0F62}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Aku sama sekali tak gunakan
+[{ELLEN_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Aku sama sekali tak gunakan
 dapur lagi.
 Cuma saat Elli pulang aja…
 ---------------------------------------------
 [0591]
-[{0F87}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Aku gunakan alat2 makan saat
+[{THOMAS_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Aku gunakan alat2 makan saat
 datang tamu2 ke
 sini.
 Aku jarang makan di rumah. 
 ---------------------------------------------
 [0592]
-[{0FE8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Jeff menggambar itu.
+[{SASHA_SENANG}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Jeff menggambar itu.
 Lumayan juga, benar?
 ---------------------------------------------
 [0593]
@@ -3909,7 +4300,8 @@ senang..
 murung..
 ---------------------------------------------
 [0603]
-[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Kau taruh Pakan Ikan dalam
+[{JEFF_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Kau taruh Pakan Ikan dalam
 Kolam Ikan.
 Cuma sehari satu, tak masalah
 banyaknya ikan yg ada.
@@ -3979,7 +4371,8 @@ Chibi kecil...?
 Tim?!
 ---------------------------------------------
 [0618]
-[{0FE8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Jeff menamakannya Gauguin,
+[{SASHA_SENANG}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Jeff menamakannya Gauguin,
 meskipun itu perempuan.  
 ---------------------------------------------
 [0619]
@@ -3988,39 +4381,47 @@ urus kucing…
 Mereka di sini betah?!
 ---------------------------------------------
 [0620]
-[{0F4B}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]OK, kulakukan yg terbaik, budum.
+[{KURCACIMERAH_YES}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+OK, kulakukan yg terbaik, budum.
 Aku akan bangun pagi
 mebuat makanan budum.
 ---------------------------------------------
 [0621]
-[{0F02}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]OK, aku akan ke
+[{KURCACIOREN_YES}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+OK, aku akan ke
 kebun, budum! Besok aku akan
 bermain…ahem…
 akan bekerja budum!
 ---------------------------------------------
 [0622]
-[{0EFA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]OK, aku akan berusaha yah…
+[{KURCACIHIJAU_NO}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+OK, aku akan berusaha yah…
 budum…
 ---------------------------------------------
 [0623]
-[{0F0E}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]aku kan berusaha tidak
+[{KURCACIKUNING_NO}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+aku kan berusaha tidak
 ketiduran dan datang, budum.
 ---------------------------------------------
 [0624]
-[{0F16}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]OK!
+[{KURCACIBIRU_YES}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+OK!
 Aku kan bantu sebisanya budum!
 ---------------------------------------------
 [0625]
-[{0F0C}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Serahkan padaku!
+[{KURCACIUNGU_YES}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Serahkan padaku!
 Akan cepat kukerjakan budum!
 ---------------------------------------------
 [0626]
-[{0F07}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]OK…Besok aku akan datang
+[{KURCACIBIRUMUDA_YES}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+OK…Besok aku akan datang
 dgn pakaian
 yg kurang bergaya, budum.
 ---------------------------------------------
 [0627]
-[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Itu adalah bibit buah dan
+[{JEFF_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Itu adalah bibit buah dan
 sayuran. Kami menjual bibit untuk
 Summer sekarang tapi jika
 punya hothouse kau bisa menanam[{PRESS}][{CLEARBOX}]
@@ -4032,7 +4433,8 @@ Apa ada bibit tertentu yang
 ingin kau beli hah?
 ---------------------------------------------
 [0628]
-[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Itu adalah bibit buah dan
+[{JEFF_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Itu adalah bibit buah dan
 sayuran. Kami jual bibit untuk
 Fall sekarang tapi jika punya
 hothouse kau bisa menanamnya[{PRESS}][{CLEARBOX}]
@@ -4044,7 +4446,8 @@ Apa ada bibit tertentu yang
 ingin kau beli hah?
 ---------------------------------------------
 [0629]
-[{0FEF}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Yang di sana itu adalah bibit
+[{JEFF_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Yang di sana itu adalah bibit
 buah dan sayuran. Jika kau
 punya hothouse kau bisa menanam
 bibit kapan pun per tahun.[{PRESS}][{CLEARBOX}]
@@ -4064,42 +4467,52 @@ ambil ikan.
 Keduanya seperti  [{400C}]…
 ---------------------------------------------
 [0632]
-[{0F8E}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Maaf, tapi maukah kau
+[{BARLEY_SEDIH}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Maaf, tapi maukah kau
 pulang dulu sekarang.
 ---------------------------------------------
 [0633]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]Ouch
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Ouch
 ---------------------------------------------
 [0634]
-[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}][{400F}]!
+[{0FF6}][{0FF4}][{0FF5}][{ICON_ARROW}]
+[{400F}]!
 ---------------------------------------------
 [0635]
-[{0FB8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}][{MC_NAME}]…bilang sesuatu
+[{ELLI_MARAH}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]
+[{MC_NAME}]…bilang sesuatu
 ke Popuri!
 ---------------------------------------------
 [0636]
-[{0FB8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}][{MC_NAME}]…bilang sesuatu
+[{ELLI_MARAH}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]
+[{MC_NAME}]…bilang sesuatu
 pd Ann!
 ---------------------------------------------
 [0637]
-[{0FBE}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}][{MC_NAME}]…bilang sesuatu
+[{DOKTER_SEDIH}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+[{MC_NAME}]…bilang sesuatu
 ke Elli!
 ---------------------------------------------
 [0638]
-[{0FB8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}][{MC_NAME}]…bilang sesuatu
+[{ELLI_MARAH}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]
+[{MC_NAME}]…bilang sesuatu
 ke Karen!
 ---------------------------------------------
 [0639]
-[{0FB8}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}][{MC_NAME}]…bilang sesuatu
+[{ELLI_MARAH}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]
+[{MC_NAME}]…bilang sesuatu
 ke Mary!
 ---------------------------------------------
 [0640]
-[{0FCC}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Maafkan, tokonya sedang
+[{DOUG_SEDIH}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Maafkan, tokonya sedang
 berantakan.
 Tolong kembali nanti. 
 ---------------------------------------------
 [0641]
-[{0F91}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Sapi dan domba akan datang
+[{BARLEY_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]
+Sapi dan domba akan datang
 saat kau bunyikan lonceng,
 amat berguna saat kau mau memasukkan
 ke dalam kandang.  [{PRESS}][{CLEARBOX}]
