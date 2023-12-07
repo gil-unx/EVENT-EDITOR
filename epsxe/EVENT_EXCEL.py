@@ -7,7 +7,7 @@ from FUN import *
 from PIL import Image
 from PyTexturePacker import main
 from TEXTEDITOR import *
-dicNpc = {}
+dicNpc = {"MC":41}
 dicItem = {}
 def repackCode(s):
     comand = s[1]
