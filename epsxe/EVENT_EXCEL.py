@@ -117,7 +117,17 @@ def repackCode(s):
         a1 = int(s[6][1:-1])
         a2 = int(s[7][1:-1])
         a3 = int(s[8][1:-1])
+    elif comand == "MC-EAT-DRINK":
+        a0 = DICT_ITEM[s[5][1:-1]]
+        a1 = int(s[6][1:-1])
+        a2 = int(s[7][1:-1])
+        a3 = int(s[8][1:-1])
     elif comand == "DELAY":
+        a0 = int(s[5][1:-1])
+        a1 = int(s[6][1:-1])
+        a2 = int(s[7][1:-1])
+        a3 = int(s[8][1:-1])
+    elif comand == "SOUND-EFFECT":
         a0 = int(s[5][1:-1])
         a1 = int(s[6][1:-1])
         a2 = int(s[7][1:-1])
