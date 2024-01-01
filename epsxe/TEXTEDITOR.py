@@ -436,7 +436,7 @@ def ex():
             text = io.BytesIO(f.read(0x800))
             cc = struct.unpack("<H",  text.read(2))[0]
             text.seek(0)
-            fileSave(faceData,messName[:-12]+"/FACEDATA/{0}.bin".format(cc))
+            fileSave(faceData,messName[:-12]+"/FACEDATA/{0:04X}.bin".format(cc))
             while d := text.read(2):
                 c = struct.unpack("<H", d)[0]
                 if c == 0xffff:
@@ -479,10 +479,10 @@ def insertText():
             stringText = txt.rt()[:-1]
             cc = stringText[2:6]
             try:
-                
                 faceD = open(messName[:-12]+"/FACEDATA/{0}.bin".format(cc),"rb")
-                faceD.seek(4)
+                f.seek(-4,1)
                 f.write(faceD.read())
+                print("Sip")
             except:
                 f.read(0x1800-4)
             bstring = String(stringText, inv_table)
@@ -497,3 +497,8 @@ def insertText():
             iso.read(0x130)
         i+=1
     print("INSERT TEXT DONE!!!")
+if __name__ == "__main__":
+   insertText()
+    
+        
+    
