@@ -1,0 +1,565 @@
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\ANN_FEST\BINARY\0000.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\ANN_FEST\BINARY\0002.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\ANN_FEST\BINARY\0003.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\ANN_FEST\BINARY\0004.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\ANN_FEST\BINARY\0005.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\ANN_FEST\BINARY\0006.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\ANN_FEST\BINARY\0007.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\ANN_FEST\BINARY\0008.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\ANN_FEST\BINARY\0009.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\ANN_FEST\BINARY\0010.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\ANN_FEST\BINARY\0011.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\ANN_FEST\BINARY\0012.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\ANN_FEST\BINARY\0013.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\ANN_FEST\BINARY\0014.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\ANN_FEST\BINARY\0015.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\ANN_FEST\BINARY\0016.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\ANN_FEST\BINARY\0017.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\ANN_FEST\BINARY\0018.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\CLAIRE_FEST\BINARY\0000.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\CLAIRE_FEST\BINARY\0002.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\CLAIRE_FEST\BINARY\0003.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\CLAIRE_FEST\BINARY\0004.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\CLAIRE_FEST\BINARY\0005.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\CLAIRE_FEST\BINARY\0006.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\CLAIRE_FEST\BINARY\0007.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\CLAIRE_FEST\BINARY\0008.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\CLAIRE_FEST\BINARY\0009.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\CLAIRE_FEST\BINARY\0010.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\CLAIRE_FEST\BINARY\0011.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\CLAIRE_FEST\BINARY\0012.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\CLAIRE_FEST\BINARY\0013.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\CLAIRE_FEST\BINARY\0014.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\CLAIRE_FEST\BINARY\0015.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\CLAIRE_FEST\BINARY\0016.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\CLAIRE_FEST\BINARY\0017.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\CLAIRE_FEST\BINARY\0018.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\ELLI_FEST\BINARY\0000.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\ELLI_FEST\BINARY\0002.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\ELLI_FEST\BINARY\0003.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\ELLI_FEST\BINARY\0004.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\ELLI_FEST\BINARY\0005.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\ELLI_FEST\BINARY\0006.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\ELLI_FEST\BINARY\0007.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\ELLI_FEST\BINARY\0008.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\ELLI_FEST\BINARY\0009.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\ELLI_FEST\BINARY\0010.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\ELLI_FEST\BINARY\0011.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\ELLI_FEST\BINARY\0012.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\ELLI_FEST\BINARY\0013.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\ELLI_FEST\BINARY\0014.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\ELLI_FEST\BINARY\0015.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\ELLI_FEST\BINARY\0016.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\ELLI_FEST\BINARY\0017.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\ELLI_FEST\BINARY\0018.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\KAREN_FEST\BINARY\0000.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\KAREN_FEST\BINARY\0002.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\KAREN_FEST\BINARY\0003.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\KAREN_FEST\BINARY\0004.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\KAREN_FEST\BINARY\0005.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\KAREN_FEST\BINARY\0006.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\KAREN_FEST\BINARY\0007.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\KAREN_FEST\BINARY\0008.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\KAREN_FEST\BINARY\0009.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\KAREN_FEST\BINARY\0010.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\KAREN_FEST\BINARY\0011.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\KAREN_FEST\BINARY\0012.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\KAREN_FEST\BINARY\0013.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\KAREN_FEST\BINARY\0014.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\KAREN_FEST\BINARY\0015.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\KAREN_FEST\BINARY\0016.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\KAREN_FEST\BINARY\0017.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\KAREN_FEST\BINARY\0018.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\KAREN_FEST\BINARY\0019.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\KAREN_FEST\BINARY\0020.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\KAREN_FEST\BINARY\0021.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\KAREN_FEST\BINARY\0022.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\MARRY_FEST\BINARY\0000.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\MARRY_FEST\BINARY\0002.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\MARRY_FEST\BINARY\0003.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\MARRY_FEST\BINARY\0004.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\MARRY_FEST\BINARY\0005.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\MARRY_FEST\BINARY\0006.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\MARRY_FEST\BINARY\0007.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\MARRY_FEST\BINARY\0008.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\MARRY_FEST\BINARY\0009.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\MARRY_FEST\BINARY\0010.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\MARRY_FEST\BINARY\0011.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\MARRY_FEST\BINARY\0012.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\MARRY_FEST\BINARY\0013.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\MARRY_FEST\BINARY\0014.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\MARRY_FEST\BINARY\0015.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\MARRY_FEST\BINARY\0016.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\MARRY_FEST\BINARY\0017.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\MARRY_FEST\BINARY\0018.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\MARRY_FEST\BINARY\0019.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\MARRY_FEST\BINARY\0020.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\POPURI_FEST\BINARY\0000.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\POPURI_FEST\BINARY\0002.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\POPURI_FEST\BINARY\0003.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\POPURI_FEST\BINARY\0004.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\POPURI_FEST\BINARY\0005.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\POPURI_FEST\BINARY\0006.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\POPURI_FEST\BINARY\0007.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\POPURI_FEST\BINARY\0008.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\POPURI_FEST\BINARY\0009.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\POPURI_FEST\BINARY\0010.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\POPURI_FEST\BINARY\0011.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\POPURI_FEST\BINARY\0012.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\POPURI_FEST\BINARY\0013.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\POPURI_FEST\BINARY\0014.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\POPURI_FEST\BINARY\0015.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\POPURI_FEST\BINARY\0016.bin'
+
+
+Done
+- encoding 'C:\Users\ThinkPad\Documents\GitHub\EVENT-EDITOR\epsxe\HHMBTNI\NPC\POPURI_FEST\BINARY\0017.bin'
+
+
+Done
+NPC\ANN_FEST\BINARY\0000.bin
+NPC\ANN_FEST\BINARY\0002.bin
+NPC\ANN_FEST\BINARY\0003.bin
+NPC\ANN_FEST\BINARY\0004.bin
+NPC\ANN_FEST\BINARY\0005.bin
+NPC\ANN_FEST\BINARY\0006.bin
+NPC\ANN_FEST\BINARY\0007.bin
+NPC\ANN_FEST\BINARY\0008.bin
+NPC\ANN_FEST\BINARY\0009.bin
+NPC\ANN_FEST\BINARY\0010.bin
+NPC\ANN_FEST\BINARY\0011.bin
+NPC\ANN_FEST\BINARY\0012.bin
+NPC\ANN_FEST\BINARY\0013.bin
+NPC\ANN_FEST\BINARY\0014.bin
+NPC\ANN_FEST\BINARY\0015.bin
+NPC\ANN_FEST\BINARY\0016.bin
+NPC\ANN_FEST\BINARY\0017.bin
+NPC\ANN_FEST\BINARY\0018.bin
+NPC\CLAIRE_FEST\BINARY\0000.bin
+NPC\CLAIRE_FEST\BINARY\0002.bin
+NPC\CLAIRE_FEST\BINARY\0003.bin
+NPC\CLAIRE_FEST\BINARY\0004.bin
+NPC\CLAIRE_FEST\BINARY\0005.bin
+NPC\CLAIRE_FEST\BINARY\0006.bin
+NPC\CLAIRE_FEST\BINARY\0007.bin
+NPC\CLAIRE_FEST\BINARY\0008.bin
+NPC\CLAIRE_FEST\BINARY\0009.bin
+NPC\CLAIRE_FEST\BINARY\0010.bin
+NPC\CLAIRE_FEST\BINARY\0011.bin
+NPC\CLAIRE_FEST\BINARY\0012.bin
+NPC\CLAIRE_FEST\BINARY\0013.bin
+NPC\CLAIRE_FEST\BINARY\0014.bin
+NPC\CLAIRE_FEST\BINARY\0015.bin
+NPC\CLAIRE_FEST\BINARY\0016.bin
+NPC\CLAIRE_FEST\BINARY\0017.bin
+NPC\CLAIRE_FEST\BINARY\0018.bin
+NPC\ELLI_FEST\BINARY\0000.bin
+NPC\ELLI_FEST\BINARY\0002.bin
+NPC\ELLI_FEST\BINARY\0003.bin
+NPC\ELLI_FEST\BINARY\0004.bin
+NPC\ELLI_FEST\BINARY\0005.bin
+NPC\ELLI_FEST\BINARY\0006.bin
+NPC\ELLI_FEST\BINARY\0007.bin
+NPC\ELLI_FEST\BINARY\0008.bin
+NPC\ELLI_FEST\BINARY\0009.bin
+NPC\ELLI_FEST\BINARY\0010.bin
+NPC\ELLI_FEST\BINARY\0011.bin
+NPC\ELLI_FEST\BINARY\0012.bin
+NPC\ELLI_FEST\BINARY\0013.bin
+NPC\ELLI_FEST\BINARY\0014.bin
+NPC\ELLI_FEST\BINARY\0015.bin
+NPC\ELLI_FEST\BINARY\0016.bin
+NPC\ELLI_FEST\BINARY\0017.bin
+NPC\ELLI_FEST\BINARY\0018.bin
+NPC\KAREN_FEST\BINARY\0000.bin
+NPC\KAREN_FEST\BINARY\0002.bin
+NPC\KAREN_FEST\BINARY\0003.bin
+NPC\KAREN_FEST\BINARY\0004.bin
+NPC\KAREN_FEST\BINARY\0005.bin
+NPC\KAREN_FEST\BINARY\0006.bin
+NPC\KAREN_FEST\BINARY\0007.bin
+NPC\KAREN_FEST\BINARY\0008.bin
+NPC\KAREN_FEST\BINARY\0009.bin
+NPC\KAREN_FEST\BINARY\0010.bin
+NPC\KAREN_FEST\BINARY\0011.bin
+NPC\KAREN_FEST\BINARY\0012.bin
+NPC\KAREN_FEST\BINARY\0013.bin
+NPC\KAREN_FEST\BINARY\0014.bin
+NPC\KAREN_FEST\BINARY\0015.bin
+NPC\KAREN_FEST\BINARY\0016.bin
+NPC\KAREN_FEST\BINARY\0017.bin
+NPC\KAREN_FEST\BINARY\0018.bin
+NPC\KAREN_FEST\BINARY\0019.bin
+NPC\KAREN_FEST\BINARY\0020.bin
+NPC\KAREN_FEST\BINARY\0021.bin
+NPC\KAREN_FEST\BINARY\0022.bin
+NPC\MARRY_FEST\BINARY\0000.bin
+NPC\MARRY_FEST\BINARY\0002.bin
+NPC\MARRY_FEST\BINARY\0003.bin
+NPC\MARRY_FEST\BINARY\0004.bin
+NPC\MARRY_FEST\BINARY\0005.bin
+NPC\MARRY_FEST\BINARY\0006.bin
+NPC\MARRY_FEST\BINARY\0007.bin
+NPC\MARRY_FEST\BINARY\0008.bin
+NPC\MARRY_FEST\BINARY\0009.bin
+NPC\MARRY_FEST\BINARY\0010.bin
+NPC\MARRY_FEST\BINARY\0011.bin
+NPC\MARRY_FEST\BINARY\0012.bin
+NPC\MARRY_FEST\BINARY\0013.bin
+NPC\MARRY_FEST\BINARY\0014.bin
+NPC\MARRY_FEST\BINARY\0015.bin
+NPC\MARRY_FEST\BINARY\0016.bin
+NPC\MARRY_FEST\BINARY\0017.bin
+NPC\MARRY_FEST\BINARY\0018.bin
+NPC\MARRY_FEST\BINARY\0019.bin
+NPC\MARRY_FEST\BINARY\0020.bin
+NPC\POPURI_FEST\BINARY\0000.bin
+NPC\POPURI_FEST\BINARY\0002.bin
+NPC\POPURI_FEST\BINARY\0003.bin
+NPC\POPURI_FEST\BINARY\0004.bin
+NPC\POPURI_FEST\BINARY\0005.bin
+NPC\POPURI_FEST\BINARY\0006.bin
+NPC\POPURI_FEST\BINARY\0007.bin
+NPC\POPURI_FEST\BINARY\0008.bin
+NPC\POPURI_FEST\BINARY\0009.bin
+NPC\POPURI_FEST\BINARY\0010.bin
+NPC\POPURI_FEST\BINARY\0011.bin
+NPC\POPURI_FEST\BINARY\0012.bin
+NPC\POPURI_FEST\BINARY\0013.bin
+NPC\POPURI_FEST\BINARY\0014.bin
+NPC\POPURI_FEST\BINARY\0015.bin
+NPC\POPURI_FEST\BINARY\0016.bin
+NPC\POPURI_FEST\BINARY\0017.bin
