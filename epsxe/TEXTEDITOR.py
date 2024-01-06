@@ -482,7 +482,6 @@ def insertText():
                 faceD = open(messName[:-12]+"/FACEDATA/{0}.bin".format(cc),"rb")
                 f.seek(-4,1)
                 f.write(faceD.read())
-                print("Sip")
             except:
                 f.read(0x1800-4)
             bstring = String(stringText, inv_table)
