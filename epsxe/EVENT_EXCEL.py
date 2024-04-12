@@ -429,35 +429,35 @@ def Main():
                 eventPos = EVENTS_POS[idx]
                 print("INSERT >>",nameSheet)
                 eventInsert(sheet,eventIdx,eventPos,triggerPos,20, 20, -64,256)
-                disableDailyNpc = str(sheet.cell(row=4, column=10).value)
-                targetSaveState = int(sheet.cell(row=4, column=11).value)
-                if idx ==1:
-                    
-                    if disableDailyNpc == "YES":
-                        try:
-                            
-                            dec = gzip.decompress(open("sstates/SLUS_011.15.{0:03d}".format(targetSaveState-1),"rb").read())
-                            dat = io.BytesIO(dec)
-                            for dailyPos in disNpc:
-                                dat.seek(dailyPos,0)
-                                dat.write(b"\x00\x00\x00\x00")
-                            dat.seek(0,0)
-                            out =  open("sstates/SLUS_011.15.{0:03d}".format(targetSaveState-1),"wb").write(gzip.compress(dat.read()))
-                        except:
-                            continue
-                    else:
-                        try:
-                            
-                            dec = gzip.decompress(open("sstates/SLUS_011.15.{0:03d}".format(targetSaveState-1),"rb").read())
-                            dat = io.BytesIO(dec)
-                            for dailyPos in disNpc:
-                                dat.seek(dailyPos,0)
-                                dat.write(b"\xAA\xF5\x02\x0C")
-                            dat.seek(0,0)
-                            out =  open("sstates/SLUS_011.15.{0:03d}".format(targetSaveState-1),"wb").write(gzip.compress(dat.read()))
-                        except:
-                            continue
-                
+                #disableDailyNpc = str(sheet.cell(row=4, column=10).value)
+                #targetSaveState = int(sheet.cell(row=4, column=11).value)
+                #if idx ==1:
+                #    
+                #    if disableDailyNpc == "YES":
+                #        try:
+                #            
+                #            dec = gzip.decompress(open("sstates/SLUS_011.15.{0:03d}".format(targetSaveState-1),"rb").read())
+                #            dat = io.BytesIO(dec)
+                #            for dailyPos in disNpc:
+                #                dat.seek(dailyPos,0)
+                #                dat.write(b"\x00\x00\x00\x00")
+                #            dat.seek(0,0)
+                #            out =  open("sstates/SLUS_011.15.{0:03d}".format(targetSaveState-1),"wb").write(gzip.compress(dat.read()))
+                #        except:
+                #            continue
+                #    else:
+                #        try:
+                #            
+                #            dec = gzip.decompress(open("sstates/SLUS_011.15.{0:03d}".format(targetSaveState-1),"rb").read())
+                #            dat = io.BytesIO(dec)
+                #            for dailyPos in disNpc:
+                #                dat.seek(dailyPos,0)
+                #                dat.write(b"\xAA\xF5\x02\x0C")
+                #            dat.seek(0,0)
+                #            out =  open("sstates/SLUS_011.15.{0:03d}".format(targetSaveState-1),"wb").write(gzip.compress(dat.read()))
+                #        except:
+                #            continue
+                #
             else:
                 continue
             
