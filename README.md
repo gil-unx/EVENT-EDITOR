@@ -40,23 +40,21 @@ Berisi hampir semua  text npc dan item name+deskripsi(kecuali system).
 
 Sample text Npc  messege1/index32 |
 ------------ |
-[{0FCB}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Tidak, ini masalah pribadi...		|
+[{DOUG_MIKIR}][{0FF7}][{0FF4}][{0FF5}][{ICON_ARROW}]Tidak, ini masalah pribadi...		|
 
 
 Sample text Npc  messege1/index42 |
 ------------ |
-[{0FBA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Kau harusny ke Dokter jika merasa sakit....
+[{ELLI_BIASA}][{0FF7}][{0FF4}][{0FF5}][{ICON_ELLI_HEART}]Kau harusny ke Dokter jika merasa sakit....
 
 
 [0032],[0042] = Index txt
 
-[{0FCB}] = Ctrl code face Doug
-[{0FBA}] = Ctrl code face Elli
+[{DOUG_MIKIR}] = Ctrl code face Doug
+[{ELLI_BIASA}] = Ctrl code face Elli
 
-lihat folder LISTFACE/, tidak saya kasih table menjadi [{FACE_XXXX}] karena nanti text susah dibaca, dan diedit,
-kepanjangan juga,
-males juga sih :v.
-bisa diganti dengan face yang diperlukan.
+lihat folder LISTFACE untuk list facenya.
+Bisa diganti dengan face yang diperlukan.
 Fix delay tampilin face npc.
 
 [{ICON_ARROW}] = Tampilan icon panah di textbox kanan bawah
@@ -88,8 +86,9 @@ floating icon(digunakan dalam command FLOATING-ICON)
 - Kolom I = A3/Argument 3
 - Kolom J = Insert option, isi J2 dengan YES/NO
 - Kolom K =Target map yang dikasih trigger event(event tidak akan ter-trigger jika sama harinya dengan system event seperti festival).
-- Kolom L = Nama npc yang akan dimasukan dalam event(jika sprite npc display error, masukan 2 kali npcnya pada baris yang selang seling).
-- Kolom M = Nama Item yang akan dimasukan dalam event(jika sprite item display error, maka baris yang error isi dengan item lain, dan isi baris selanjutnya dengan item yang diperlukan).
+- Kolom L = Nama Item yang akan dimasukan dalam event(jika sprite item display error, maka baris yang error isi dengan item lain, dan isi baris selanjutnya dengan item yang diperlukan).
+- Kolom M = Nama npc yang akan dimasukan dalam event(jika sprite npc display error, masukan 2 kali npcnya pada baris yang selang seling).
+- Kolom N-AC = List Animation yang digunakan. Standardnya 0,1,2,3,4 . 0 untuk idle 4 direction, 1-4 untuk move animation 4 arah, 5~ untuk animation lainnya, expresion dll, cek file .gif di folder npc.
 
 ## AXIS
 Sebenarnya sih standar aja , cuma sumbu Z minus dan plusnya terbalik

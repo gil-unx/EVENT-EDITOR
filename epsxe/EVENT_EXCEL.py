@@ -19,6 +19,14 @@ def repackCode(s):
     v0 = int(s[2])
     v1 = int(s[3])
     v2 = int(s[4])
+    if code == -1:
+        code = 255
+    if v0 == -1:
+        v0 = 255
+    if v1 == -1:
+        v1 = 255
+    if v2 == -1:
+        v2 = 255
     if comand == "MOVE-NPC":
         a0 = int(dicNpc[s[5][1:-1]])
         a1 = int(inv_direction[s[6][1:-1]])
@@ -109,7 +117,11 @@ def repackCode(s):
 
     elif comand == "MC-ACTION":
         a0 = int(s[5][1:-1])
-        a1 = mcActDict[s[6]]
+        try:
+            
+            a1 = mcActDict[s[6]]
+        except:
+            a1=int(s[5][1:-1])
         a2 = int(inv_direction[s[7][1:-1]])
         a3 = int(s[8][1:-1])
     elif comand == "SET-MC-DIR":
@@ -138,7 +150,7 @@ def repackCode(s):
         a2 = int(s[7][1:-1])
         a3 = int(s[8][1:-1])
     elif comand == "MOVE-NPC(SP1)":
-        a0 = int(s[5][7:-1])
+        a0 = int(dicNpc[s[5][1:-1]])
         a1 = int(inv_direction[s[6][1:-1]])
         a2 = int(s[7][1:-1])
         a3 = int(s[8][10:-1])
@@ -147,7 +159,7 @@ def repackCode(s):
         a1 = int(s[6])
         a2 = int(s[7])
         a3 = int(s[8])
-    return struct.pack("<4bhh2i", code, v0, v1, v2, a0, a1, a2, a3)
+    return struct.pack("<4Bhh2i", code, v0, v1, v2, a0, a1, a2, a3)
 
 
 def Encode(jso, npcName):
@@ -220,6 +232,9 @@ class Event:
             newEv.writeUint8(32)
         newEv.writeUint16(0x8000)
         newEv.writeUint16(0x4000)
+        if newEv.tell() > 0x34:
+            print("NPC/ITEM KEBANYAKAN!!!")
+            sys.exit()
         newEv.wpad(0x34)
         # <init>
         palettes = Br(io.BytesIO())
@@ -257,21 +272,30 @@ class Event:
                 x, y, w, h = js[npcName]["RAM_INFO"][i]
                 tile = Br(open(jsName + "/BINARY/{0:04d}.bin".format(i), "r+b"))
                 tile.read(2)
-                js[npcName]["RAM_INFO"][i] =  (vramPos[key]["x"]//4)+vramPos[key]["ref"], vramPos[key]["y"], w, h
+                try:
+                    js[npcName]["RAM_INFO"][i] =  (vramPos[key]["x"]//4)+vramPos[key]["ref"], vramPos[key]["y"], w, h
+                except:
+                    js[npcName]["RAM_INFO"][i] =[0,0,0,0]
+                x, y, w, h = js[npcName]["RAM_INFO"][i]
                 if h == 1:
                     tile.write(b"\x00\x04")
                     tile.write(struct.pack("<hhhh", *js[npcName]["RAM_INFO"][i]))
                     palettes.write(tile.getdata())
                     palettes.wpad(4)
+                    totalSpr += 1
+                elif h == 0:
+                    continue
                 else:
                     tile.read(2)
                     tile.write(struct.pack("<hhhh", *js[npcName]["RAM_INFO"][i]))
                     tiles.write(tile.getdata())
                     tiles.wpad(4)
-                totalSpr += 1
+                    totalSpr += 1
+                    
             filesOffset.append(files.tell())
             files.write(Encode(js, npcName))
         filesOffset.append(files.tell())
+        print(totalSpr)
         files.write(struct.pack("<HH", 0x100d, totalSpr) + palettes.getdata()+tiles.getdata())
         filesOffset.append(files.tell())
         i = 1
@@ -314,11 +338,28 @@ def eventInsert(sheet,eventIdx,eventPos,triggerPos,item,npc,vX,vY):
     npcs = []
     i = 1
     while i < npc:
-        npcname = sheet.cell(row=1 + i, column=12).value
+        npcname = sheet.cell(row=1 + i, column=13).value
         if npcname:
             npcs.append("HHMBTNI/NPC/" + npcname)
             dicNpc.update({npcname:i})
-            sprites.extend(glob.glob("HHMBTNI/NPC/" + npcname+"/SPRITE/*.png"))
+            js = json.loads(open("HHMBTNI/NPC/" + npcname+"/INFO.json", "r").read())
+            animation = []
+            for animationIndex in range(20):
+                animI = sheet.cell(row=1 + i, column=14 + animationIndex).value
+                if animI:
+                    animation.append(int(animI))
+            for z in animation:
+                for x in js[npcname]["ANIMATION"][z]:
+                    idx = js[npcname]["DICT"][x[0]][1]//12
+                    pngIndex = "HHMBTNI/NPC/" + npcname+"/SPRITE/{0:04d}.png".format(js[npcname]["ANIM_INFO"][idx][0])
+                    palIndex = "HHMBTNI/NPC/" + npcname+"/SPRITE/{0:04d}.png".format(js[npcname]["ANIM_INFO"][idx][1])
+                    if pngIndex not in sprites :
+                         sprites.append(pngIndex)
+                    if palIndex not in sprites :
+                         sprites.append(palIndex)
+                   
+                    
+            #sprites.extend(glob.glob("HHMBTNI/NPC/" + npcname+"/SPRITE/*.png"))
         i += 1
         
     items.append("HHMBTNI/ITEM/0000")
@@ -326,7 +367,7 @@ def eventInsert(sheet,eventIdx,eventPos,triggerPos,item,npc,vX,vY):
     sprites.extend(glob.glob("HHMBTNI/ITEM/0000/SPRITE/*.png"))
     i = 2
     while i < item:
-        itemname = sheet.cell(row=1 + i-1, column=13).value
+        itemname = sheet.cell(row=1 + i-1, column=12).value
         if itemname:
             items.append("HHMBTNI/ITEM/" + "{0:04d}".format(DICT_ITEM[itemname]))
             dicItem.update({"{0:04d}".format(DICT_ITEM[itemname]):i-1})
@@ -354,9 +395,10 @@ def eventInsert(sheet,eventIdx,eventPos,triggerPos,item,npc,vX,vY):
     ev = Event(data)
     buffEvent = ev.insert(items, npcs,vramPos, sheet)
     newEvent = io.BytesIO(buffEvent)
+    open("ef.bin","wb").write(buffEvent)
     eventSize = len(buffEvent)
     if eventSize > 0x32000:
-        print("Max size terlewati!!\nInsert Gagal")
+        print("Max size terlewati!!\nInsert Gagal",hex(eventSize))
         sys.exit()
 
     print("REPACK EVENT SIP!")
