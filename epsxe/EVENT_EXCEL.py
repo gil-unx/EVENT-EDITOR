@@ -295,7 +295,7 @@ class Event:
             filesOffset.append(files.tell())
             files.write(Encode(js, npcName))
         filesOffset.append(files.tell())
-        print(totalSpr)
+        print("Total sprite dalam event :",totalSpr)
         files.write(struct.pack("<HH", 0x100d, totalSpr) + palettes.getdata()+tiles.getdata())
         filesOffset.append(files.tell())
         i = 1
